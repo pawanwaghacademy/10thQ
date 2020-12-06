@@ -2,122 +2,122 @@
     
     {
         "QorL":"Q",
-        "question":"",
+        "question":"One says, ’Give me a hundred, friend! I shall then become twice as rich as you.’ The other replies,’If you give me ten, I shall be six times as rich as you.’ Tell me what is the amount of their respective capital?",
         "options":
         [
-            "",
-            "",
-            "",
-            ""
+            "Rs.40, Rs.170",
+            "Rs.50, Rs.100",
+            "Rs.40, Rs.180",
+            "Rs.45, Rs.170"
         ],
-        "correctAns": ""
+        "correctAns": "Rs.40, Rs.170"
     },
     {
         "QorL":"Q",
-        "question":"",
+        "question":"5 pens and 6 pencils together cost Rs.9 and pens and 2 pencils cost Rs.5. Find the cost of 1 pen.",
         "options":
         [
-            "",
-            "",
-            "",
-            ""
+            "Rs.3",
+            "Rs.2/3",
+            "Rs.6",
+            "Rs.3/2"
         ],
-        "correctAns": ""
+        "correctAns": "Rs.3/2"
     },
     {
         "QorL":"Q",
-        "question":"",
+        "question":"A lending library has a fixed charge for the first three days and an additional charge for each day thereafter. Saritha paid Rs.27 for a book kept for seven days, while Susy paid Rs.21 for the book she kept for five days. Find the fixed charge and the charge for each extra day.",
         "options":
         [
-            "",
-            "",
-            "",
-            ""
+            "Rs.4, Rs.17",
+            "Rs.15, Rs.3",
+            "Rs.20, Rs.5",
+            "Rs.16, Rs.3"
         ],
-        "correctAns": ""
+        "correctAns": "Rs.15, Rs.3"
     },
     {
         "QorL":"Q",
-        "question":"",
+        "question":" Susan invested certain amount of money in two schemes A and B, which offer interest at the rate 8 percent per annum and 9 percent per annum, respectively. She received Rs.1860 as annual interest. However, had she interchanged the amount of investment in the two schemes, she would have received Rs.20 more as annual interest, how much money did she invest in B scheme?",
         "options":
         [
-            "",
-            "",
-            "",
-            ""
+            "Rs.12000",
+            "Rs.10000",
+            "Rs.15000",
+            "Rs.20000"
         ],
-        "correctAns": ""
+        "correctAns": "Rs.12000"
     },
     {
         "QorL":"Q",
-        "question":"",
+        "question":"Jamila sold a table and chair for Rs.1050, thereby making a profit of 10 percent on a table and 25 percent on the chair. If she had taken a profit of 25 percent on the table and 10 percent on the chair she would have got Rs.1065. Find the cost price of chair.",
         "options":
         [
-            "",
-            "",
-            "",
-            ""
+            "Rs.500",
+            "Rs.400",
+            "Rs.300",
+            "Rs.200"
         ],
-        "correctAns": ""
+        "correctAns": "Rs.400"
     },
     {
         "QorL":"Q",
-        "question":"",
+        "question":"4 tables and 3 chairs, together, cost Rs.2250 and 3 tables and 4 chairs cost Rs1950. Find the cost of 2 chairs and 1 table.",
         "options":
         [
-            "",
-            "",
-            "",
-            ""
+            "Rs.750",
+            "Rs.600",
+            "Rs.700",
+            "Rs.650"
         ],
-        "correctAns": ""
+        "correctAns": "Rs.750"
     },
     {
         "QorL":"Q",
-        "question":"",
+        "question":"5 books and 7 pens together cost Rs.79 whereas 7 books and 5 pens together cost Rs.77. Find the total cost of 1 book and 2 pens.",
         "options":
         [
-            "",
-            "",
-            "",
-            ""
+            "Rs.15",
+            "Rs.30",
+            "Rs.20",
+            "Rs.25"
         ],
-        "correctAns": ""
+        "correctAns": "Rs.25"
     },
     {
         "QorL":"Q",
-        "question":"",
+        "question":"On selling a T.V at 5 percent gain and a fridge at 10 percent gain, a shopkeeper gains Rs.2000. But if he sells the T.V at 10 percent gain and the fridge at 5 percent loss. He gains Rs.1500 on the transaction. Find the actual prices of T.V.",
         "options":
         [
-            "",
-            "",
-            "",
-            ""
+            "Rs.25000",
+            "Rs.20000",
+            "Rs.30000",
+            "Rs.15000"
         ],
-        "correctAns": ""
+        "correctAns": "Rs.20000"
     },
     {
         "QorL":"Q",
-        "question":"",
+        "question":"Reena has pens and pencils which together are 40 in number. If she has 5 more pencils and 5 less pens, then number of pencils would become 4 times the number of pens. Find the original number of pencils.",
         "options":
         [
-            "",
-            "",
-            "",
-            ""
+            "Rs.32",
+            "Rs.25",
+            "Rs.30",
+            "Rs.27"
         ],
-        "correctAns": ""
+        "correctAns": "Rs.27"
     },
     {
         "QorL":"Q",
-        "question":"",
+        "question":"3 bags and 4 pens together cost RS.257 whereas 4 bags and 3 pens together cost Rs.324. Find the total cost of 2 bag and 10 pens.",
         "options":
         [
-            "",
-            "",
-            "",
-            ""
+            "Rs.150",
+            "Rs.145",
+            "Rs.160",
+            "Rs.155"
         ],
-        "correctAns": ""
+        "correctAns": "Rs.155"
     }
 ]
