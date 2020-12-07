@@ -1,0 +1,123 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"The visible characters in an organisms is known as",
+        "options":
+        [
+            "Prototype",
+            "Stereotype",
+            "Phenotype",
+            "Genotype"
+        ],
+        "correctAns": "Phenotype"
+    },
+    {
+        "QorL":"Q",
+        "question":"The human species has genetics roots in",
+        "options":
+        [
+            "America",
+            "Africa",
+            "Australia",
+            "Antarctica"
+        ],
+        "correctAns": "Africa"
+    },
+    {
+        "QorL":"Q",
+        "question":"According to scientists, aves have evolved from",
+        "options":
+        [
+            "Mammals",
+            "Amphibians",
+            "Reptiles",
+            "Arthropods"
+        ],
+        "correctAns": "Reptiles"
+    },
+    {
+        "QorL":"Q",
+        "question":"One of the following traits cannot be inherited. This one is",
+        "options":
+        [
+            "Colour of eyes",
+            "Colour of skin",
+            "Size of body",
+            "Nature of colour"
+        ],
+        "correctAns": "Size of body"
+    },
+    {
+        "QorL":"Q",
+        "question":"Carbon dating method is based upon the radioactive decay of naturally occurring",
+        "options":
+        [
+            "C- 17",
+            "C- 14",
+            "Nitrogen",
+            "Hydrogen"
+        ],
+        "correctAns": "C- 14"
+    },
+    {
+        "QorL":"Q",
+        "question":"Paleontological Evidences include",
+        "options":
+        [
+            "Fossil",
+            "Sculpture",
+            "Civilizations",
+            "None of these"
+        ],
+        "correctAns": "Fossil"
+    },
+    {
+        "QorL":"Q",
+        "question":"Darwin had published a book titled",
+        "options":
+        [
+            "Origin of species",
+            "Natural species",
+            "Synthetic selection",
+            "All of the above"
+        ],
+        "correctAns": "Origin of species"
+    },
+    {
+        "QorL":"Q",
+        "question":"Willard Libby has been awarded with Nobel Prize",
+        "options":
+        [
+            "1980",
+            "1970",
+            "1950",
+            "1960"
+        ],
+        "correctAns": "1960"
+    },
+    {
+        "QorL":"Q",
+        "question":"Vestigial organs",
+        "options":
+        [
+            "Appendix",
+            "Body hairs",
+            "Tail bone",
+            "All the above"
+        ],
+        "correctAns": "All the above"
+    },
+    {
+        "QorL":"Q",
+        "question":"Formation of new species of plants and animals is the effect of evolution",
+        "options":
+        [
+            "Evolution",
+            "Variation",
+            "Speciation",
+            "None of the above"
+        ],
+        "correctAns": "Speciation"
+    }
+]
