@@ -2,122 +2,122 @@
     
     {
         "QorL":"Q",
-        "question":"",
+        "question":"During respiration exchange of gases takes place in _____.",
         "options":
         [
-            "",
-            "",
-            "",
-            ""
+            "Trachea and larynx",
+            "Alveoli of lungs",
+            "Alveoli and throat",
+            "Throat and larynx"
         ],
-        "correctAns": ""
+        "correctAns": "Alveoli of lungs"
     },
     {
         "QorL":"Q",
-        "question":"",
+        "question":"When a few drops of iodine solution are added to rice water, the solution turns blue- black in colour. This indicates that rice water contains:",
         "options":
         [
-            "",
-            "",
-            "",
-            ""
+            "Fats",
+            "Complex proteins",
+            "Starch",
+            "Simple proteins"
         ],
-        "correctAns": ""
+        "correctAns": "Starch"
     },
     {
         "QorL":"Q",
-        "question":"",
+        "question":"Glycolysis process occurs in which part of the cell?",
         "options":
         [
-            "",
-            "",
-            "",
-            ""
+            "Cytoplasm",
+            "Nucleus",
+            "Mitochondria",
+            "Chloroplast"
         ],
-        "correctAns": ""
+        "correctAns": "Cytoplasm"
     },
     {
         "QorL":"Q",
-        "question":"",
+        "question":"The fermentation of glucose by yeast normally yields",
         "options":
         [
-            "",
-            "",
-            "",
-            ""
+            "Alcohol, CO2 and 36 ATP",
+            "CO2, H20 and 36 ATP",
+            "Alcohol, CO2 and 2ATP",
+            "Lactic acid, CO7 and 2 ATP"
         ],
-        "correctAns": ""
+        "correctAns": "Lactic acid, CO7 and 2 ATP"
     },
     {
         "QorL":"Q",
-        "question":"",
+        "question":"The longest stage in the cell cycle is",
         "options":
         [
-            "",
-            "",
-            "",
-            ""
+            "Interphase",
+            "Anaphase",
+            "Metaphase",
+            "None of the Above"
         ],
-        "correctAns": ""
+        "correctAns": "Interphase"
     },
     {
         "QorL":"Q",
-        "question":"",
+        "question":"The spindle apparatus is formed during the ________ phase of mitosis.",
         "options":
         [
-            "",
-            "",
-            "",
-            ""
+            "Telophase",
+            "Metaphase",
+            "Prophase",
+            "Anaphase"
         ],
-        "correctAns": ""
+        "correctAns": "Metaphase"
     },
     {
         "QorL":"Q",
-        "question":"",
+        "question":"Nuclear DNA replicates in the ________ phase.",
         "options":
         [
-            "",
-            "",
-            "",
-            ""
+            "G2 Phase",
+            "M Phase",
+            "S Phase",
+            "None of the above"
         ],
-        "correctAns": ""
+        "correctAns": "S Phase"
     },
     {
         "QorL":"Q",
-        "question":"",
+        "question":"The energy currency is:",
         "options":
         [
-            "",
-            "",
-            "",
-            ""
+            "DNA",
+            "RNA",
+            "ATP",
+            "Chlorophyll"
         ],
-        "correctAns": ""
+        "correctAns": "ATP"
     },
     {
         "QorL":"Q",
-        "question":"",
+        "question":"ATP and NADP 2H are produced in:",
         "options":
         [
-            "",
-            "",
-            "",
-            ""
+            "Mitochondria",
+            "Chloroplast",
+            "Peroxisomes",
+            "Lysosomes"
         ],
-        "correctAns": ""
+        "correctAns": "Mitochondria"
     },
     {
         "QorL":"Q",
-        "question":"",
+        "question":"Cyclic chain of reactions called as",
         "options":
         [
-            "",
-            "",
-            "",
-            ""
+            "Tricarboxylic acid cycle",
+            "Carbon Cycle",
+            "Water Cycle",
+            "None of these"
         ],
-        "correctAns": ""
+        "correctAns": "tricarboxylic acid cycle"
     }
 ]
