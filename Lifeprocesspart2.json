@@ -1,0 +1,123 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"Which among the following is a unicellular organism that reproduces by budding:",
+        "options":
+        [
+            "Hydra",
+            "Planaria",
+            "Yeast",
+            "Spirogyra"
+        ],
+        "correctAns": "Yeast"
+    },
+    {
+        "QorL":"Q",
+        "question":"Planaria’s most remarkable characteristics are its ability to",
+        "options":
+        [
+            "Hibernation",
+            "Survive without air",
+            "Generate bioluminescence",
+            "Regenerate"
+        ],
+        "correctAns": "Regenerate"
+    },
+    {
+        "QorL":"Q",
+        "question":"Bryophyllum can be propagated vegetatively by the",
+        "options":
+        [
+            "Stem",
+            "Leaf",
+            "Root",
+            "Flower"
+        ],
+        "correctAns": "Leaf"
+    },
+    {
+        "QorL":"Q",
+        "question":"In a potato, vegetative propagation takes place by:",
+        "options":
+        [
+            "Root",
+            "Leaf",
+            "Stem tuber",
+            "Grafting"
+        ],
+        "correctAns": "Stem tuber"
+    },
+    {
+        "QorL":"Q",
+        "question":"The transfer of pollen from the anther to stigma is called",
+        "options":
+        [
+            "Pollination",
+            "Fertilization",
+            "Adoption",
+            "Diffusion"
+        ],
+        "correctAns": "Pollination"
+    },
+    {
+        "QorL":"Q",
+        "question":"The male reproductive parts of a flower, the stamens, are collectively known as",
+        "options":
+        [
+            "Androecium",
+            "Filament",
+            "Anther",
+            "Gynoecium"
+        ],
+        "correctAns": "Androecium"
+    },
+    {
+        "QorL":"Q",
+        "question":"How many autosomes does a human primary spermatocyte have?",
+        "options":
+        [
+            "34",
+            "44",
+            "54",
+            "33"
+        ],
+        "correctAns": "44"
+    },
+    {
+        "QorL":"Q",
+        "question":"The _________ is a temporary organ that connects a mammalian mother to its foetus",
+        "options":
+        [
+            "Placenta",
+            "Chorion",
+            "Endometrium",
+            "None of the above"
+        ],
+        "correctAns": "Placenta"
+    },
+    {
+        "QorL":"Q",
+        "question":"The cell produced by fertilization is called",
+        "options":
+        [
+            "Gamete",
+            "Embryo",
+            "Fetus",
+            "zygote"
+        ],
+        "correctAns": "Gamete"
+    },
+    {
+        "QorL":"Q",
+        "question":"The average menstrual cycle is",
+        "options":
+        [
+            "14 days",
+            "18 days",
+            "24 days",
+            "28 days"
+        ],
+        "correctAns": "28 days"
+    }
+]
