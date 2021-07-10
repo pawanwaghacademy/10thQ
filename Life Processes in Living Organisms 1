@@ -1,0 +1,243 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"…………………….are the main sources of this energy.",
+        "options":
+        [
+            "Carbohydrates, fats and lipids",
+            "Vitamins",
+            "Minerals",
+            "Water"
+        ],
+        "correctAns": "Carbohydrates, fats and lipids"
+    },
+    {
+        "QorL":"Q",
+        "question":"We get …………….. energy per gram of carbohydrates",
+        "options":
+        [
+            "3 Kcal",
+            "4 Kcal",
+            "5 Kcal",
+            "None of these"
+        ],
+        "correctAns": "4 Kcal"
+    },
+    {
+        "QorL":"Q",
+        "question":"energy is obtained in the form of ",
+        "options":
+        [
+            "ADP",
+            "Calories",
+            "ATP",
+            "None of these"
+        ],
+        "correctAns": "ATP"
+    },
+    {
+        "QorL":"Q",
+        "question":"Process of glycolysis occurs in ………………..",
+        "options":
+        [
+            "Nucleus",
+            "Ribosomes",
+            "Plastids",
+            "Cytoplasm"
+        ],
+        "correctAns": "Cytoplasm"
+    },
+    {
+        "QorL":"Q",
+        "question":"Process of glycolysis was discovered by which scientists ",
+        "options":
+        [
+            "Gustav Embden",
+            "Otto Meyerhof",
+            "and Jacob Parnas",
+            "all of three"
+        ],
+        "correctAns": "all of three"
+    },
+    {
+        "QorL":"Q",
+        "question":"The cyclical reactions of tricarboxylic acid cycle were discovered by ",
+        "options":
+        [
+            "Sir Hans Kreb",
+            "Gustav embden",
+            "Otto Meyerhof",
+            "None of these"
+        ],
+        "correctAns": "Sir Hans Kreb"
+    },
+    {
+        "QorL":"Q",
+        "question":"muscle cells perform ………… respiration while performing the exercise",
+        "options":
+        [
+            "Aerobic respiration",
+            "Kreb cycle",
+            "Anaerobic respiration",
+            "None of these"
+        ],
+        "correctAns": "Anaerobic respiration"
+    },
+    {
+        "QorL":"Q",
+        "question":"Excess of the carbohydrates are stored in liver and muscles in the form of ……………",
+        "options":
+        [
+            "Glycogen",
+            "Protein",
+            "Glucose",
+            "Starch"
+        ],
+        "correctAns": "Glycogen"
+    },
+    {
+        "QorL":"Q",
+        "question":"We get ……………of energy per gram of lipids",
+        "options":
+        [
+            "10 Kcal",
+            "6 Kcal",
+            "9 Kcal",
+            "None of these"
+        ],
+        "correctAns": "9 Kcal"
+    },
+    {
+        "QorL":"Q",
+        "question":"Excess of lipids are stored in …………………. tissue in the body",
+        "options":
+        [
+            "Blood connective ",
+            "Adipose connective",
+            "Adipose connective",
+            "Tendons"
+        ],
+        "correctAns": "Adipose connective"
+    },
+    {
+        "QorL":"Q",
+        "question":"………………………. are fat-soluble",
+        "options":
+        [
+            "Vit. B",
+            "Vit. C",
+            "A, D, E and K",
+            "None of these"
+        ],
+        "correctAns": "A, D, E and K"
+    },
+    {
+        "QorL":"Q",
+        "question":"Mitosis occurs in ……………. Cells",
+        "options":
+        [
+            "Germ cells",
+            "Nerve cells",
+            "Chromosomes",
+            "Somatic & stem cells"
+        ],
+        "correctAns": "Somatic & stem cells"
+    },
+    {
+        "QorL":"Q",
+        "question":"We get ………….. of energy per gram of proteins",
+        "options":
+        [
+            "6 Kcal",
+            "10 Kcal",
+            "4 Kcal",
+            "None of these"
+        ],
+        "correctAns": "4 Kcal"
+    },
+    {
+        "QorL":"Q",
+        "question":"……………… are water-soluble",
+        "options":
+        [
+            "Vit. A",
+            "Vit.D",
+            "Vit. E",
+            "Vit. B & C"
+        ],
+        "correctAns": "Vit. B & C"
+    },
+    {
+        "QorL":"Q",
+        "question":"No. of chromosomes present in human body………..",
+        "options":
+        [
+            "24",
+            "47",
+            "46",
+            "52"
+        ],
+        "correctAns": "46"
+    },
+    {
+        "QorL":"Q",
+        "question":"All chromosomes are arranged parallel to equatorial plane in which phase",
+        "options":
+        [
+            "Metaphase",
+            "Anaphase",
+            "Prophase",
+            "Telophase"
+        ],
+        "correctAns": "Metaphase"
+    },
+    {
+        "QorL":"Q",
+        "question":"_________ is not a part of mitosis.",
+        "options":
+        [
+            "Anaphase",
+            "Diplatin",
+            "Prophase ",
+            "Cytokinesis"
+        ],
+        "correctAns": "Diplatin"
+    },
+    {
+        "QorL":"Q",
+        "question":"The first step of karyokinesis is ________.",
+        "options":
+        [
+            "Anaphase",
+            "telophase",
+            "metaphase",
+            "prophase"
+        ],
+        "correctAns": "prophase"
+    },
+    {
+        "QorL":"Q",
+        "question":"Protein located in bones is ______.",
+        "options":
+        [
+            "myosin",
+            "melanin",
+            "haemoglobin",
+            "ossein"
+        ],
+        "correctAns": "ossein"
+    },
+    {
+        "QorL":"Q",
+        "question":"The last step of karyokinesis is ________.",
+        "options":
+        [
+            "anaphase ",
+            "telophase ",
+            "metaphase",
+            "prophase"
+        ],
+        "correctAns": "telophase"
+    }        
+]
