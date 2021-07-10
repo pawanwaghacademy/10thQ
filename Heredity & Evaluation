@@ -1,0 +1,243 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"1902, Walter and Sutton observed the paired chromosomes in the cells of ",
+        "options":
+        [
+            "Cat",
+            "Rat",
+            "Monkey",
+            "Grasshopper"
+        ],
+        "correctAns": "Grasshopper"
+    },
+    {
+        "QorL":"Q",
+        "question":"In 1961 the French geneticists....proposed a model for process of protein synthesis with the help of DNA in bacterial cells",
+        "options":
+        [
+            "Walter",
+            "Sutton",
+            "Jacob and Jack Monad",
+            "Mendel"
+        ],
+        "correctAns": "Jacob and Jack Monad"
+    },
+    {
+        "QorL":"Q",
+        "question":"The causality behind sudden changes was understood due to principle of Hugo de Vries",
+        "options":
+        [
+            "Transcription ",
+            "Translocation",
+            "Translation ",
+            " Mutation"
+        ],
+        "correctAns": " Mutation"
+    },
+    {
+        "QorL":"Q",
+        "question":"About 10 thousand years ago, _________ started to practice agriculture",
+        "options":
+        [
+            "Gorilla",
+            "wise man",
+            "Ramapithecus ",
+            "Australopithecus"
+        ],
+        "correctAns": "wise man"
+    },
+    {
+        "QorL":"Q",
+        "question":"________ can be considered as the first example of wise-man.",
+        "options":
+        [
+            "Australopithecus",
+            "Ramapithecus",
+            "Cro Magnon ",
+            "Neanderthal man "
+        ],
+        "correctAns": "Neanderthal man "
+    },
+    {
+        "QorL":"Q",
+        "question":"……….. is produced as per the sequence of nucleotides on DNA",
+        "options":
+        [
+            "rRNA",
+            "mRNA",
+            "tRNA",
+            "None of these"
+        ],
+        "correctAns": "mRNA"
+    },
+    {
+        "QorL":"Q",
+        "question":"…, a scientist of Indian origin has made important contribution in discovery of triplet codons for 20 amino acids",
+        "options":
+        [
+            "Dr. har Govind Khorana",
+            "Mendel",
+            "Sutton",
+            "Watson"
+        ],
+        "correctAns": "Dr. har Govind Khorana"
+    },
+    {
+        "QorL":"Q",
+        "question":"Transfer of information from molecules of DNA to mRNA is called _____ process",
+        "options":
+        [
+            "translocation ",
+            " translation ",
+            "transcription ",
+            "differentiation"
+        ],
+        "correctAns": "transcription"
+    },
+    {
+        "QorL":"Q",
+        "question":"…………….must be same and  must have common ancestors",
+        "options":
+        [
+            "Anatomical evidences",
+            "Morphological evidences",
+            "Vestigial organs",
+            "None of these"
+        ],
+        "correctAns": "Morphological evidences"
+    },
+    {
+        "QorL":"Q",
+        "question":"tail-bone (coccyx), wisdom teeth, and body hairs are",
+        "options":
+        [
+            "Paleontological Evidences",
+            "Connecting Links",
+            "Embryological Evidences",
+            "vestigial organs"
+        ],
+        "correctAns": "vestigial organs"
+    },
+    {
+        "QorL":"Q",
+        "question":"Darwin had published a book ……………",
+        "options":
+        [
+            "Origin of species",
+            "Nature’s book",
+            "Red book",
+            "None of these"
+        ],
+        "correctAns": "Origin of species"
+    },
+    {
+        "QorL":"Q",
+        "question":"Similarities in initial stages indicate the _______ evidence",
+        "options":
+        [
+            "Connecting links ",
+            "Anatomical ",
+            "Embryological",
+            "Palaeontological "
+        ],
+        "correctAns": "Embryological"
+    },
+    {
+        "QorL":"Q",
+        "question":"Formation of new species of plants and animals is the effect of evolution is called………",
+        "options":
+        [
+            "evolution",
+            "natural selection",
+            "speciation",
+            "none of these"
+        ],
+        "correctAns": "speciation"
+    },
+    {
+        "QorL":"Q",
+        "question":"Lamarck proposed their activities on which ……. Organism",
+        "options":
+        [
+            "Gorilla",
+            "Humans",
+            "Giraffe",
+            "None of these"
+        ],
+        "correctAns": "Giraffe"
+    },
+    {
+        "QorL":"Q",
+        "question":"Duckbill, Platipus, Peripatus are belongs to …………….",
+        "options":
+        [
+            "Paleontological Evidences",
+            "Connecting Links",
+            "both a and b",
+            "none of these"
+        ],
+        "correctAns": "Connecting Links"
+    },
+    {
+        "QorL":"Q",
+        "question":"C-14 and it is developed by ",
+        "options":
+        [
+            "Willard Libby",
+            "lamarkism",
+            "Darwin",
+            "none of these"
+        ],
+        "correctAns": "Willard Libby"
+    },
+    {
+        "QorL":"Q",
+        "question":"Carbon dating method is based upon the radioactive decay of naturally occurring",
+        "options":
+        [
+            "C-13",
+            "C-14",
+            "C-15",
+            "none of these"
+        ],
+        "correctAns": "C-14"
+    },
+    {
+        "QorL":"Q",
+        "question":"The age of the materials determined by this method are published in the journal ………….",
+        "options":
+        [
+            "Natural selection",
+            "Acquired characters",
+            "Radio carbon",
+            "None of these"
+        ],
+        "correctAns": "Radio carbon"
+    },
+    {
+        "QorL":"Q",
+        "question":"Reptiles, Amhibia, Pisces belongs to which era……..",
+        "options":
+        [
+            "Cenozoic era",
+            "Mesozoic era",
+            "Paleozoic era",
+            "none of these"
+        ],
+        "correctAns": "Paleozoic era"
+    },
+    {
+        "QorL":"Q",
+        "question":"The sequence of nucleotides on the RNA is translated into the amino acid………..",
+        "options":
+        [
+            "Transcription",
+            "Translocation",
+            "Translation",
+            "None of these"
+        ],
+        "correctAns": "Translation"
+    }        
+]
