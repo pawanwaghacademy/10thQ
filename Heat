@@ -1,0 +1,243 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"Humidity of air depends on",
+        "options":
+        [
+            "pressure",
+            "none",
+            "tempreature",
+            "both (a) & (b)"
+        ],
+        "correctAns": "tempreature"
+    },
+    {
+        "QorL":"Q",
+        "question":"Heat lost by hot object = heat gained by cold object is according to ",
+        "options":
+        [
+            "Principle of latent heat",
+            "Principle of vapourization",
+            "principle of heat exchange",
+            "principle of specific heat"
+        ],
+        "correctAns": "principle of heat exchange"
+    },
+    {
+        "QorL":"Q",
+        "question":"The surface of earth is covered with percentage of water",
+        "options":
+        [
+            "71%",
+            "81%",
+            "96%",
+            "56%"
+        ],
+        "correctAns": "71%"
+    },
+    {
+        "QorL":"Q",
+        "question":"If the relative humidity of air is less than 60% then the air is",
+        "options":
+        [
+            "wet",
+            "humid",
+            "dry",
+            "hot"
+        ],
+        "correctAns": "dry"
+    },
+    {
+        "QorL":"Q",
+        "question":"When the temperature of water starts decreasing below 4 ^0 C, its ",
+        "options":
+        [
+            "density decreases",
+            "volume increases",
+            "no change in volume",
+            "volume decreases"
+        ],
+        "correctAns": "volume increases"
+    },
+    {
+        "QorL":"Q",
+        "question":"The temperature at which, air becomes saturated with vapour, is called .....",
+        "options":
+        [
+            "Due Point",
+            "Boiling Point",
+            "Melting Point",
+            "None"
+        ],
+        "correctAns": "Due Point"
+    },
+    {
+        "QorL":"Q",
+        "question":"Phenomenon in which, ice converts to liquid, due to applied pressure, and then reconverts to ice, when pressure is removed, is called ....",
+        "options":
+        [
+            "regelation",
+            "solidification",
+            "evaporation",
+            "vaporisation"
+        ],
+        "correctAns": "regelation"
+    },
+    {
+        "QorL":"Q",
+        "question":"Heat energy required to raise 4 kg water temperature by 10^0 ?",
+        "options":
+        [
+            "20 K cal",
+            "50 K cal",
+            "40 K cal",
+            "100 K cal"
+        ],
+        "correctAns": "40 K cal"
+    },
+    {
+        "QorL":"Q",
+        "question":"S.I units of heat is ...........",
+        "options":
+        [
+            "none",
+            "kilocalorie",
+            "joule",
+            "calorie"
+        ],
+        "correctAns": "joule"
+    },
+    {
+        "QorL":"Q",
+        "question":"The vapour content in the air, is measured by",
+        "options":
+        [
+            "Absolute humidity",
+            "relative humidity",
+            "dew point",
+            "both a & n"
+        ],
+        "correctAns": "Absolute humidity"
+    },
+    {
+        "QorL":"Q",
+        "question":"The specific heat of which of the following metal is maximum ?",
+        "options":
+        [
+            "mercury",
+            "silver",
+            "copper",
+            "iron"
+        ],
+        "correctAns": "iron"
+    },
+    {
+        "QorL":"Q",
+        "question":"If pressure increases, then the melting point of subtance",
+        "options":
+        [
+            "do not change",
+            "constant",
+            "decreases",
+            "increases"
+        ],
+        "correctAns": "decreases"
+    },
+    {
+        "QorL":"Q",
+        "question":"The study of anomalous behaviour of water is done using ........ apparatus",
+        "options":
+        [
+            "hope apparatus",
+            "none",
+            "joule experiment",
+            "both a & b"
+        ],
+        "correctAns": "hope apparatus"
+    },
+    {
+        "QorL":"Q",
+        "question":"The melting point of ice is  .......",
+        "options":
+        [
+            "80 deg.cel",
+            "0 deg.cel",
+            "110 deg.cel",
+            "100 deg.cel"
+        ],
+        "correctAns": "0 deg.cel"
+    },
+    {
+        "QorL":"Q",
+        "question":"The C.G. S. unit of specific heat is ....",
+        "options":
+        [
+            "J/deg.cel",
+            "deg. cel",
+            "cal/g deg.cel",
+            "km/m cube"
+        ],
+        "correctAns": "cal/g deg.cel"
+    },
+    {
+        "QorL":"Q",
+        "question":"In cold regions, in winter, the pipes for water supply breaks, as a result of",
+        "options":
+        [
+            "humidity",
+            "dew point",
+            "anamolous beh. of water",
+            "regelation"
+        ],
+        "correctAns": "anamolous beh. of water"
+    },
+    {
+        "QorL":"Q",
+        "question":"The specific heat of an object, is denoted by ..... letter.",
+        "options":
+        [
+            "m",
+            "n",
+            "u",
+            "c"
+        ],
+        "correctAns": "c"
+    },
+    {
+        "QorL":"Q",
+        "question":"Out of which of the following contracts on heating ?",
+        "options":
+        [
+            "iron",
+            "mercury",
+            "lukewarm",
+            "ice"
+        ],
+        "correctAns": "ice"
+    },
+    {
+        "QorL":"Q",
+        "question":"The boiling point of water is",
+        "options":
+        [
+            "100 deg.cel",
+            "0 deg.cel",
+            "99 deg.cel",
+            "400 deg.cel"
+        ],
+        "correctAns": "100 deg.del"
+    },
+    {
+        "QorL":"Q",
+        "question":"The constant temperature, at which, ice converts into water is termed as ...",
+        "options":
+        [
+            "boil.point of water",
+            "melt.point of water",
+            "melt.point of ice",
+            "heat of fusion"
+        ],
+        "correctAns": "melt.point of ice"
+    }        
+]
