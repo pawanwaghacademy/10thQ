@@ -1,0 +1,231 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"amoeba divides through ",
+        "options":
+        [
+            "budding",
+            "fission",
+            "regeneration",
+            "fragmentation"
+        ],
+        "correctAns": "fission"
+    },
+    {
+        "QorL":"Q",
+        "question":"Longitudinal binary fission is seen in _________",
+        "options":
+        [
+            "Paramoecium ",
+            "Euglena",
+            "Amoeba",
+            "Spirogyra"
+        ],
+        "correctAns": "Euglena"
+    },
+    {
+        "QorL":"Q",
+        "question":"Yeast cell performs asexual reproduction by _________.",
+        "options":
+        [
+            "fragmentation",
+            "budding",
+            "binary fission ",
+            "regeneration "
+        ],
+        "correctAns": "budding"
+    },
+    {
+        "QorL":"Q",
+        "question":"transverse binary fission is seen in _________",
+        "options":
+        [
+            "Paramoecium ",
+            "Euglena",
+            "Amoeba",
+            "Spirogyra"
+        ],
+        "correctAns": "Paramoecium"
+    },
+    {
+        "QorL":"Q",
+        "question":"Planaria cell performs asexual reproduction by _________.",
+        "options":
+        [
+            "fragmentation",
+            "budding",
+            "binary fission ",
+            "regeneration"
+        ],
+        "correctAns": "regeneration"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which of the following is not a type of asexual reproduction in multicellular organisms?",
+        "options":
+        [
+            "fragmentation ",
+            "regeneration ",
+            "Budding ",
+            "binary fission"
+        ],
+        "correctAns": "binary fission"
+    },
+    {
+        "QorL":"Q",
+        "question":"Find the odd one out:",
+        "options":
+        [
+            "Stigma",
+            "Anther ",
+            "Style",
+            "Ovary"
+        ],
+        "correctAns": "Anther"
+    },
+    {
+        "QorL":"Q",
+        "question":"At the time of birth , there are _________oocytes in the ovary of a female foetus.",
+        "options":
+        [
+            "1 to 2 million ",
+            "2 to 3 million ",
+            "2 to 4 million ",
+            "none of these"
+        ],
+        "correctAns": "2 to 4 million"
+    },
+    {
+        "QorL":"Q",
+        "question":"	_________ modern remedial technique is used if there is a problem in implantation of embryo in the uterus.",
+        "options":
+        [
+            "Surrogacy",
+            "Sperm bank ",
+            "In vitro fertilization",
+            "none of these."
+        ],
+        "correctAns": "In vitro fertilization"
+    },
+    {
+        "QorL":"Q",
+        "question":"Implantation of the embryo occurs in ________.",
+        "options":
+        [
+            "uterus",
+            "overy ",
+            "oviduct",
+            "Vagina"
+        ],
+        "correctAns": "oviduct"
+    },
+    {
+        "QorL":"Q",
+        "question":"Stoppage of menstrual cycle",
+        "options":
+        [
+            "Puberty",
+            "Adolesence",
+            "Menopause",
+            "None of these"
+        ],
+        "correctAns": "Menopause"
+    },
+    {
+        "QorL":"Q",
+        "question":"All the organs of male reproductive system are paired except………..",
+        "options":
+        [
+            "Testes",
+            "Prostate gland",
+            "Seminal vesicle",
+            "Penis"
+        ],
+        "correctAns": "Penis"
+    },
+    {
+        "QorL":"Q",
+        "question":"In humans, sperm production occurs in the organ _______.",
+        "options":
+        [
+            "testes",
+            "scrotum ",
+            "prostate gland",
+            "ovaries"
+        ],
+        "correctAns": "testes"
+    },
+    {
+        "QorL":"Q",
+        "question":"Pregnant mother supplies nourishment to her foetus through _________.",
+        "options":
+        [
+            "uterus",
+            "placenta ",
+            "ovary ",
+            "oviduct"
+        ],
+        "correctAns": "placenta"
+    },
+    {
+        "QorL":"Q",
+        "question":"Length of each epididymis is about ……….. meters.",
+        "options":
+        [
+            "9 m",
+            "10 m",
+            "3 m",
+            "6 m"
+        ],
+        "correctAns": "6 m"
+    },
+    {
+        "QorL":"Q",
+        "question":"Sperm needs large amount of energy. For this purpose, …………. is present in the semen",
+        "options":
+        [
+            "Sucrose",
+            "Glucose",
+            "Fructose",
+            "None of these"
+        ],
+        "correctAns": "Fructose"
+    },
+    {
+        "QorL":"Q",
+        "question":"_________ twins are formed from a single embryo.",
+        "options":
+        [
+            "Dizygotic",
+            "Monozygotic",
+            "Multiple zygote",
+            "Zygote"
+        ],
+        "correctAns": "Monozygotic"
+    },
+    {
+        "QorL":"Q",
+        "question":"Pollen grains are formed by _________ division in locules of anthers.",
+        "options":
+        [
+            "meiosis",
+            "mitosis",
+            "amitosis",
+            "binary"
+        ],
+        "correctAns": "meiosis"
+    },
+    {
+        "QorL":"Q",
+        "question":"Asexual reproduction occurs by _________ cell division",
+        "options":
+        [
+            "mitotic",
+            "meiotic",
+            "fertilization",
+            "double fertilization."
+        ],
+        "correctAns": "mitotic"
+    }        
+]
