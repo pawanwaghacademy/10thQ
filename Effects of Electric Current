@@ -1,0 +1,243 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"When current in the circuit, suddenly increases, switches used is ",
+        "options":
+        [
+            "MCC",
+            "MCB",
+            "MCD",
+            "MCA"
+        ],
+        "correctAns": "MCB"
+    },
+    {
+        "QorL":"Q",
+        "question":"Frequency  of alternating current (A.C.) is ......... Hz",
+        "options":
+        [
+            "50 Hz",
+            "75 Hz",
+            "25 Hz",
+            "100 Hz"
+        ],
+        "correctAns": "50 Hz"
+    },
+    {
+        "QorL":"Q",
+        "question":"Electric bulb contains ......... gas",
+        "options":
+        [
+            "Neon",
+            "Nitrogen",
+            "Oxygen",
+            "Hydrogen"
+        ],
+        "correctAns": "Nitrogen"
+    },
+    {
+        "QorL":"Q",
+        "question":"The earthing wires are connected to ......",
+        "options":
+        [
+            "Ground",
+            "Water bodies",
+            "Trees",
+            "Electric Poles"
+        ],
+        "correctAns": "Ground"
+    },
+    {
+        "QorL":"Q",
+        "question":"Resistor of Nichrome alloy, is used in ......",
+        "options":
+        [
+            "Electric bulb",
+            "Electric heater",
+            "Both (a) and (b)",
+            "None of these"
+        ],
+        "correctAns": "Electric heater"
+    },
+    {
+        "QorL":"Q",
+        "question":" H = I^2 x R x t is called ",
+        "options":
+        [
+            "Joules law of heating",
+            "Flemming's right hand rule",
+            "Flemming's left hnd rule",
+            "Electric power"
+        ],
+        "correctAns": "Joules law of heating"
+    },
+    {
+        "QorL":"Q",
+        "question":"The brushes used in the electric motor are made up of .......",
+        "options":
+        [
+            "Copper",
+            "Plastic",
+            "Carbon",
+            "Iron"
+        ],
+        "correctAns": "Carbon"
+    },
+    {
+        "QorL":"Q",
+        "question":"The oscillation of the alternating current occurs in the form of manner ......",
+        "options":
+        [
+            "sinusoidal",
+            "periodic",
+            "both (a) and (b)",
+            "None of these"
+        ],
+        "correctAns": "sinusoidal"
+    },
+    {
+        "QorL":"Q",
+        "question":"The coil used in electric bulb is formed from ",
+        "options":
+        [
+            "Alnico",
+            "Duralumium",
+            "Tungsten",
+            "Nichrome alloy."
+        ],
+        "correctAns": "Tungsten"
+    },
+    {
+        "QorL":"Q",
+        "question":" Increase in the current through the wire, causes ...... in the intensity of magnetic field.",
+        "options":
+        [
+            "No changes",
+            "not related",
+            "increases",
+            "decreases"
+        ],
+        "correctAns": "increases"
+    },
+    {
+        "QorL":"Q",
+        "question":" A device that converts mechanical energy into electrical energy is called as ",
+        "options":
+        [
+            "Electric generator",
+            "Electric motor",
+            "Galvanometer",
+            "None of these"
+        ],
+        "correctAns": "Electric generator"
+    },
+    {
+        "QorL":"Q",
+        "question":" In India, the powerstations generating electricity, one cycle changes over in .................... second.",
+        "options":
+        [
+            "1/90",
+            "1/50",
+            "1/70",
+            "1/1000"
+        ],
+        "correctAns": "1/50"
+    },
+    {
+        "QorL":"Q",
+        "question":"1KWH = 1 kilowatt hour = ?",
+        "options":
+        [
+            "1000 W sec",
+            "(1000 x 3600) W sec",
+            "(10 x 36) W. sec",
+            "(3600) W. sec"
+        ],
+        "correctAns": "(1000 x 3600) W sec"
+    },
+    {
+        "QorL":"Q",
+        "question":"According to Flemming's left hand rule, the middle finger indicates direction of ........",
+        "options":
+        [
+            "current",
+            "force",
+            "magenetic field",
+            "induced current"
+        ],
+        "correctAns": "current"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which current increases to maximum and reduces to zero ?",
+        "options":
+        [
+            "direct current",
+            "alternating current",
+            "both (a) and (b)",
+            "None of these"
+        ],
+        "correctAns": "alternating current"
+    },
+    {
+        "QorL":"Q",
+        "question":"In .........., the copper wire is like a spring",
+        "options":
+        [
+            "solenoid",
+            "bar magnet",
+            "horseshoe magnet",
+            "loop"
+        ],
+        "correctAns": "solenoid"
+    },
+    {
+        "QorL":"Q",
+        "question":"The neutral wire has a potential difference of  ...... ",
+        "options":
+        [
+            "250 V",
+            "220 V",
+            "250 V",
+            "400 V"
+        ],
+        "correctAns": "220 V"
+    },
+    {
+        "QorL":"Q",
+        "question":" The home electrical connection consists of ...... wires",
+        "options":
+        [
+            "Earth",
+            "Neutral",
+            "Live",
+            "All"
+        ],
+        "correctAns": "All"
+    },
+    {
+        "QorL":"Q",
+        "question":"Power = ",
+        "options":
+        [
+            "V^2/R",
+            "Work done",
+            "resitance x time",
+            "None of these"
+        ],
+        "correctAns": "V^2/R"
+    },
+    {
+        "QorL":"Q",
+        "question":"What produces heat in resistor when connected in electrical circuit ?",
+        "options":
+        [
+            "electron",
+            "current",
+            "charge",
+            "proton"
+        ],
+        "correctAns": "current"
+    }        
+]
