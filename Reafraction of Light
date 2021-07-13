@@ -1,0 +1,243 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"The order of seven colours of light is called as .....",
+        "options":
+        [
+            "VIBROYG",
+            "ROYVIBG",
+            "ROGYBIV",
+            "VIBGYOR"
+        ],
+        "correctAns": "VIBGYOR"
+    },
+    {
+        "QorL":"Q",
+        "question":"The ray that is in the glass slab is called ",
+        "options":
+        [
+            "Normal",
+            "Emergent ray",
+            "Refracted Ray",
+            "Incident ray"
+        ],
+        "correctAns": "Refracted Ray"
+    },
+    {
+        "QorL":"Q",
+        "question":" Who was the first person, to study sun's spectrum ?",
+        "options":
+        [
+            "Issac Newton",
+            "Dr. C. V. Raman",
+            "M. S. Dongair",
+            "None of these"
+        ],
+        "correctAns": "Issac Newton"
+    },
+    {
+        "QorL":"Q",
+        "question":" In rainbow formation, which phenomenon is not involved ?",
+        "options":
+        [
+            "Scattering",
+            "refraction",
+            "reflection",
+            "dispersion"
+        ],
+        "correctAns": "Scattering"
+    },
+    {
+        "QorL":"Q",
+        "question":" Why do star twinkle ?",
+        "options":
+        [
+            "motion of star",
+            "change in refractive index of atmospheric gas",
+            "stars are at infinite distance from earth",
+            "absorption of light"
+        ],
+        "correctAns": "change in refractive index of atmospheric gas"
+    },
+    {
+        "QorL":"Q",
+        "question":"The refractive index of alcohol is ",
+        "options":
+        [
+            "1.31",
+            "1.0003",
+            "1.36",
+            "1.33"
+        ],
+        "correctAns": "1.36"
+    },
+    {
+        "QorL":"Q",
+        "question":"During dispersion of light, which colours bends the most .......",
+        "options":
+        [
+            "Blue",
+            "Yellow",
+            "Violet",
+            "Red"
+        ],
+        "correctAns": "Violet"
+    },
+    {
+        "QorL":"Q",
+        "question":"In a  medium, the velocity of light depends upon ............",
+        "options":
+        [
+            "Frequency of light",
+            "intensity of light",
+            "both (a) and (b)",
+            "none of the above"
+        ],
+        "correctAns": "Frequency of light"
+    },
+    {
+        "QorL":"Q",
+        "question":"When a light passes from a denser medium to a rarer medium, it ",
+        "options":
+        [
+            "reflected back",
+            "does not change its direction",
+            "bends towards the normal",
+            "bends away from normal"
+        ],
+        "correctAns": "bends away from normal"
+    },
+    {
+        "QorL":"Q",
+        "question":"The ratio of sin i/sin r is ",
+        "options":
+        [
+            "less than 1",
+            "constant",
+            "equal to 1",
+            "greater than 1"
+        ],
+        "correctAns": "constant"
+    },
+    {
+        "QorL":"Q",
+        "question":"The refractive index of light depends upon ...... in the medium.",
+        "options":
+        [
+            "colour of light",
+            "intensity of light",
+            "velocity of light",
+            "source of light"
+        ],
+        "correctAns": "velocity of light"
+    },
+    {
+        "QorL":"Q",
+        "question":"When a rainbow is formed, water droplets acts as a .......",
+        "options":
+        [
+            "cone",
+            "prism",
+            "reflectors",
+            "refractors"
+        ],
+        "correctAns": "prism"
+    },
+    {
+        "QorL":"Q",
+        "question":"When the incident is along the normal, the angle of incidence is .......",
+        "options":
+        [
+            "equal to zero",
+            "less than 0",
+            "greater than zero",
+            "none of these"
+        ],
+        "correctAns": "equal to zero"
+    },
+    {
+        "QorL":"Q",
+        "question":"If the angle of refraction is larger than 90 degree , the phenomenon is called as .......",
+        "options":
+        [
+            "partial internal refraction",
+            "total internal refraction",
+            "both (a) and (b)",
+            "none of above"
+        ],
+        "correctAns": "total internal refraction"
+    },
+    {
+        "QorL":"Q",
+        "question":"If light rays coming from a distance objects appear to be coming, from the image of the object inside the ground, is called as ......",
+        "options":
+        [
+            "scattering of light",
+            "atmospheric refraction",
+            "mirage",
+            "dispersion of light"
+        ],
+        "correctAns": "mirage"
+    },
+    {
+        "QorL":"Q",
+        "question":"The incident ray, refracted ray and the normal in refractive phenomenon of light are in ....... plane",
+        "options":
+        [
+            "perpendicular",
+            "vertical",
+            "different",
+            "same"
+        ],
+        "correctAns": "same"
+    },
+    {
+        "QorL":"Q",
+        "question":"In vacuum, ..... of light of all frequencies is the same",
+        "options":
+        [
+            "velocity",
+            "intensity",
+            "both (a) and (b)",
+            "None of these"
+        ],
+        "correctAns": "velocity"
+    },
+    {
+        "QorL":"Q",
+        "question":"Light from which bulb gets dispersed.",
+        "options":
+        [
+            "LED bulb",
+            "tungsten bulb",
+            "both (a) and (b)",
+            "none of these"
+        ],
+        "correctAns": "both (a) and (b)"
+    },
+    {
+        "QorL":"Q",
+        "question":" A ray of light strike's the surface of glass slab at an angle of 20 degree with the surface of the slab, then the angle of incidence will be .....",
+        "options":
+        [
+            "70 degree",
+            "60 degree",
+            "100 degree",
+            "80 degree"
+        ],
+        "correctAns": "70 degree"
+    },
+    {
+        "QorL":"Q",
+        "question":"The angle of incidence, at which the angle of refraction is 90 degree  is called ....",
+        "options":
+        [
+            "surface angle",
+            "critical angle",
+            "special angle",
+            "internal angle"
+        ],
+        "correctAns": "critical angle"
+    }        
+]
