@@ -1,0 +1,231 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"The atomic energy plant at Chernobyl was used only for generating _______",
+        "options":
+        [
+            "electricity ",
+            "solar power",
+            "atomic energy ",
+            "agriculture"
+        ],
+        "correctAns": "electricity"
+    },
+    {
+        "QorL":"Q",
+        "question":"World Biodiversity Day",
+        "options":
+        [
+            "22 may",
+            "22 june",
+            "5 july",
+            "16 sept."
+        ],
+        "correctAns": "22 june"
+    },
+    {
+        "QorL":"Q",
+        "question":"The Earth is sufficient to satisfy everyone’s need but not the greed.",
+        "options":
+        [
+            "Pandit ji",
+            "Indira Gandhi",
+            "Mahatma Gandhi",
+            "None of these"
+        ],
+        "correctAns": "Mahatma Gandhi"
+    },
+    {
+        "QorL":"Q",
+        "question":"Forest Conservation Act, ………",
+        "options":
+        [
+            "1947",
+            "1934",
+            "1980",
+            "2001"
+        ],
+        "correctAns": "1980"
+    },
+    {
+        "QorL":"Q",
+        "question":"_________ is a chemical factor of abiotic components.",
+        "options":
+        [
+            "Air",
+            "water",
+            "Nutrients",
+            "Sunlight"
+        ],
+        "correctAns": "Nutrients"
+    },
+    {
+        "QorL":"Q",
+        "question":"__________ is an organic compound of abiotic components.",
+        "options":
+        [
+            "Proteins",
+            "Iron",
+            "Sodium",
+            "Oxygen"
+        ],
+        "correctAns": "Proteins"
+    },
+    {
+        "QorL":"Q",
+        "question":"_______ is a rare species.",
+        "options":
+        [
+            "Lesser florican ",
+            "Tiger",
+            "Giant squirrel. ",
+            "Musk deer"
+        ],
+        "correctAns": "Musk deer"
+    },
+    {
+        "QorL":"Q",
+        "question":"_________ is an indeterminate species.",
+        "options":
+        [
+            "Red panda",
+            "Lion",
+            "Lion tailed monkey ",
+            "Giant squirrel"
+        ],
+        "correctAns": "Giant squirrel"
+    },
+    {
+        "QorL":"Q",
+        "question":"Environmental Conservation Act,",
+        "options":
+        [
+            "1999",
+            "1984",
+            "1986",
+            "2005"
+        ],
+        "correctAns": "1986"
+    },
+    {
+        "QorL":"Q",
+        "question":"Role in Environment",
+        "options":
+        [
+            "Conservation",
+            "Awareness",
+            "Preservation",
+            "Pollution"
+        ],
+        "correctAns": "Pollution"
+    },
+    {
+        "QorL":"Q",
+        "question":"Occurrence of diversity among the organisms of the same species is called......diversity",
+        "options":
+        [
+            "species",
+            "genetic",
+            "ecosystem",
+            "Animal"
+        ],
+        "correctAns": "genetic"
+    },
+    {
+        "QorL":"Q",
+        "question":"In modern civilization,-------- has become a primary need.",
+        "options":
+        [
+            "food",
+            "cloth",
+            "shelter",
+            "Energy"
+        ],
+        "correctAns": "Energy"
+    },
+    {
+        "QorL":"Q",
+        "question":"Sunderban sanctuary of West Bengal is reserved for ",
+        "options":
+        [
+            "Tigers",
+            "Leopards",
+            "Elephant",
+            "None of these"
+        ],
+        "correctAns": "Tigers"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which one is not a International Environment Organizations",
+        "options":
+        [
+            "(IUCN)",
+            "(IPCC)",
+            "World Wildlife Fund",
+            "Chipko Centre"
+        ],
+        "correctAns": "Chipko Centre"
+    },
+    {
+        "QorL":"Q",
+        "question":"In 1972, United Nations Environment Program (UNEP)",
+        "options":
+        [
+            "1960",
+            "1950",
+            "1972",
+            "1900"
+        ],
+        "correctAns": "1972"
+    },
+    {
+        "QorL":"Q",
+        "question":"Manas sanctuary situated in which city",
+        "options":
+        [
+            "Assam",
+            "Mumbai",
+            "U.P.",
+            "M.P."
+        ],
+        "correctAns": "Assam"
+    },
+    {
+        "QorL":"Q",
+        "question":"use of articles prepared from skin or organs of wild animals has been banned",
+        "options":
+        [
+            "49 A",
+            "49 B",
+            "49 C",
+            "None of these"
+        ],
+        "correctAns": "49 B"
+    },
+    {
+        "QorL":"Q",
+        "question":"……………. is world’s largest organization engaged in environmental activities.",
+        "options":
+        [
+            "Red list",
+            "Green peace",
+            "Both of you",
+            "None of these"
+        ],
+        "correctAns": "Green peace"
+    },
+    {
+        "QorL":"Q",
+        "question":"Bombay Natural History Society, ",
+        "options":
+        [
+            "Assam",
+            "Odisha",
+            "Mumbai",
+            "None of these."
+        ],
+        "correctAns": "Mumbai"
+    }        
+]
