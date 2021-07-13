@@ -1,0 +1,243 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"Classification proposed by …………..is  known as ‘Artificial method’",
+        "options":
+        [
+            "Aristotle",
+            "Darwin",
+            "Lamarkism",
+            "Watson"
+        ],
+        "correctAns": "Aristotle"
+    },
+    {
+        "QorL":"Q",
+        "question":"_________ is second largest phylum in animal kingdom.",
+        "options":
+        [
+            "Mollusca ",
+            "Arthropods",
+            "Porifera",
+            "Platyhelminthes"
+        ],
+        "correctAns": "Mollusca"
+    },
+    {
+        "QorL":"Q",
+        "question":"Non-chordates are classified / divided into ……… phyla.",
+        "options":
+        [
+            "12",
+            "10",
+            "15",
+            "9"
+        ],
+        "correctAns": "10"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which of the following animals can regenerate it's broken body parts ?",
+        "options":
+        [
+            "Frog ",
+            "Starfish ",
+            "Sparrow",
+            "Pigeon"
+        ],
+        "correctAns": "Starfish"
+    },
+    {
+        "QorL":"Q",
+        "question":"multicellular animals, if tissues are not formed, their body organization is called as a",
+        "options":
+        [
+            "cell - tissue grade organization.",
+            "Tissue -Organ grade organization",
+            "Cellular grade organization",
+            "Protoplasmic-grade organization"
+        ],
+        "correctAns": "Cellular grade organization"
+    },
+    {
+        "QorL":"Q",
+        "question":"Larvae of_____metamorphose into adults after settling down at bottom of the sea",
+        "options":
+        [
+            "Hemichordata ",
+            "Urochordata",
+            "Cephalochordata",
+            "Cyclostomata"
+        ],
+        "correctAns": "Urochordata"
+    },
+    {
+        "QorL":"Q",
+        "question":"The body organization of unicellular organisms is of _________ grade",
+        "options":
+        [
+            "cellular ",
+            "tissue",
+            "protoplasmic ",
+            "organ"
+        ],
+        "correctAns": "protoplasmic "
+    },
+    {
+        "QorL":"Q",
+        "question":"Calcareous spines are present on the body of ____animal",
+        "options":
+        [
+            "fish ",
+            "snail",
+            "sponge",
+            "starfish"
+        ],
+        "correctAns": "starfish"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which of the following is a warm blooded (homeothers) animal?",
+        "options":
+        [
+            "Bat",
+            "Tortoise",
+            "Wall lizard",
+            "Crocodile"
+        ],
+        "correctAns": "Bat"
+    },
+    {
+        "QorL":"Q",
+        "question":"body of this animal is _____shaped to minimize water resistance",
+        "options":
+        [
+            "pointed ",
+            "spindle ",
+            "cartilaginous ",
+            "flat"
+        ],
+        "correctAns": "spindle"
+    },
+    {
+        "QorL":"Q",
+        "question":"_______ animal is called a friend of farmers.",
+        "options":
+        [
+            "Rabbit ",
+            "Cat ",
+            "Leech",
+            "Earthworm"
+        ],
+        "correctAns": "Earthworm"
+    },
+    {
+        "QorL":"Q",
+        "question":"……….. most clever animal among all non-chordates.",
+        "options":
+        [
+            "Rat",
+            "Monkey",
+            "Octopus",
+            "None of these"
+        ],
+        "correctAns": "Octopus"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which of the following animals has a hard calcareous shell?",
+        "options":
+        [
+            "nereis",
+            "shark",
+            "bivalve",
+            "Herdmania"
+        ],
+        "correctAns": "bivalve"
+    },
+    {
+        "QorL":"Q",
+        "question":"Petromyzon, Myxine are examples of which phylum ?",
+        "options":
+        [
+            "Pisces",
+            "Cyclostomata",
+            "Craniata",
+            "Amphibia"
+        ],
+        "correctAns": "Cyclostomata"
+    },
+    {
+        "QorL":"Q",
+        "question":"mammary glands is typical character of  ",
+        "options":
+        [
+            "mammalia",
+            "Pisces",
+            "Amphibia",
+            "Craniate"
+        ],
+        "correctAns": "mammalia"
+    },
+    {
+        "QorL":"Q",
+        "question":"Bat is included in which class?",
+        "options":
+        [
+            "Amphibia ",
+            "Reptilia ",
+            "Aves",
+            "Mammalia"
+        ],
+        "correctAns": "Mammalia"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which special cells are present in body of sponges (Porifera)?",
+        "options":
+        [
+            "Collar cells ",
+            "Cnidoblasts ",
+            "Germ cells ",
+            "Ectodermal cells"
+        ],
+        "correctAns": "Collar cells"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which of following animals’ body shows bilateral symmetry?",
+        "options":
+        [
+            "Star fish. ",
+            "Jelly fish",
+            "Earthworm",
+            "Sponge"
+        ],
+        "correctAns": "Earthworm"
+    },
+    {
+        "QorL":"Q",
+        "question":"which vertebrates are completely adapted for aerial life……",
+        "options":
+        [
+            "Reptilia",
+            "Mammalia",
+            "Aves",
+            "None of these"
+        ],
+        "correctAns": "Aves"
+    },
+    {
+        "QorL":"Q",
+        "question":"…………. is considered as connecting link between non-chordates and chordates",
+        "options":
+        [
+            "Balanoglossus ",
+            "Saccoglossus",
+            "Star fish ",
+            "sea-urchin"
+        ],
+        "correctAns": "Balanoglossus "
+    }        
+]
