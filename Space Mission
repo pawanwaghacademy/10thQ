@@ -1,0 +1,243 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"Who is the father of Indian space ?",
+        "options":
+        [
+            "Dr. Homibhabha",
+            "Dr. V. R. Gowarikar",
+            "A. P. J. Abdul kalam",
+            "Vikram Sarabai"
+        ],
+        "correctAns": "Vikram Sarabai"
+    },
+    {
+        "QorL":"Q",
+        "question":"The gravitational constant is ",
+        "options":
+        [
+            "6.4 x 10^6 m",
+            "6.67 x 10^-11 Nm2/kg",
+            "6 x 10^ 24",
+            "None of these"
+        ],
+        "correctAns": "6.67 x 10^-11 Nm2/kg"
+    },
+    {
+        "QorL":"Q",
+        "question":"Satish Dhavan Space research center is at ................",
+        "options":
+        [
+            "Chandipur",
+            "Ahmedabad",
+            "Sriharikota",
+            "Guhati"
+        ],
+        "correctAns": "Sriharikota"
+    },
+    {
+        "QorL":"Q",
+        "question":"The first artificial satellite is ..................",
+        "options":
+        [
+            "EDUSAT",
+            "Sputnik",
+            "IRNSS",
+            "INSAST"
+        ],
+        "correctAns": "Sputnik"
+    },
+    {
+        "QorL":"Q",
+        "question":"Closest astronomical object to earth is .........",
+        "options":
+        [
+            "Moon",
+            "Space station",
+            "Asteroids",
+            "Mars"
+        ],
+        "correctAns": "Moon"
+    },
+    {
+        "QorL":"Q",
+        "question":"The satellite launch centers ...........................",
+        "options":
+        [
+            "Sriharikota",
+            "Chandipur",
+            "Jhumba",
+            "All of the above"
+        ],
+        "correctAns": "All of the above"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which country was the first in sending in sending satellite in space ?",
+        "options":
+        [
+            "India",
+            "China",
+            "Soviet Union",
+            "USA"
+        ],
+        "correctAns": "Soviet Union"
+    },
+    {
+        "QorL":"Q",
+        "question":"The mass of earth is ........",
+        "options":
+        [
+            "6 x 10^24 kg",
+            "6.4 x 10^6 kg",
+            "6.67 x 10^-11 Nm2/kg",
+            "None of these"
+        ],
+        "correctAns": "6 x 10^24 kg"
+    },
+    {
+        "QorL":"Q",
+        "question":" If the satellite orbits above 180 km to 2000 km from the earth's surface. the satellite orbit is called ................",
+        "options":
+        [
+            "Medium earth orbit",
+            "Low earth orbit",
+            "High earth orbit",
+            "None of these"
+        ],
+        "correctAns": "Low earth orbit"
+    },
+    {
+        "QorL":"Q",
+        "question":"The radius of earth is ............",
+        "options":
+        [
+            "6 x 10^24 kg",
+            "6.4 x 10^6 m",
+            "6.67 x 10^-11 Nm2/kg",
+            "All"
+        ],
+        "correctAns": "6.4 x 10^6 m"
+    },
+    {
+        "QorL":"Q",
+        "question":" ....................... satellite series works in the field of telecommunication ?",
+        "options":
+        [
+            "GSAT",
+            "INSAT",
+            "Both (a) and (b)",
+            "None of these"
+        ],
+        "correctAns": "Both (a) and (b)"
+    },
+    {
+        "QorL":"Q",
+        "question":"Kalpana Chavla obtained her doctorate from ...........",
+        "options":
+        [
+            "University of Colorado",
+            "University of Oxford",
+            "University of Columbia",
+            "University of Cambridge."
+        ],
+        "correctAns": "University of Colorado"
+    },
+    {
+        "QorL":"Q",
+        "question":"............ satellite series is working for monitoring and management of natural resources and disaster management.",
+        "options":
+        [
+            "EDUSAT",
+            "GSLV",
+            "PSLV",
+            "IRS"
+        ],
+        "correctAns": "IRS"
+    },
+    {
+        "QorL":"Q",
+        "question":" If the satellite orbits above 35780 km from the earth's  surface. the satellite orbit is called .................",
+        "options":
+        [
+            "Medium earth orbit",
+            "High earth orbit",
+            "Low earth orbit",
+            "Both (a) and (c)"
+        ],
+        "correctAns": "High earth orbit"
+    },
+    {
+        "QorL":"Q",
+        "question":"Who perished the explosion of columbia space craft",
+        "options":
+        [
+            "Rakesh Sharma",
+            "Sunita Williams",
+            "Kalpana Chavala",
+            "Both (a) and (c)"
+        ],
+        "correctAns": "Kalpana Chavala"
+    },
+    {
+        "QorL":"Q",
+        "question":"The space mission to moon is executed by .................",
+        "options":
+        [
+            "China",
+            "India",
+            "Japan",
+            "All of these"
+        ],
+        "correctAns": "All of these"
+    },
+    {
+        "QorL":"Q",
+        "question":"VIkram Sarabai space center is at ..............",
+        "options":
+        [
+            "Sriharikota",
+            "Thiruvananthapuram",
+            "Chandipur",
+            "Ahmedabad"
+        ],
+        "correctAns": "Thiruvananthapuram"
+    },
+    {
+        "QorL":"Q",
+        "question":"If a spacecraft, is to escape the earth's gravitational force, to travel to the outer space, is must have minimum velocity ..................",
+        "options":
+        [
+            "11.2 km/sec",
+            "20 km/sec",
+            "100 km/sec",
+            "50 km/sec"
+        ],
+        "correctAns": "11.2 km/sec"
+    },
+    {
+        "QorL":"Q",
+        "question":"If a manmade object revolves around the earth or any other planet in a fixed orbit it is called as ............",
+        "options":
+        [
+            "Space station",
+            "Mars",
+            "Artificial Satellite",
+            "Mercury"
+        ],
+        "correctAns": "Artificial Satellite"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which one among the following is navigational satellite?",
+        "options":
+        [
+            "INSAT",
+            "IRNSS",
+            "IRS",
+            "GSAT"
+        ],
+        "correctAns": "IRNSS"
+    }        
+]
