@@ -1,0 +1,243 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"Which compound is also called spirit ?",
+        "options":
+        [
+            "ester",
+            "ethyl ethanoate",
+            "ethanol",
+            "ethanoic acid"
+        ],
+        "correctAns": "ethanol"
+    },
+    {
+        "QorL":"Q",
+        "question":"Name the compound CH3 - CH3.",
+        "options":
+        [
+            "Ethylene",
+            "Ethane",
+            "Ethene",
+            "Ethyne"
+        ],
+        "correctAns": "Ethane"
+    },
+    {
+        "QorL":"Q",
+        "question":"The melting point and boiling point of carbon compounds is less than .......",
+        "options":
+        [
+            "300 degree celcius",
+            "500 degree celcius",
+            "200 degree celcius",
+            "1000 degree celcius"
+        ],
+        "correctAns": "300 degree celcius"
+    },
+    {
+        "QorL":"Q",
+        "question":" The molecular formula for hydrogen peroxide is ............",
+        "options":
+        [
+            "H2O2",
+            "H2O",
+            "H2O4",
+            "HO2"
+        ],
+        "correctAns": "H2O2"
+    },
+    {
+        "QorL":"Q",
+        "question":"Cellulose is found in ........",
+        "options":
+        [
+            "Chromosomes",
+            "Latex",
+            "Starch",
+            "Wood"
+        ],
+        "correctAns": "Wood"
+    },
+    {
+        "QorL":"Q",
+        "question":"The reaction used in preparation of soap from fats is called ..........",
+        "options":
+        [
+            "Polymerisation",
+            "Saponification",
+            "Chlorination",
+            "Esterification"
+        ],
+        "correctAns": "Saponification"
+    },
+    {
+        "QorL":"Q",
+        "question":"Name the compound, Which have sweet odour .......",
+        "options":
+        [
+            "ester",
+            "ethyl ethanoate",
+            "ethanoic acid",
+            "ethanol"
+        ],
+        "correctAns": "ester"
+    },
+    {
+        "QorL":"Q",
+        "question":"Removal of one molecule of water from ethanol is ......... reaction.",
+        "options":
+        [
+            "oxidation",
+            "substitution",
+            "dehydration",
+            "combustion"
+        ],
+        "correctAns": "dehydration"
+    },
+    {
+        "QorL":"Q",
+        "question":"The smallest hydrocarbon is ",
+        "options":
+        [
+            "Propane",
+            "Butane",
+            "Ethane",
+            "Methane"
+        ],
+        "correctAns": "Methane"
+    },
+    {
+        "QorL":"Q",
+        "question":"The R.N.A. polymer has .......... monomer",
+        "options":
+        [
+            "Nucleotide",
+            "Isoprene",
+            "Glucose",
+            "Alpha amino acid"
+        ],
+        "correctAns": "Nucleotide"
+    },
+    {
+        "QorL":"Q",
+        "question":"D.N.A is found in ............",
+        "options":
+        [
+            "Starch",
+            "Chromosomes",
+            "Latex",
+            "Wood"
+        ],
+        "correctAns": "Chromosomes"
+    },
+    {
+        "QorL":"Q",
+        "question":"If ethanol is added to petrol, the fuel is called ........",
+        "options":
+        [
+            "Gasohol",
+            "None",
+            "Ethel",
+            "Petron"
+        ],
+        "correctAns": "Gasohol"
+    },
+    {
+        "QorL":"Q",
+        "question":"Potassium permanganate is used as ...........",
+        "options":
+        [
+            "Reducing agents",
+            "Oxidizing agents",
+            "Both (a) and (b)",
+            "None of above"
+        ],
+        "correctAns": "Oxidizing agents"
+    },
+    {
+        "QorL":"Q",
+        "question":"Because of which property, carbon atom form. extremely big molecule?",
+        "options":
+        [
+            "catenation",
+            "esterification",
+            "hydrogenation",
+            "Sulphonation"
+        ],
+        "correctAns": "catenation"
+    },
+    {
+        "QorL":"Q",
+        "question":"What's the electronic configuration of carbon ?",
+        "options":
+        [
+            "(2, 4)",
+            "(1, 5)",
+            "(2, 2, 2)",
+            "(1, 2, 3)"
+        ],
+        "correctAns": "(2, 4)"
+    },
+    {
+        "QorL":"Q",
+        "question":"The chemical bond formed by sharing of electrons, is called as ..... bond.",
+        "options":
+        [
+            "Electrovalent",
+            "Ionic bond",
+            "covalent bond",
+            "none of these"
+        ],
+        "correctAns": "covalent bond"
+    },
+    {
+        "QorL":"Q",
+        "question":"Name the compound CH3 - CH2 - OH",
+        "options":
+        [
+            "Ethanol",
+            "Ester",
+            "Ethanoic acid",
+            "Ethyl ethanoate"
+        ],
+        "correctAns": "Ethanol"
+    },
+    {
+        "QorL":"Q",
+        "question":"Name the compound CH3 - CH2 - O - Na",
+        "options":
+        [
+            "sodium ethoxide",
+            "sodium bicarbonate",
+            "sodium ethanoate",
+            "sodium carbonate"
+        ],
+        "correctAns": "sodium ethoxide"
+    },
+    {
+        "QorL":"Q",
+        "question":"In which molecule there are three covalent bonds",
+        "options":
+        [
+            "O2",
+            "H2",
+            "N2",
+            "All of above"
+        ],
+        "correctAns": "N2"
+    },
+    {
+        "QorL":"Q",
+        "question":"Ethanol is used as a solvent in the manufacture of ..........",
+        "options":
+        [
+            "Ionic",
+            "Cough mixture",
+            "tincture iodine",
+            "All of these"
+        ],
+        "correctAns": "All of these"
+    }        
+]
