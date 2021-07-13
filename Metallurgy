@@ -1,0 +1,243 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"Which Properties metal have ?",
+        "options":
+        [
+            "Malleability",
+            "Ductility",
+            "sonority",
+            "all of the above"
+        ],
+        "correctAns": "all of the above"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which of the following is the hardest natural subtance ?",
+        "options":
+        [
+            "Bromine",
+            "Diamond",
+            "Sodium",
+            "Graphite"
+        ],
+        "correctAns": "Diamond"
+    },
+    {
+        "QorL":"Q",
+        "question":"The strong heating of sulphide ore of metal in air is called ...........",
+        "options":
+        [
+            "Calcination",
+            "Oxidation",
+            "Reduction",
+            "Roasting"
+        ],
+        "correctAns": "Roasting"
+    },
+    {
+        "QorL":"Q",
+        "question":"In which method, magnetic and non magnetic ingredients are seperated  ?",
+        "options":
+        [
+            "Magnetic separation method",
+            "Leaching",
+            "Separation based on gravitation",
+            "Froth Floatation method"
+        ],
+        "correctAns": "Magnetic separation method"
+    },
+    {
+        "QorL":"Q",
+        "question":" Which of the following is the formula for aluminium ore?",
+        "options":
+        [
+            "NaAlO2",
+            "Al(OH)3",
+            "Al2O3.2H2O",
+            "Al2O3"
+        ],
+        "correctAns": "Al2O3.2H2O"
+    },
+    {
+        "QorL":"Q",
+        "question":"Corrosion of iron is due to ...........",
+        "options":
+        [
+            "Silver Sulphide",
+            "Carbon dioxide",
+            "Moist air",
+            "None of above"
+        ],
+        "correctAns": "Moist air"
+    },
+    {
+        "QorL":"Q",
+        "question":"Corrosion of silver is due to .............",
+        "options":
+        [
+            "sulphide",
+            "moist air",
+            "carbon dioxide",
+            "none of the above"
+        ],
+        "correctAns": "sulphide"
+    },
+    {
+        "QorL":"Q",
+        "question":"The alloy is called as amalgam, when it contains ...... ",
+        "options":
+        [
+            "Aluminium",
+            "mercury",
+            "platinum",
+            "silver"
+        ],
+        "correctAns": "mercury"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which method uses NaOH to remove impurities of aluminium ore?",
+        "options":
+        [
+            "Hall's method",
+            "Bayer's method",
+            "Both (a) and (b)",
+            "None of these"
+        ],
+        "correctAns": "Bayer's method"
+    },
+    {
+        "QorL":"Q",
+        "question":"What goes on decreasing, on exposure of metal to atmospheric oxygen ?",
+        "options":
+        [
+            "Lustre",
+            "Melting point",
+            "Boiling Point",
+            "Sonority"
+        ],
+        "correctAns": "Lustre"
+    },
+    {
+        "QorL":"Q",
+        "question":"In which of method, is the hydraulic separation method is used?",
+        "options":
+        [
+            "Leaching",
+            "Separation based on gravity",
+            "Magnetic separation method",
+            "Froth floatation method"
+        ],
+        "correctAns": "Separation based on gravity"
+    },
+    {
+        "QorL":"Q",
+        "question":"In Which of the following, water does not stick ?",
+        "options":
+        [
+            "Wax",
+            "Colocasia leaves",
+            "Both (a) and (b)",
+            "None of the above"
+        ],
+        "correctAns": "Both (a) and (b)"
+    },
+    {
+        "QorL":"Q",
+        "question":"The molecular formula of cryolite is ",
+        "options":
+        [
+            "Caf2",
+            "Na3Alf6",
+            "Al2O3.2H2O",
+            "NaAlO2"
+        ],
+        "correctAns": "Na3Alf6"
+    },
+    {
+        "QorL":"Q",
+        "question":"The melting point of alumina is ....",
+        "options":
+        [
+            "1500 degree celcius",
+            "2000 degree celcius",
+            "150 degree celcius",
+            "700 degree celcius"
+        ],
+        "correctAns": "2000 degree celcius"
+    },
+    {
+        "QorL":"Q",
+        "question":"Al(OH)3 is called as ",
+        "options":
+        [
+            "Aluminium metal",
+            "Aluminium oxide",
+            "Aluminium hydroxide",
+            "Alumina"
+        ],
+        "correctAns": "Aluminium hydroxide"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which metal among the following, are found in free state in nature ?",
+        "options":
+        [
+            "Gold",
+            "Copper",
+            "Zinc",
+            "Aluminium"
+        ],
+        "correctAns": "Gold"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which method is used to purify metal?",
+        "options":
+        [
+            "Hall's method",
+            "Baeyer's method",
+            "Electrolysis method",
+            "None of the above"
+        ],
+        "correctAns": "Electrolysis method"
+    },
+    {
+        "QorL":"Q",
+        "question":" In electrolysis of molten sodium chloride sodium is diposited on ........",
+        "options":
+        [
+            "Cathod",
+            "Anode",
+            "Both (a) and (b)",
+            "None of above"
+        ],
+        "correctAns": "Cathod"
+    },
+    {
+        "QorL":"Q",
+        "question":"Group 1 contains ............... metals",
+        "options":
+        [
+            "Alkaline earth metals",
+            "Alkali metals",
+            "Solid metals",
+            "None of the above"
+        ],
+        "correctAns": "Alkali metals"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which metal exist in liquid state, at room temperature?",
+        "options":
+        [
+            "gallium",
+            "mercury",
+            "none of the above",
+            "both (a) and (b)"
+        ],
+        "correctAns": "both (a) and (b)"
+    }        
+]
