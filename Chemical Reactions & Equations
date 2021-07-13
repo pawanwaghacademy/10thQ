@@ -1,0 +1,243 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"2H2O  gives H2↑ + O2 ↑ is ..............",
+        "options":
+        [
+            "Displacement reaction",
+            "Double displacement reaction",
+            "Combination reaction",
+            "Decomposition reaction"
+        ],
+        "correctAns": "Decomposition reaction"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which of the following is the molecular formula of slaked lime ?",
+        "options":
+        [
+            "CaO",
+            "Ca(OH)2",
+            "CaCO3",
+            "CO2"
+        ],
+        "correctAns": "Ca(OH)2"
+    },
+    {
+        "QorL":"Q",
+        "question":"Silver chloride (AgCl) is ........ colour precipitate",
+        "options":
+        [
+            "Reddish brown",
+            "Black",
+            "Brown",
+            "White"
+        ],
+        "correctAns": "White"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which of the following is observed to be reddish colour poisonous gas ?",
+        "options":
+        [
+            "N2O",
+            "N2O2",
+            "NO2",
+            "NO"
+        ],
+        "correctAns": "NO2"
+    },
+    {
+        "QorL":"Q",
+        "question":" During cellular respiration, which of the following reaction takes place?",
+        "options":
+        [
+            "Redox",
+            "Oxidation",
+            "Reduction",
+            "None of these"
+        ],
+        "correctAns": "Redox"
+    },
+    {
+        "QorL":"Q",
+        "question":"Melting of ice is an ........... process ",
+        "options":
+        [
+            "Intrinsic",
+            "Exothermic",
+            "Endothermic",
+            "Extrinsic"
+        ],
+        "correctAns": "Endothermic"
+    },
+    {
+        "QorL":"Q",
+        "question":"The chemical reaction in which reactant combines with hydrogen to formed product is called ........ reaction",
+        "options":
+        [
+            "Reduction",
+            "Oxidation",
+            "Redox",
+            "None of these"
+        ],
+        "correctAns": "Reduction"
+    },
+    {
+        "QorL":"Q",
+        "question":"In the chemical equation, the ........... are written on the left hand side.",
+        "options":
+        [
+            "catalyst",
+            "product",
+            "reactants",
+            "element"
+        ],
+        "correctAns": "reactants"
+    },
+    {
+        "QorL":"Q",
+        "question":"The evapouration of water is a kind of ............. change",
+        "options":
+        [
+            "Chemical change",
+            "Physical change",
+            "Both (a) and (b)",
+            "No changes"
+        ],
+        "correctAns": "Physical change"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which catalyst is used in the reaction of vegetable oil with hydrogen gas?",
+        "options":
+        [
+            "Calcium",
+            "Chromium",
+            "Bismuth",
+            "Nickel"
+        ],
+        "correctAns": "Nickel"
+    },
+    {
+        "QorL":"Q",
+        "question":"The conversion of milk into curd is a .......... change",
+        "options":
+        [
+            "No change",
+            "Physical and chemical change both",
+            "chemical change",
+            "physical change"
+        ],
+        "correctAns": "chemical change"
+    },
+    {
+        "QorL":"Q",
+        "question":" Which gas is released during the decomposition of CaCO3 (Calcium Carbonate)?",
+        "options":
+        [
+            "CO2 gas",
+            "H2 gas",
+            "N2 gas",
+            "CO2 and O2 gas both"
+        ],
+        "correctAns": "CO2 gas"
+    },
+    {
+        "QorL":"Q",
+        "question":" Rust is a reddish colour hydrated oxide of ........ ion",
+        "options":
+        [
+            "Fe+2",
+            "Fe+2 and Fe+3  both",
+            "Fe+3",
+            "Fe2O3 and Fe+2"
+        ],
+        "correctAns": "Fe+3"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which gas is released in the reaction Cu + HNO3(dilute) gives Cu(NO3) + H2 O + ?",
+        "options":
+        [
+            "NO",
+            "N2",
+            "NO2",
+            "None of these"
+        ],
+        "correctAns": "NO"
+    },
+    {
+        "QorL":"Q",
+        "question":"The given below reaction C12 H22 O 11 (heat) → 12C + 11H2O is an example of ...............",
+        "options":
+        [
+            "Disp.ment reaction",
+            "Doub.displa.reaction",
+            "Decompostion reaction",
+            "Combination reaction"
+        ],
+        "correctAns": "Decompostion reaction"
+    },
+    {
+        "QorL":"Q",
+        "question":"The foul odour of the left over cooking oil is called as ...........",
+        "options":
+        [
+            "Ageing",
+            "Corrosion",
+            "Rancidity",
+            "Rusting"
+        ],
+        "correctAns": "Rancidity"
+    },
+    {
+        "QorL":"Q",
+        "question":"Gaining of electron is an ............. process.",
+        "options":
+        [
+            "Reduction",
+            "Redox",
+            "Oxidation",
+            "None of these"
+        ],
+        "correctAns": "Reduction"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which of the following is a chemical change ?",
+        "options":
+        [
+            "Digestion of food in stomach",
+            "Milk turning into a curd",
+            "Ripening of fruit",
+            "All of the above"
+        ],
+        "correctAns": "All of the above"
+    },
+    {
+        "QorL":"Q",
+        "question":"The voter's ink, which chemical is used ?",
+        "options":
+        [
+            "Silver nitrate",
+            "Copper sulphate",
+            "Sodium chloride",
+            "Nitric acid"
+        ],
+        "correctAns": "Silver nitrate"
+    },
+    {
+        "QorL":"Q",
+        "question":"Aluminium utensils loses its shining, lustre due to .......... reaction ",
+        "options":
+        [
+            "redox",
+            "Oxidation",
+            "Reduction",
+            "None of these"
+        ],
+        "correctAns": "Oxidation"
+    }        
+]
