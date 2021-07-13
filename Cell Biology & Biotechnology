@@ -1,0 +1,183 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"Transgenic raw potatoes generate the immunity against____disease.",
+        "options":
+        [
+            "plague",
+            "cholera ",
+            "leprosy",
+            "T.B."
+        ],
+        "correctAns": "cholera"
+    },
+    {
+        "QorL":"Q",
+        "question":"The property of stem cells is called _________.",
+        "options":
+        [
+            "diversity ",
+            "equality",
+            "differentiation",
+            "pluripotency"
+        ],
+        "correctAns": "differentiation"
+    },
+    {
+        "QorL":"Q",
+        "question":"The disease related with the synthesis of insulin is _______",
+        "options":
+        [
+            "cancer",
+            "arthritis",
+            "cardiac problems ",
+            "diabetes"
+        ],
+        "correctAns": "diabetes"
+    },
+    {
+        "QorL":"Q",
+        "question":"Donated organs are ",
+        "options":
+        [
+            "Eyes",
+            "Kidney",
+            "Both A and B",
+            "None of these"
+        ],
+        "correctAns": "Both A and B"
+    },
+    {
+        "QorL":"Q",
+        "question":"Government of India had established the National Biotechnology Board in",
+        "options":
+        [
+            "1982",
+            "1990",
+            "1995",
+            "2000"
+        ],
+        "correctAns": "1982"
+    },
+    {
+        "QorL":"Q",
+        "question":"________have valuable contributions in the green revolution in the USA.",
+        "options":
+        [
+            "Dr. Norman Borlaug",
+            "Dr. Swaminathan.",
+            "Dr. Wargis Currian. ",
+            "Dr. Hargovind Khurana."
+        ],
+        "correctAns": "Dr. Norman Borlaug"
+    },
+    {
+        "QorL":"Q",
+        "question":"Genetically Modified Crops are ",
+        "options":
+        [
+            "sunflower",
+            "BT cotton",
+            "Wheat",
+            "None of these"
+        ],
+        "correctAns": "BT cotton"
+    },
+    {
+        "QorL":"Q",
+        "question":"Production of replica of any cell or organ or entire organism is called ………",
+        "options":
+        [
+            "Gene therapy",
+            "regeneration",
+            "interferon",
+            "cloning"
+        ],
+        "correctAns": "cloning"
+    },
+    {
+        "QorL":"Q",
+        "question":"A………was born in Scotland by cloning technique on 5th July 1996",
+        "options":
+        [
+            "cat",
+            "Dog",
+            "Sheep",
+            "Horse"
+        ],
+        "correctAns": "Sheep"
+    },
+    {
+        "QorL":"Q",
+        "question":"The fern ……… can absorb the arsenic from the soil.",
+        "options":
+        [
+            "Deinococcus radiodurans",
+            "Pteris vitata",
+            "Pseudomonas",
+            "Rhizobium"
+        ],
+        "correctAns": "Pteris vitata"
+    },
+    {
+        "QorL":"Q",
+        "question":"Indian Agricultural Research Institute, is located in which place",
+        "options":
+        [
+            "Mumbai",
+            "Chennai",
+            "New Delhi",
+            "Banglore"
+        ],
+        "correctAns": "New Delhi"
+    },
+    {
+        "QorL":"Q",
+        "question":"For the purpose of preservation stem cell samples are kept in -------",
+        "options":
+        [
+            "liquid oxygen ",
+            "hydrogen ",
+            "liquid chlorine ",
+            "liquid nitrogen"
+        ],
+        "correctAns": "liquid nitrogen"
+    },
+    {
+        "QorL":"Q",
+        "question":"Phenylketonuria arises due to genetic changes in ______ cells.",
+        "options":
+        [
+            "liver",
+            "intestine ",
+            "pancreas ",
+            "heart"
+        ],
+        "correctAns": "liver"
+    },
+    {
+        "QorL":"Q",
+        "question":"medicinal plant to cure Cough",
+        "options":
+        [
+            "Adulsa",
+            "Aloe vera",
+            "Neem",
+            "None of these"
+        ],
+        "correctAns": "Adulsa"
+    },
+    {
+        "QorL":"Q",
+        "question":"Center for DNA fingerprinting and Diagnostics, ……",
+        "options":
+        [
+            "Nagpur",
+            "Sikkim",
+            "Goa",
+            "Hyderabad"
+        ],
+        "correctAns": "Hyderabad"
+    }        
+]
