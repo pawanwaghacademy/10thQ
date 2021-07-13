@@ -1,0 +1,243 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"The principle of electromagnetic induction invented by ",
+        "options":
+        [
+            "Michael Faraday",
+            "Darwin",
+            "Lamarkism",
+            "None of these"
+        ],
+        "correctAns": "Michael Faraday"
+    },
+    {
+        "QorL":"Q",
+        "question":"The electrical power generating machine based on this principle is called ",
+        "options":
+        [
+            "turbine",
+            "rotator",
+            "electric generator",
+            "none of these"
+        ],
+        "correctAns": "electric generator"
+    },
+    {
+        "QorL":"Q",
+        "question":"Most electric power plants are based on the principle of _______.",
+        "options":
+        [
+            "electro induction",
+            "magnetic induction.",
+            "electro- magnetic induction",
+            "electromagnet"
+        ],
+        "correctAns": "electro- magnetic induction"
+    },
+    {
+        "QorL":"Q",
+        "question":"In thermal power plants, the chemical energy in the ………….. is converted into electrical energy",
+        "options":
+        [
+            "Nuclear energy",
+            "Coal",
+            "Both a and b",
+            "None of these"
+        ],
+        "correctAns": "Coal"
+    },
+    {
+        "QorL":"Q",
+        "question":"In the power plant based on nuclear energy_____is used to rotate the generator",
+        "options":
+        [
+            "Steam turbine",
+            "air turbine ",
+            "water turbine ",
+            "none of these."
+        ],
+        "correctAns": "Steam turbine"
+    },
+    {
+        "QorL":"Q",
+        "question":"When neutron is bombarded on atom of uranium_____neutrons generated in this process.",
+        "options":
+        [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAns": "2"
+    },
+    {
+        "QorL":"Q",
+        "question":"This process of fission of U ranium -235 atoms continnues and is called the ",
+        "options":
+        [
+            "fission",
+            "fusion",
+            "nuclear reaction",
+            "chain reaction"
+        ],
+        "correctAns": "chain reaction"
+    },
+    {
+        "QorL":"Q",
+        "question":"Kinetic energy in flowing water drives _________ to generate electricity.",
+        "options":
+        [
+            "watermill",
+            "windmill ",
+            "turbines",
+            "turbines"
+        ],
+        "correctAns": "turbines"
+    },
+    {
+        "QorL":"Q",
+        "question":"Wind turbines with capacity are commercially available.",
+        "options":
+        [
+            "1 KW to 7 MW",
+            "1 KW to 7 KW ",
+            "1 KW to 7000 W ",
+            "1 W to 7 MW"
+        ],
+        "correctAns": "1 KW to 7 MW"
+    },
+    {
+        "QorL":"Q",
+        "question":"Uranium - 236 being extremely unstable converts into atoms of ",
+        "options":
+        [
+            "lithium",
+            "Barium ",
+            "Krypton",
+            "Both b and c"
+        ],
+        "correctAns": "Both b and c"
+    },
+    {
+        "QorL":"Q",
+        "question":"Solar photovoltaic cells convert solar radiation energy directly into _____ energy",
+        "options":
+        [
+            "electrical ",
+            "potential ",
+            "kinetic",
+            "Heat"
+        ],
+        "correctAns": "electrical"
+    },
+    {
+        "QorL":"Q",
+        "question":"The machine which converts kinetic energy of wind to electrical energy is called ",
+        "options":
+        [
+            "wind-turbine",
+            "wind mill",
+            "shaft",
+            "none of these"
+        ],
+        "correctAns": "wind-turbine"
+    },
+    {
+        "QorL":"Q",
+        "question":"These solar cells are made of a special type of material called semiconductor ",
+        "options":
+        [
+            "copper",
+            "silver",
+            "both a and b",
+            "silicon"
+        ],
+        "correctAns": "silicon"
+    },
+    {
+        "QorL":"Q",
+        "question":"A silicon solar cell of dimension 1 sq.cm. generates current of about ______.",
+        "options":
+        [
+            "50 mA ",
+            "30 mA ",
+            "50 A",
+            "30 A"
+        ],
+        "correctAns": "30 mA"
+    },
+    {
+        "QorL":"Q",
+        "question":"A silicon solar cell of dimension 1 sq.cm. generates ______ potential difference ",
+        "options":
+        [
+            "0.1 V. ",
+            "0.5 V. ",
+            "0.1 mV",
+            "0.5 mV"
+        ],
+        "correctAns": "0.5 V."
+    },
+    {
+        "QorL":"Q",
+        "question":"In nuclear power plants, neutrons are bombarded on atoms of ______.",
+        "options":
+        [
+            "uranium-236. ",
+            "barium",
+            "krypton. ",
+            "premium-235"
+        ],
+        "correctAns": "uranium-236"
+    },
+    {
+        "QorL":"Q",
+        "question":"which one is ecofriendly energy",
+        "options":
+        [
+            "solar energy",
+            "nuclear energy",
+            "thermal energy",
+            "none of these"
+        ],
+        "correctAns": "solar energy"
+    },
+    {
+        "QorL":"Q",
+        "question":"The …………… of the flowing water drives the turbine",
+        "options":
+        [
+            "Potential energy",
+            "Kinetic energy",
+            "Coal energy",
+            "Wind energy"
+        ],
+        "correctAns": "Kinetic energy"
+    },
+    {
+        "QorL":"Q",
+        "question":"Tehri hydroelectric plant situated in ",
+        "options":
+        [
+            "MH",
+            "Orissa",
+            "U.K",
+            "M.P."
+        ],
+        "correctAns": "U.K"
+    },
+    {
+        "QorL":"Q",
+        "question":"Coal power generation in the world",
+        "options":
+        [
+            "60%",
+            "50%",
+            "20%",
+            "None of these"
+        ],
+        "correctAns": "60%"
+    }        
+]
