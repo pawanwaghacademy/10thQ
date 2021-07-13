@@ -1,0 +1,207 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"Our________has been changed to some extent in age of technology.",
+        "options":
+        [
+            "life style ",
+            "habit",
+            "circumstance",
+            "passion"
+        ],
+        "correctAns": "life style "
+    },
+    {
+        "QorL":"Q",
+        "question":"Tobacco containing substances have________effect on mouth and lungs.",
+        "options":
+        [
+            "acidic",
+            "alkaline",
+            "carcinogenic",
+            "neutral"
+        ],
+        "correctAns": "carcinogenic"
+    },
+    {
+        "QorL":"Q",
+        "question":"incurable diseases are :-",
+        "options":
+        [
+            "AIDS, ",
+            "T. B., ",
+            "leprosy and mental ",
+            "all of these"
+        ],
+        "correctAns": "all of these"
+    },
+    {
+        "QorL":"Q",
+        "question":"Alcohol consumption mainly affects the ______ system.",
+        "options":
+        [
+            "nervous",
+            "excretory ",
+            "respiratory ",
+            "digestive"
+        ],
+        "correctAns": "nervous"
+    },
+    {
+        "QorL":"Q",
+        "question":"Laughter club is a remedy to drive away _______.",
+        "options":
+        [
+            "addictions",
+            "stress",
+            "lethargy ",
+            "epidemics"
+        ],
+        "correctAns": "stress"
+    },
+    {
+        "QorL":"Q",
+        "question":"which Factors affecting the social health",
+        "options":
+        [
+            "Financial Status",
+            "Transport Facilities",
+            "Education",
+            "All of these"
+        ],
+        "correctAns": "All of these"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which factor helps to improve concentration in the studies.",
+        "options":
+        [
+            "hobbies ",
+            "sports",
+            "meditation",
+            "Eatables"
+        ],
+        "correctAns": "meditation"
+    },
+    {
+        "QorL":"Q",
+        "question":"Whose presence is influence is stronger in case of adolescents.",
+        "options":
+        [
+            "Teachers",
+            "Fathers ",
+            "Relatives",
+            "Peer group"
+        ],
+        "correctAns": "Peer group"
+    },
+    {
+        "QorL":"Q",
+        "question":"Peer-group influence is stronger in case of ",
+        "options":
+        [
+            "adolescents",
+            "Childhood",
+            "Mature",
+            "None of these"
+        ],
+        "correctAns": "adolescents"
+    },
+    {
+        "QorL":"Q",
+        "question":"………. effect of tobacco containing substances on mouth and lungs.",
+        "options":
+        [
+            "nicotine",
+            "caffine",
+            "carcinogenic",
+            "none of these"
+        ],
+        "correctAns": "carcinogenic"
+    },
+    {
+        "QorL":"Q",
+        "question":"Hobbies like _______ pet animals help to create a positive mindset.",
+        "options":
+        [
+            "feeding  ",
+            "transfering ",
+            "rearing ",
+            "looking"
+        ],
+        "correctAns": "transfering"
+    },
+    {
+        "QorL":"Q",
+        "question":"…….. is closest friend of human being.",
+        "options":
+        [
+            "Dog",
+            "Cat",
+            "Nature",
+            "None of these"
+        ],
+        "correctAns": "Nature"
+    },
+    {
+        "QorL":"Q",
+        "question":"Alcoholic person lacks the _____ thinking.",
+        "options":
+        [
+            "straight ",
+            "rational",
+            "universal",
+            "spiritual"
+        ],
+        "correctAns": "straight"
+    },
+    {
+        "QorL":"Q",
+        "question":"_____ may arise due to excessive use of mobile phones.",
+        "options":
+        [
+            "Headache ",
+            "Problem in vision ",
+            "Joint pains ",
+            "All above"
+        ],
+        "correctAns": "All above"
+    },
+    {
+        "QorL":"Q",
+        "question":"Liquor is produced from ______.",
+        "options":
+        [
+            "alcohol ",
+            "glucose",
+            "acid ",
+            "salt"
+        ],
+        "correctAns": "alcohol"
+    },
+    {
+        "QorL":"Q",
+        "question":"Salaam Mumbai Foundation runs programs for_______in slum area.",
+        "options":
+        [
+            "education ",
+            "tobacco ",
+            "cyber crimes ",
+            "domestic violence"
+        ],
+        "correctAns": "tobacco "
+    },
+    {
+        "QorL":"Q",
+        "question":"Various physical problems like………may arise due to radiation of cell phones",
+        "options":
+        [
+            "tiredness",
+            "headache",
+            "insomnia",
+            "all of these"
+        ],
+        "correctAns": "all of these"
+    }        
+]
