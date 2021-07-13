@@ -1,0 +1,243 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"In which type of defects, the eyeball elongates",
+        "options":
+        [
+            "Hypermetropia",
+            "myopia",
+            "presbyopia",
+            "all"
+        ],
+        "correctAns": "myopia"
+    },
+    {
+        "QorL":"Q",
+        "question":"The distance between optical center and principal focus is called ....",
+        "options":
+        [
+            "cross section",
+            "principal axis",
+            "focal length",
+            "radius"
+        ],
+        "correctAns": "principal axis"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which type of lens is called as converging lens ?",
+        "options":
+        [
+            "concave lens",
+            "convex lens",
+            "both (a) and (b)",
+            "None of these"
+        ],
+        "correctAns": "convex lens"
+    },
+    {
+        "QorL":"Q",
+        "question":"The ratio of height of image to height of object is called  ....",
+        "options":
+        [
+            "power",
+            "strength",
+            "magnification",
+            "none of these"
+        ],
+        "correctAns": "magnification"
+    },
+    {
+        "QorL":"Q",
+        "question":"The near point of normal human eye is ..........",
+        "options":
+        [
+            "25 cm",
+            "at infinity",
+            "15 cm",
+            "30 cm"
+        ],
+        "correctAns": "25 cm"
+    },
+    {
+        "QorL":"Q",
+        "question":"The smallest hole of changing diameter at the center of iris is called .......",
+        "options":
+        [
+            "retina",
+            "cornea",
+            "pupil",
+            "choroid"
+        ],
+        "correctAns": "pupil"
+    },
+    {
+        "QorL":"Q",
+        "question":"The dark, fleshy screen behind the cornea is called .........",
+        "options":
+        [
+            "sclerotic coat",
+            "iris",
+            "choroid",
+            "pupil"
+        ],
+        "correctAns": "iris"
+    },
+    {
+        "QorL":"Q",
+        "question":"The capacity of the lens to change, its focal length as per need, is called  as .......",
+        "options":
+        [
+            "power of accomodation",
+            "magnification",
+            "power of lens",
+            "none of these"
+        ],
+        "correctAns": "power of accomodation"
+    },
+    {
+        "QorL":"Q",
+        "question":"What is the size of the image formed by convex lens, when the object is at 2F1 ?",
+        "options":
+        [
+            "very large",
+            "same size",
+            "point image",
+            "smaller"
+        ],
+        "correctAns": "same size"
+    },
+    {
+        "QorL":"Q",
+        "question":"What is the position of image formed, by convex lens, when the object is at 2F1 ?",
+        "options":
+        [
+            "between F2 and 2F2",
+            "beyond 2F2",
+            "at 2 F2",
+            "at focous F2"
+        ],
+        "correctAns": "at 2 F2"
+    },
+    {
+        "QorL":"Q",
+        "question":" Positive meniscus is a type of ......... lens.",
+        "options":
+        [
+            "plane mirror",
+            "concave",
+            "convex",
+            "all"
+        ],
+        "correctAns": "convex"
+    },
+    {
+        "QorL":"Q",
+        "question":"The point inside a lens, on the principal axis is called as ........",
+        "options":
+        [
+            "pole",
+            "optical center",
+            "center of curvature",
+            "none of these"
+        ],
+        "correctAns": "optical center"
+    },
+    {
+        "QorL":"Q",
+        "question":"The number of centers, that a lens have?",
+        "options":
+        [
+            "One",
+            "Two",
+            "Three",
+            "None"
+        ],
+        "correctAns": "Two"
+    },
+    {
+        "QorL":"Q",
+        "question":"What is the size of the image formed by convex lens, when the object is between F1 and 2F1?",
+        "options":
+        [
+            "larger",
+            "same size",
+            "smaller",
+            "point image"
+        ],
+        "correctAns": "larger"
+    },
+    {
+        "QorL":"Q",
+        "question":" In which type of eye defect, the far point of eye shifts closer.",
+        "options":
+        [
+            "farsightedness",
+            "nearsightedness",
+            "both (a) and (b)",
+            "none of these"
+        ],
+        "correctAns": "nearsightedness"
+    },
+    {
+        "QorL":"Q",
+        "question":"Concave lenses are used in .......... instruments.",
+        "options":
+        [
+            "peep hole of door",
+            "torch",
+            "C D player",
+            "all of the above"
+        ],
+        "correctAns": "all of the above"
+    },
+    {
+        "QorL":"Q",
+        "question":"What creates a real and inverted image of an object on the retina ?",
+        "options":
+        [
+            "iris",
+            "pupil",
+            "lens",
+            "retina"
+        ],
+        "correctAns": "lens"
+    },
+    {
+        "QorL":"Q",
+        "question":"A lens whose one surface is plane and other is puffed, is called .........",
+        "options":
+        [
+            "positive meniscus",
+            "plano convex",
+            "plano concave",
+            "negative meniscus."
+        ],
+        "correctAns": "plano convex"
+    },
+    {
+        "QorL":"Q",
+        "question":"In human eye, the electric signals generated by light are conveyed to the brain through .......",
+        "options":
+        [
+            "optic disc",
+            "choroid",
+            "optic nerve",
+            "ciliary muscles"
+        ],
+        "correctAns": "optic nerve"
+    },
+    {
+        "QorL":"Q",
+        "question":"Convex lens is used ............ instrument",
+        "options":
+        [
+            "tourch",
+            "scanner",
+            "camera",
+            "peep hole of door"
+        ],
+        "correctAns": "camera"
+    }        
+]
