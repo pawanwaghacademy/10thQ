@@ -1,0 +1,243 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"Yoghurt is a milk product produced with the help of ",
+        "options":
+        [
+            "lactobacilli",
+            "azotobacter",
+            "rhizobium",
+            "yeast"
+        ],
+        "correctAns": "lactobacilli"
+    },
+    {
+        "QorL":"Q",
+        "question":"…………… that gives characteristic taste to the yoghurt.",
+        "options":
+        [
+            "Yeast",
+            "Enzymes",
+            "Acetaldehyde",
+            "None of these"
+        ],
+        "correctAns": "Acetaldehyde"
+    },
+    {
+        "QorL":"Q",
+        "question":"_________ acid is used in Production of vitamins .",
+        "options":
+        [
+            "Citric",
+            "Gluconic",
+            "Lactic",
+            "Itaconic"
+        ],
+        "correctAns": "Lactic"
+    },
+    {
+        "QorL":"Q",
+        "question":"_________ gas is considered to be the fuel of future.",
+        "options":
+        [
+            "Hydrogen ",
+            "Nitrogen",
+            "Methane ",
+            "Butane"
+        ],
+        "correctAns": "Hydrogen "
+    },
+    {
+        "QorL":"Q",
+        "question":"Vinegar is chemically ___________ acid.",
+        "options":
+        [
+            "Citric ",
+            "Gluconic",
+            "Glutamic ",
+            "Acetic"
+        ],
+        "correctAns": "Acetic"
+    },
+    {
+        "QorL":"Q",
+        "question":"An enzyme ………… obtained from fungi is used at present to produce vegetarian cheese",
+        "options":
+        [
+            "Lactobacillus ",
+            "cremoris ",
+            "Streptococcus",
+            "Protease"
+        ],
+        "correctAns": "Protease"
+    },
+    {
+        "QorL":"Q",
+        "question":"Bacteria used to clear oil spills are called ________ bacteria.",
+        "options":
+        [
+            "phenol oxidizing ",
+            "electrolytic",
+            "Hydrocarbonoclastic",
+            "decomposing"
+        ],
+        "correctAns": "Hydrocarbonoclastic"
+    },
+    {
+        "QorL":"Q",
+        "question":"probiotics are used for treatment of …………….",
+        "options":
+        [
+            "Diarrhoea",
+            "T.B.",
+            "Cholera",
+            "None of these"
+        ],
+        "correctAns": "Diarrhoea"
+    },
+    {
+        "QorL":"Q",
+        "question":"_________ convert these salts of uranium into insoluble salts.",
+        "options":
+        [
+            "Saccharomyces",
+            "Thiobacillus",
+            "Acidobacillus ",
+            "Geobacter"
+        ],
+        "correctAns": "Geobacter"
+    },
+    {
+        "QorL":"Q",
+        "question":"________bacteria decompose xenobiotic chemicals present in sewage.",
+        "options":
+        [
+            "Hydrocarbonoclastic ",
+            "Decomposing",
+            "E. coli ",
+            "Phenol oxidizing"
+        ],
+        "correctAns": "Phenol oxidizing"
+    },
+    {
+        "QorL":"Q",
+        "question":"------– is used in the commercial bakery industry.",
+        "options":
+        [
+            "Compressed yeast",
+            "Algae ",
+            "Bacteria",
+            "Microbes"
+        ],
+        "correctAns": "Compressed yeast"
+    },
+    {
+        "QorL":"Q",
+        "question":"-----is substance obtained by microbial processing that roles as artificial sweetener.",
+        "options":
+        [
+            "Nycin",
+            "Lysine ",
+            "Xanthenes",
+            "Xylitol"
+        ],
+        "correctAns": "Nycin"
+    },
+    {
+        "QorL":"Q",
+        "question":"Plastic bottles are formed from the chemical substance ",
+        "options":
+        [
+            "PET",
+            "Streptomyces, ",
+            "Nocardia, ",
+            "Actinoplanes"
+        ],
+        "correctAns": "PET"
+    },
+    {
+        "QorL":"Q",
+        "question":"Sulphuric acid is source of energy for some species of bacteria like ",
+        "options":
+        [
+            "Actinomycetes",
+            "Streptomyces, ",
+            "Nocardia, ",
+            "Acidophillium spp."
+        ],
+        "correctAns": "Acidophillium spp."
+    },
+    {
+        "QorL":"Q",
+        "question":"………… is a clean (smokeless) fuel",
+        "options":
+        [
+            "CO2",
+            "Coal",
+            "Petrol",
+            "Ethanol"
+        ],
+        "correctAns": "Ethanol"
+    },
+    {
+        "QorL":"Q",
+        "question":"………… is effective against tuberculosis",
+        "options":
+        [
+            "Rifamycin",
+            "Penicillin",
+            "Both a and b",
+            "None of these"
+        ],
+        "correctAns": "Rifamycin"
+    },
+    {
+        "QorL":"Q",
+        "question":"Paper, textile, plastic industry, gum production",
+        "options":
+        [
+            "Brevibacterium, ",
+            "Corynobacterium",
+            "Aspergillus niger",
+            "Aspergillus itaconius"
+        ],
+        "correctAns": "Aspergillus itaconius"
+    },
+    {
+        "QorL":"Q",
+        "question":"To Separating coffee seeds from fruit",
+        "options":
+        [
+            "Candida",
+            "Saccharomyces cerevisiae",
+            "Lactobacillus brevis",
+            "Hansenula"
+        ],
+        "correctAns": "Lactobacillus brevis"
+    },
+    {
+        "QorL":"Q",
+        "question":"……….. gas is mixed to produce vinegar",
+        "options":
+        [
+            "S02",
+            "CO2",
+            "CO",
+            "None of these"
+        ],
+        "correctAns": "S02"
+    },
+    {
+        "QorL":"Q",
+        "question":"acetic acid ",
+        "options":
+        [
+            "C4H7",
+            "C2H8",
+            "CH2COOH",
+            "(CH3COOH)"
+        ],
+        "correctAns": "(CH3COOH)"
+    }        
+]
