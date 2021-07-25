@@ -1,0 +1,231 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"Negative Meniscus is a type of ............. lens.",
+        "options":
+        [
+            "Concave",
+            "Convex",
+            "Both (a) and (b)",
+            "None None of the above"
+        ],
+        "correctAns": "Concave"
+    },
+    {
+        "QorL":"Q",
+        "question":"A lense whose both the spherical surface are curved inside is called as .............",
+        "options":
+        [
+            "Planoconcave lens",
+            "Negative Meniscus lens",
+            "Biconcave lens",
+            "None of the above"
+        ],
+        "correctAns": "Biconcave lens"
+    },
+    {
+        "QorL":"Q",
+        "question":"The imaginary line passing through both centers of curvatures is called ..........",
+        "options":
+        [
+            "Focal length",
+            "Principal focus",
+            "Radius of curvature",
+            "Principal axis"
+        ],
+        "correctAns": "Principal axis"
+    },
+    {
+        "QorL":"Q",
+        "question":"In which defect, the eyeball flattens ",
+        "options":
+        [
+            "Hypermetropia",
+            "Presbyopia",
+            "Myopia",
+            "All of the above"
+        ],
+        "correctAns": "Hypermetropia"
+    },
+    {
+        "QorL":"Q",
+        "question":"In which type of eye defect, the near point of eye shifts farther away.",
+        "options":
+        [
+            "Nearsightedness",
+            "Farsightedness",
+            "Both (a) and (b)",
+            "None of these"
+        ],
+        "correctAns": "Farsightedness"
+    },
+    {
+        "QorL":"Q",
+        "question":"The distance at which the object is clearly visible without stress is called as ......",
+        "options":
+        [
+            "Max dist. of least vision",
+            "Max dist. of distinct vision",
+            "Min dist. of least vision",
+            "Min dist. of distinct vision"
+        ],
+        "correctAns": "Min dist. of distinct vision"
+    },
+    {
+        "QorL":"Q",
+        "question":" The position of the image formed by convex lens when the object is an infinity ?",
+        "options":
+        [
+            "Between F2 and 2F2",
+            "At 2F2",
+            "At the focus F2",
+            "Beyond 2F2"
+        ],
+        "correctAns": "At the focus F2"
+    },
+    {
+        "QorL":"Q",
+        "question":"If the incident ray passes through the principal focus, then the refracted ray ...........",
+        "options":
+        [
+            "it passes without changing direction",
+            "goes parallel to the principal axis",
+            "passes through optical center",
+            "passes through principal focus"
+        ],
+        "correctAns": "goes parallel to the principal axis"
+    },
+    {
+        "QorL":"Q",
+        "question":" Which of the following rays converge to a point after refraction.",
+        "options":
+        [
+            "Rays through the optical center",
+            "Rays through the focus",
+            "Rays parallel to the principal axis",
+            "None of the above"
+        ],
+        "correctAns": "Rays parallel to the principal axis"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which type of lens, is called as diverging lens",
+        "options":
+        [
+            "Convex lens",
+            "Concave lens",
+            "Both (a) and (b)",
+            "None of the above"
+        ],
+        "correctAns": "Concave lens"
+    },
+    {
+        "QorL":"Q",
+        "question":"The effective focal length is given by ...............",
+        "options":
+        [
+            "1/f = 1/f1 - 1/f2",
+            "1/f = 1/f1f2",
+            "1/f = f2/f1",
+            "1/f = 1/f1 + 1/f2"
+        ],
+        "correctAns": "1/f = 1/f1 + 1/f2"
+    },
+    {
+        "QorL":"Q",
+        "question":" The distance perpendicular to the principal axis and below it are considered to be ........",
+        "options":
+        [
+            "Negative",
+            "Positive",
+            "Both (a) and (b)",
+            "None of the above"
+        ],
+        "correctAns": "Negative"
+    },
+    {
+        "QorL":"Q",
+        "question":"In myopia, the curvature of cornea...........",
+        "options":
+        [
+            "decrease",
+            "remains same",
+            "increases",
+            "All of the above"
+        ],
+        "correctAns": "increases"
+    },
+    {
+        "QorL":"Q",
+        "question":"The image remains imprinted on over retina for ............. of a second after object is removed.",
+        "options":
+        [
+            "1/16th",
+            "1/10th",
+            "1/20th",
+            "1/100th"
+        ],
+        "correctAns": "1/16th"
+    },
+    {
+        "QorL":"Q",
+        "question":"The conical cells can respond differently to ............ colours",
+        "options":
+        [
+            "Green, blue, yellow",
+            "Green,  red, violet",
+            "Green, magenta, white",
+            "Red, green, Blue"
+        ],
+        "correctAns": "Red, green, Blue"
+    },
+    {
+        "QorL":"Q",
+        "question":"The rod like cells in retina respond to the ...........",
+        "options":
+        [
+            "Frequency of light",
+            "Velocity of light",
+            "Intensity of light",
+            "None of the above"
+        ],
+        "correctAns": "Intensity of light"
+    },
+    {
+        "QorL":"Q",
+        "question":"The type of telescope which uses mirrors and lenses is called as ............",
+        "options":
+        [
+            "Refracting telescope",
+            "Reflecting telescope",
+            "Both (a) and (b)",
+            "None of the above"
+        ],
+        "correctAns": "Reflecting telescope"
+    },
+    {
+        "QorL":"Q",
+        "question":"The minute objects like blood cells, cells of plants and animals and bacteria cannot be magnified by ........",
+        "options":
+        [
+            "Simple microscope",
+            "Compound microscopr",
+            "Both (a) and (b)",
+            "None of the above"
+        ],
+        "correctAns": "Simple microscope"
+    },
+    {
+        "QorL":"Q",
+        "question":"As a result of ................ by the lenses, the vision becomes faint and fuzzy",
+        "options":
+        [
+            "Defective reflection",
+            "Defective scattering",
+            "Defective refraction",
+            "All of the above"
+        ],
+        "correctAns": "Defective refraction"
+    }        
+]
