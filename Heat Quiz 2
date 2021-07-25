@@ -1,0 +1,243 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"The temperature at which liquid changes into vapour (gaseous form) is called as ............",
+        "options":
+        [
+            "Melting point",
+            "Boiling point",
+            "Both (a) and (b)",
+            "None of these"
+        ],
+        "correctAns": "Boiling point"
+    },
+    {
+        "QorL":"Q",
+        "question":"1 Calorie = .............. Joule",
+        "options":
+        [
+            "4.18",
+            "41.8",
+            "0.418",
+            "None of these"
+        ],
+        "correctAns": "4.18"
+    },
+    {
+        "QorL":"Q",
+        "question":" Heat energy required to raise 7 kg water temperature 10 degree ?",
+        "options":
+        [
+            "700 k cal",
+            "0.7 k cal",
+            "70 k cal",
+            "7 k cal"
+        ],
+        "correctAns": "70 k cal"
+    },
+    {
+        "QorL":"Q",
+        "question":"The amount of heat required to raise the temperature of 1 g of water through 1 degree celcius is called as ...........",
+        "options":
+        [
+            "one k cal heat",
+            "100 cal heat",
+            "1000 k cal heat",
+            "one cal heat"
+        ],
+        "correctAns": "one cal heat"
+    },
+    {
+        "QorL":"Q",
+        "question":"If the any two objects are of equal masses are given equal heat, their final temperature will be different, as a result of difference in their ....",
+        "options":
+        [
+            "Latent heat of vapourization",
+            "Latent heat of fusion",
+            "Both (a) and (b)",
+            "Specific heat capacity"
+        ],
+        "correctAns": "Specific heat capacity"
+    },
+    {
+        "QorL":"Q",
+        "question":"The absolute humidity is measured in .........",
+        "options":
+        [
+            "kg / m square",
+            "kg / m cube",
+            "kg / m",
+            "None of these"
+        ],
+        "correctAns": "kg / m cube"
+    },
+    {
+        "QorL":"Q",
+        "question":"S.I unit of specific heat is ............",
+        "options":
+        [
+            "degree celcius",
+            "kg / m cube",
+            "cal / g degree celcius",
+            "J / degree celcius"
+        ],
+        "correctAns": "J / degree celcius"
+    },
+    {
+        "QorL":"Q",
+        "question":"The energy obsorbed at constant temperature, during the transformation of solid into liquid is called as ..............",
+        "options":
+        [
+            "Latent heat of vapourization",
+            "Latent heat of fusion",
+            "Melting Point",
+            "Boiling Point"
+        ],
+        "correctAns": "Latent heat of fusion"
+    },
+    {
+        "QorL":"Q",
+        "question":"If in case, heat is exchanged between a hot and cold object, the temperature changes till .......",
+        "options":
+        [
+            "Hot object becomes cold",
+            "Cold object becomes hot",
+            "Both (a) and (b)",
+            "Both objects attain same temperature"
+        ],
+        "correctAns": "Both objects attain same temperature"
+    },
+    {
+        "QorL":"Q",
+        "question":"The boiling point of gold metal is ...............",
+        "options":
+        [
+            "1063 degree celcius",
+            "2162 degree celcius",
+            "2700 degree celcius",
+            "859 degree celcius"
+        ],
+        "correctAns": "2700 degree celcius"
+    },
+    {
+        "QorL":"Q",
+        "question":"At 4 degree celcius, the volume of water is minimum as a result of ................",
+        "options":
+        [
+            "Contraction",
+            "Expansion",
+            "Both (a) and (b)",
+            "None of these"
+        ],
+        "correctAns": "Contraction"
+    },
+    {
+        "QorL":"Q",
+        "question":"To study the anomalous behaviour of water using hope's apparatus, which mixture is put in the flat bowl.",
+        "options":
+        [
+            "Mix of water and salt",
+            "Mix of water and sugar",
+            "Mix of ice and salt",
+            "Mix of ice and sugar"
+        ],
+        "correctAns": "Mix of ice and salt"
+    },
+    {
+        "QorL":"Q",
+        "question":"The relative humidity at the dew point is ............",
+        "options":
+        [
+            "100 %",
+            "1000 %",
+            "50 %",
+            "10 %"
+        ],
+        "correctAns": "100 %"
+    },
+    {
+        "QorL":"Q",
+        "question":"The white trail observed at the back of a flying plane in a clear sky, is due to....",
+        "options":
+        [
+            "Vapourization",
+            "Condensation of vapour",
+            "Evaporation",
+            "None of the above"
+        ],
+        "correctAns": "Condensation of vapour"
+    },
+    {
+        "QorL":"Q",
+        "question":"According to Joule, " the kinetic energy  of tiny particle of matter appears in the form of ..........."",
+        "options":
+        [
+            "Potential energy",
+            "Barrier energy",
+            "Heat energy",
+            "All of these"
+        ],
+        "correctAns": "Heat energy"
+    },
+    {
+        "QorL":"Q",
+        "question":"The specific heat of paraffin is ........... cal/g degree celcius ",
+        "options":
+        [
+            "1.0",
+            "0.95",
+            "0.54",
+            "0.33"
+        ],
+        "correctAns": "0.54"
+    },
+    {
+        "QorL":"Q",
+        "question":"The specific heat of the solid object can be calculated using ",
+        "options":
+        [
+            "Q = Q2 - Q 1",
+            "Q = Q2 + Q1",
+            "Q = Q2",
+            "Q = Q1"
+        ],
+        "correctAns": "Q = Q2 + Q1"
+    },
+    {
+        "QorL":"Q",
+        "question":"The correct expression which indicates, the energy supplied to the water ",
+        "options":
+        [
+            "m x c x T",
+            "m x ∆c x T",
+            "m x c x ∆T",
+            "∆m x c x ∆T"
+        ],
+        "correctAns": "m x c x ∆T"
+    },
+    {
+        "QorL":"Q",
+        "question":"If the value of relative humidity is less than 60%, then the nature of air is ...........",
+        "options":
+        [
+            "Humid",
+            "Dry",
+            "Both (a) and (b)",
+            "None of these"
+        ],
+        "correctAns": "Dry"
+    },
+    {
+        "QorL":"Q",
+        "question":" The aquatic plants and animals, can survive, even when the atmospheric temperature goes below 0 degree celcius due to",
+        "options":
+        [
+            "Dew point",
+            "Humidity",
+            "Regelation",
+            "Anomalous behaviour of water"
+        ],
+        "correctAns": "Anomalous behaviour of water"
+    }        
+]
