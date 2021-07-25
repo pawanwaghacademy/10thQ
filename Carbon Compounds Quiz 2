@@ -1,0 +1,243 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"The boiling point of acetic acid is ............",
+        "options":
+        [
+            "61 degree celcius",
+            "118 degree celcius",
+            "78 degree celcius",
+            "17 degree celcius"
+        ],
+        "correctAns": "118 degree celcius"
+    },
+    {
+        "QorL":"Q",
+        "question":"N2 molecules are joined with each other by ............... covalent bond.",
+        "options":
+        [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+        ],
+        "correctAns": "Three"
+    },
+    {
+        "QorL":"Q",
+        "question":"2H2O2 gives ...................",
+        "options":
+        [
+            "2H2O +  O2",
+            "HO + OH",
+            "H2 + O2",
+            "H + OH"
+        ],
+        "correctAns": "2H2O +  O2"
+    },
+    {
+        "QorL":"Q",
+        "question":"The molecular mass of polythene is ..........",
+        "options":
+        [
+            "10^12",
+            "10^5",
+            "10^6",
+            "10^3"
+        ],
+        "correctAns": "10^6"
+    },
+    {
+        "QorL":"Q",
+        "question":"Using which method, CNG, LPG, Petrol Kerosene, Disel are obtained",
+        "options":
+        [
+            "Fractional Crystallization",
+            "Fractional distillation",
+            "Filteration",
+            "None of these"
+        ],
+        "correctAns": "Fractional distillation"
+    },
+    {
+        "QorL":"Q",
+        "question":"The correct molecular formula of cyclohexene is ...........",
+        "options":
+        [
+            "C6H10",
+            "C6H12",
+            "C4H8",
+            "C3H6"
+        ],
+        "correctAns": "C6H10"
+    },
+    {
+        "QorL":"Q",
+        "question":"The name of compound CH3 - CH2 - CH2 - OH",
+        "options":
+        [
+            "Butanol",
+            "Ethanol",
+            "Propanol",
+            "Methanol"
+        ],
+        "correctAns": "Propanol"
+    },
+    {
+        "QorL":"Q",
+        "question":" Generally hydrocarbons undergoes combustion in the presence of ..............",
+        "options":
+        [
+            "Nitrogen",
+            "Hydrogen",
+            "Helium",
+            "Oxygen"
+        ],
+        "correctAns": "Oxygen"
+    },
+    {
+        "QorL":"Q",
+        "question":"Polysaccharides, proteins are ............. macromolecules ",
+        "options":
+        [
+            "Artificial",
+            "Natural",
+            "Manmade",
+            "Synthetic"
+        ],
+        "correctAns": "Natural"
+    },
+    {
+        "QorL":"Q",
+        "question":"P.V.C pipes are made using monomer .....................",
+        "options":
+        [
+            "Acrylonitrile",
+            "Tetrafluoroethylene",
+            "Polypropylene",
+            "Vinyl chloride"
+        ],
+        "correctAns": "Vinyl chloride"
+    },
+    {
+        "QorL":"Q",
+        "question":"D.N.A. occurs in ................",
+        "options":
+        [
+            "Hair",
+            "Skin",
+            "Chromosomes",
+            "Enzymes"
+        ],
+        "correctAns": "Chromosomes"
+    },
+    {
+        "QorL":"Q",
+        "question":"The injection syringe is made up of .....",
+        "options":
+        [
+            "Teflon",
+            "Polypropylene",
+            "Polystyrene",
+            "Polyethylene"
+        ],
+        "correctAns": "Polypropylene"
+    },
+    {
+        "QorL":"Q",
+        "question":"CH3 - CH2 - OH at 170 degree celcius in the presense of conc H2SO4 gives ....................... + H2O",
+        "options":
+        [
+            "CH3 - CH3",
+            "CH2 = CH2",
+            "CH4",
+            "CH ≡ CH"
+        ],
+        "correctAns": "CH2 = CH2"
+    },
+    {
+        "QorL":"Q",
+        "question":"The nature of aqueous solution of ethanol tested with litmus paper is ....",
+        "options":
+        [
+            "Acidic",
+            "Basic",
+            "Neutral",
+            "None of these"
+        ],
+        "correctAns": "Neutral"
+    },
+    {
+        "QorL":"Q",
+        "question":"The correct molecular formula of linoleic acid is .......",
+        "options":
+        [
+            "C17H35COOH",
+            "C17H33COOH",
+            "C15H31COOH",
+            "C17H31COOH"
+        ],
+        "correctAns": "C17H31COOH"
+    },
+    {
+        "QorL":"Q",
+        "question":".................... is one of the combustible component of L.P.G.",
+        "options":
+        [
+            "Butane",
+            "Ethane",
+            "Propane",
+            "Isobutane"
+        ],
+        "correctAns": "Propane"
+    },
+    {
+        "QorL":"Q",
+        "question":"The crude oil and natural gas are recovered from .................",
+        "options":
+        [
+            "Oil wells",
+            "Industries",
+            "fossils",
+            "wood"
+        ],
+        "correctAns": "Oil wells"
+    },
+    {
+        "QorL":"Q",
+        "question":"The property of carbon atom to from larger number of compounds is ......",
+        "options":
+        [
+            "Catenation",
+            "Isomerism",
+            "Reactivity",
+            "None of the above"
+        ],
+        "correctAns": "Isomerism"
+    },
+    {
+        "QorL":"Q",
+        "question":" In which method , atom is electrically neutral after becoming stable.",
+        "options":
+        [
+            "Accepting electron",
+            "Losing electron",
+            "Both (a) and (b)",
+            "Sharing electron"
+        ],
+        "correctAns": "Sharing electron"
+    },
+    {
+        "QorL":"Q",
+        "question":"Amines are represented by .............",
+        "options":
+        [
+            "-COO-",
+            "- O -",
+            "-NH2",
+            "-CHO"
+        ],
+        "correctAns": "-NH2"
+    }        
+]
