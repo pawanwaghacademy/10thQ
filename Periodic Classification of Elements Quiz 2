@@ -1,0 +1,243 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"Complete the analogy Hydrogen : 1st period :: lithium : .......",
+        "options":
+        [
+            "First group",
+            "Second period",
+            "Third Period",
+            "None of these"
+        ],
+        "correctAns": "Second period"
+    },
+    {
+        "QorL":"Q",
+        "question":"Complete the analogy Dobereiner :  Triads :: Newlands : .............",
+        "options":
+        [
+            "Metals",
+            "Atomic mass",
+            "Atomic number",
+            "Octaves"
+        ],
+        "correctAns": "Octaves"
+    },
+    {
+        "QorL":"Q",
+        "question":"Chlorine, Bromine and Iodine have .......... electrons in the outermost orbit.",
+        "options":
+        [
+            "7",
+            "8",
+            "1",
+            "All of these"
+        ],
+        "correctAns": "7"
+    },
+    {
+        "QorL":"Q",
+        "question":"............ group elements are all gases",
+        "options":
+        [
+            "3",
+            "0",
+            "1",
+            "2"
+        ],
+        "correctAns": "0"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which block of periodic table contains all (metal, non-metal and  metalloids) types of elements?",
+        "options":
+        [
+            "d-block",
+            "f-block",
+            "p-block",
+            "s-block"
+        ],
+        "correctAns": "p-block"
+    },
+    {
+        "QorL":"Q",
+        "question":"R2O3 is a compound, among which R belongs to which group?",
+        "options":
+        [
+            "group 3",
+            "group 4",
+            "group 1",
+            "group 2"
+        ],
+        "correctAns": "group 3"
+    },
+    {
+        "QorL":"Q",
+        "question":"Alkali metals have ........... number of electrons in the outermost shell.",
+        "options":
+        [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAns": "1"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which shell is the first shell of an atom?",
+        "options":
+        [
+            "L-shell",
+            "K-shell",
+            "N-shell",
+            "M-shell"
+        ],
+        "correctAns": "K-shell"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which of the following elements below is a solid?",
+        "options":
+        [
+            "Chlorine",
+            "Fluorine",
+            "Bromine",
+            "Iodine"
+        ],
+        "correctAns": "Iodine"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which group elements are named as  Halogen family?",
+        "options":
+        [
+            "Group 18",
+            "Group 0",
+            "Group 17",
+            "None of the above"
+        ],
+        "correctAns": "Group 17"
+    },
+    {
+        "QorL":"Q",
+        "question":"The eka-silicon was named as .........",
+        "options":
+        [
+            "Gallium",
+            "Scandium",
+            "Germanium",
+            "None of the above"
+        ],
+        "correctAns": "Germanium"
+    },
+    {
+        "QorL":"Q",
+        "question":"The electron holding capacity of atom of an element is given by ",
+        "options":
+        [
+            "2 n^3",
+            "2 n^4",
+            "2 n",
+            "2 n^2"
+        ],
+        "correctAns": "2 n^2"
+    },
+    {
+        "QorL":"Q",
+        "question":"Beryllium, Magnesium and Calcium are called as .....",
+        "options":
+        [
+            "Alkaline earth metals",
+            "Alkali metals",
+            "Transition elements",
+            "Halogen"
+        ],
+        "correctAns": "Alkaline earth metals"
+    },
+    {
+        "QorL":"Q",
+        "question":"Elements having atomic number greater than 93 are ........",
+        "options":
+        [
+            "stable",
+            "super metal",
+            "manmade",
+            "natural"
+        ],
+        "correctAns": "manmade"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which element does not react with water ?",
+        "options":
+        [
+            "Strontium",
+            "Barium",
+            "Calcium",
+            "Beryllium"
+        ],
+        "correctAns": "Beryllium"
+    },
+    {
+        "QorL":"Q",
+        "question":"How many elements are now discovered?",
+        "options":
+        [
+            "118",
+            "116",
+            "115",
+            "114"
+        ],
+        "correctAns": "118"
+    },
+    {
+        "QorL":"Q",
+        "question":" Electronegativity is the ............... character of the elements ",
+        "options":
+        [
+            "Non-metallic",
+            "Metallic",
+            "Metalloid",
+            "Non-transitional"
+        ],
+        "correctAns": "118"
+    },
+    {
+        "QorL":"Q",
+        "question":"The Chloride of an element is XCl it's a solid so the element 'X' can be ",
+        "options":
+        [
+            "Al",
+            "Mg",
+            "Na",
+            "Si"
+        ],
+        "correctAns": "Na"
+    },
+    {
+        "QorL":"Q",
+        "question":"The Newlands law of octaves was applicable only upto .............",
+        "options":
+        [
+            "Caesium",
+            "Calcium",
+            "Chromium",
+            "Cobalt"
+        ],
+        "correctAns": "Calcium"
+    },
+    {
+        "QorL":"Q",
+        "question":"While going down a group, the atomic size ..........",
+        "options":
+        [
+            "decreases",
+            "Remains same",
+            "Increases",
+            "None of these"
+        ],
+        "correctAns": "Increases"
+    }        
+]
