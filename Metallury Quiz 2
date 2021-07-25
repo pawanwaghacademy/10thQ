@@ -1,0 +1,231 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"The prevention of rust by painting is .........",
+        "options":
+        [
+            "Permanent",
+            "Not possible",
+            "Temporary",
+            "None of these"
+        ],
+        "correctAns": "Temporary"
+    },
+    {
+        "QorL":"Q",
+        "question":"The anodization of aluminium prevents it contact with ...........",
+        "options":
+        [
+            "Oxygen",
+            "Oxygen and water",
+            "Water",
+            "None of these"
+        ],
+        "correctAns": "Oxygen and water"
+    },
+    {
+        "QorL":"Q",
+        "question":"The phenomenon in which copper loses its lustr due to carbonate formation is called as .............",
+        "options":
+        [
+            "Anodization",
+            "Rusting",
+            "Reduction",
+            "Patination"
+        ],
+        "correctAns": "Patination"
+    },
+    {
+        "QorL":"Q",
+        "question":" The copper cladded statue of liberty has turned into ............. colour.",
+        "options":
+        [
+            "yellow",
+            "green",
+            "grey",
+            "both (a) and (b)"
+        ],
+        "correctAns": "green"
+    },
+    {
+        "QorL":"Q",
+        "question":"The molten mixture of alumina is having a melting point ..........",
+        "options":
+        [
+            "< 2000 degree celcius",
+            "< 1000 degree celcius",
+            "> 2000 degree celcius",
+            "> 5000 degree celcius"
+        ],
+        "correctAns": "> 2000 degree celcius"
+    },
+    {
+        "QorL":"Q",
+        "question":"The Al(OH)3 precipitate is filtered, washed and dried in ...............",
+        "options":
+        [
+            "Bayer's process",
+            "Hall's process",
+            "Hydraulic separation method",
+            "Bayer's and Hall's process"
+        ],
+        "correctAns": "Bayer's and Hall's process"
+    },
+    {
+        "QorL":"Q",
+        "question":"The metal copper is found mainly in ........... form ",
+        "options":
+        [
+            "Cu2O",
+            "Cu2S",
+            "Cu",
+            "CuCO3"
+        ],
+        "correctAns": "Cu2S"
+    },
+    {
+        "QorL":"Q",
+        "question":"The iron oxide in the gangue does not dissolve in aqueous .......",
+        "options":
+        [
+            "NaOH",
+            "KOH",
+            "Na2CO3",
+            "NaHCO3"
+        ],
+        "correctAns": "NaOH"
+    },
+    {
+        "QorL":"Q",
+        "question":"The first step in the extraction of the metals aluminium gold and silver from ores, is ......",
+        "options":
+        [
+            "Concentration",
+            "Leaching",
+            "Separation based gravitation",
+            "All of the above"
+        ],
+        "correctAns": "Leaching"
+    },
+    {
+        "QorL":"Q",
+        "question":"The boiling point of NaBr is ............",
+        "options":
+        [
+            "1465 degree celcius",
+            "1407 degree celcius",
+            "3600 degree celcius",
+            "1390 degree celcius"
+        ],
+        "correctAns": "1390 degree celcius"
+    },
+    {
+        "QorL":"Q",
+        "question":"The non metals combine with oxygen, to form ...........",
+        "options":
+        [
+            "acidic oxide",
+            "basic oxide",
+            "neutraloxide",
+            "None of these"
+        ],
+        "correctAns": "acidic oxide"
+    },
+    {
+        "QorL":"Q",
+        "question":"Fe + 2HCl gives .......................",
+        "options":
+        [
+            "FeCl + H 2",
+            "FeCl3 + H2",
+            "Fe + FeCl",
+            "FeCl2 + H2"
+        ],
+        "correctAns": "FeCl2 + H2"
+    },
+    {
+        "QorL":"Q",
+        "question":" The correct reactivity order of metals with oxygen is ...........",
+        "options":
+        [
+            "Fe > Zn > Al",
+            "Zn > Fe > Al",
+            "Mg > Al > Zn",
+            "Al > Mg > Zn"
+        ],
+        "correctAns": "Mg > Al > Zn"
+    },
+    {
+        "QorL":"Q",
+        "question":"Mg + O2 gives ..............",
+        "options":
+        [
+            "Mg2O",
+            "MgO2",
+            "Mg2O3",
+            "MgO"
+        ],
+        "correctAns": "MgO"
+    },
+    {
+        "QorL":"Q",
+        "question":"Fe + H2O gives ............... + H2",
+        "options":
+        [
+            "Fe2O3",
+            "FeO2",
+            "Fe3O4",
+            "FeO"
+        ],
+        "correctAns": "Fe3O4"
+    },
+    {
+        "QorL":"Q",
+        "question":"C + O2 gives partial combustion .................",
+        "options":
+        [
+            "CO2",
+            "CO",
+            "CO and CO2",
+            "C2O4^(2-)"
+        ],
+        "correctAns": "CO"
+    },
+    {
+        "QorL":"Q",
+        "question":"Cl2 + H2O gives ",
+        "options":
+        [
+            "HOCl + HCl",
+            "Cl(OH)3",
+            "Cl(OH)2",
+            "HCl + O2"
+        ],
+        "correctAns": "HOCl + HCl"
+    },
+    {
+        "QorL":"Q",
+        "question":"Cassiterite contains ...........",
+        "options":
+        [
+            "SnO2 - non magnetic material",
+            "FeWO4 - magnetic material",
+            "Both SnO2 and FeWO4",
+            "None of these"
+        ],
+        "correctAns": "Both SnO2 and FeWO4"
+    },
+    {
+        "QorL":"Q",
+        "question":"The particles of the metal sulphides, get wetted with oil  due to .......... property",
+        "options":
+        [
+            "hydrophilic",
+            "hydrophobic",
+            "both hydrophilic and hydrophobic",
+            "None of these"
+        ],
+        "correctAns": "hydrophobic"
+    }        
+]
