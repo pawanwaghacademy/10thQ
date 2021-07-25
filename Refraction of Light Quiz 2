@@ -1,0 +1,243 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":" If the angle of incidence is greater than the critical angle, then the angle of angle of refraction is ",
+        "options":
+        [
+            ">90 degree",
+            "= 180 degree",
+            "<90 degree",
+            "= 90 degree"
+        ],
+        "correctAns": ">90 degree"
+    },
+    {
+        "QorL":"Q",
+        "question":"We can see sun, even when , it is still below the horizon, because of ..............",
+        "options":
+        [
+            "Dispersion of light",
+            "Absorption of light",
+            "Reflection of light",
+            "Refraction of light"
+        ],
+        "correctAns": "Refraction of light"
+    },
+    {
+        "QorL":"Q",
+        "question":"The refractive index of diamond is .......",
+        "options":
+        [
+            "1.63",
+            "2.42",
+            "1.54",
+            "1.003"
+        ],
+        "correctAns": "2.42"
+    },
+    {
+        "QorL":"Q",
+        "question":"When a light passes from a rarer medium to a denser medium, it ...........",
+        "options":
+        [
+            "Bends away from the normal",
+            "Bends towards the normal",
+            "Reflected back",
+            "Does not changes its direction"
+        ],
+        "correctAns": "Bends towards the normal"
+    },
+    {
+        "QorL":"Q",
+        "question":"Star twinkles, but planet do not twinkles because ...........",
+        "options":
+        [
+            "Stars are much closer to us",
+            "Planets are much closer to us",
+            "Stars and planets are much closer to each other",
+            "All of the above"
+        ],
+        "correctAns": "Planets are much closer to us"
+    },
+    {
+        "QorL":"Q",
+        "question":" When the sun is below the horizon its light rays reach us in a ......... path ",
+        "options":
+        [
+            "straight",
+            "zig-zag",
+            "Curved",
+            "None of these"
+        ],
+        "correctAns": "Curved"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which light has the smallest wavelength during dispersion ?",
+        "options":
+        [
+            "Red",
+            "Orange",
+            "Yellow",
+            "Violet"
+        ],
+        "correctAns": "Violet"
+    },
+    {
+        "QorL":"Q",
+        "question":"If the refractive index of glass with respect to air is 7/2, then the refractive index of air with respect to glass is .............",
+        "options":
+        [
+            "1/7",
+            "2/7",
+            "7/2",
+            "4/7"
+        ],
+        "correctAns": "2/7"
+    },
+    {
+        "QorL":"Q",
+        "question":"As the density of air increases with lowering heights above earth's surface, the refractive index ...........",
+        "options":
+        [
+            "decrease",
+            "increase",
+            "Both (a) and (b)",
+            "remains same"
+        ],
+        "correctAns": "increase"
+    },
+    {
+        "QorL":"Q",
+        "question":" The phenomenon, total internal refraction occurs, when .............",
+        "options":
+        [
+            "<r  > 90 degree",
+            "<r  <  90 degree",
+            "< r = < i",
+            "None of these"
+        ],
+        "correctAns": "<r  > 90 degree"
+    },
+    {
+        "QorL":"Q",
+        "question":"The ray, which comes out of the glass is ...............",
+        "options":
+        [
+            "Refracted ray",
+            "Normal",
+            "Incident ray",
+            "Emergent ray"
+        ],
+        "correctAns": "Emergent ray"
+    },
+    {
+        "QorL":"Q",
+        "question":"When the incident ray is along the normal, the angle of incidence is",
+        "options":
+        [
+            "Less than 0",
+            "Equal to 0",
+            "Greater than 0",
+            "None of the above"
+        ],
+        "correctAns": "Equal to 0"
+    },
+    {
+        "QorL":"Q",
+        "question":"The phenomenon which is involved, when light passes from one transparent medium into another medium is .........",
+        "options":
+        [
+            "Reflection",
+            "Scattering",
+            "Dispersion",
+            "Refraction"
+        ],
+        "correctAns": "Refraction"
+    },
+    {
+        "QorL":"Q",
+        "question":" During dispersion of light, the colour which bends the most is ............",
+        "options":
+        [
+            "Red",
+            "Blue",
+            "Violet",
+            "Yellow"
+        ],
+        "correctAns": "Violet"
+    },
+    {
+        "QorL":"Q",
+        "question":"The Rainbow formation is a combined effect of ........",
+        "options":
+        [
+            "Refraction and dispersion",
+            "Dispersion and total internal reflection",
+            "Reflection and dispersion",
+            "Refraction, Dispersion and total internal refraction"
+        ],
+        "correctAns": "Refraction, Dispersion and total internal refraction"
+    },
+    {
+        "QorL":"Q",
+        "question":"The vary much fine particles, mainly scatter ......... light",
+        "options":
+        [
+            "Green",
+            "Red",
+            "Blue",
+            "Yellow"
+        ],
+        "correctAns": "Blue"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which light gets seprated into components colours as VIBGYOR",
+        "options":
+        [
+            "Blue light",
+            "White light",
+            "Yellow light",
+            "None of these"
+        ],
+        "correctAns": "White light"
+    },
+    {
+        "QorL":"Q",
+        "question":"The pencil appears to be broken near the surface of water as a result of ........... of light",
+        "options":
+        [
+            "Dispersion",
+            "Reflection",
+            "Scattering",
+            "Refraction"
+        ],
+        "correctAns": "Refraction"
+    },
+    {
+        "QorL":"Q",
+        "question":"The correct relation is  ........",
+        "options":
+        [
+            "n ice = n water",
+            "n ice > n water",
+            "n water > n ie",
+            "Both (a) and (c)"
+        ],
+        "correctAns": "n water > n ie"
+    },
+    {
+        "QorL":"Q",
+        "question":"The wavelength of radiation to which our are sensitive is in the range of ............",
+        "options":
+        [
+            "700 nm",
+            "400-700 nm",
+            "<400 nm",
+            "None of these"
+        ],
+        "correctAns": "400-700 nm"
+    }        
+]
