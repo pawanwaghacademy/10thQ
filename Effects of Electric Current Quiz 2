@@ -1,0 +1,243 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"1 kw = ...... w",
+        "options":
+        [
+            "100 w",
+            "1000 w",
+            "10,000 kw",
+            "500 w"
+        ],
+        "correctAns": "1000 w"
+    },
+    {
+        "QorL":"Q",
+        "question":" Which type of current flows in forward and reverse direction in one cycle ?",
+        "options":
+        [
+            "Alternating current",
+            "Direct current",
+            "Both (a) and (b)",
+            "None of these"
+        ],
+        "correctAns": "Alternating current"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which device converts electrical energy into mechanical energy?",
+        "options":
+        [
+            "Electric generator",
+            "Electric motor",
+            "Galvanometer",
+            "All of the above"
+        ],
+        "correctAns": "Electric motor"
+    },
+    {
+        "QorL":"Q",
+        "question":"In India, the electric supply is of ............ type.",
+        "options":
+        [
+            "Alternating current",
+            "Direct current",
+            "Both (a) and (b)",
+            "None of these"
+        ],
+        "correctAns": "Alternating current"
+    },
+    {
+        "QorL":"Q",
+        "question":"A non-oscillatory current flowing in one direction in a circuit, from cell to cell is called as .........",
+        "options":
+        [
+            "Alternating current",
+            "Direct current",
+            "Both (a) and (b)",
+            "None of these"
+        ],
+        "correctAns": "Direct current"
+    },
+    {
+        "QorL":"Q",
+        "question":"In which rule, the thumb shows the direction of motion of conductors?",
+        "options":
+        [
+            "Fleming's left hand rule",
+            "Fleming's right hand rule",
+            "Oersted Rule",
+            "Both (a) and (B)"
+        ],
+        "correctAns": "Fleming's right hand rule"
+    },
+    {
+        "QorL":"Q",
+        "question":"V = IR is ",
+        "options":
+        [
+            "Ohm's law",
+            "Joule's law of heating",
+            "Fleming's left hand rule",
+            "Fleming's right hand rule"
+        ],
+        "correctAns": "Ohm's law"
+    },
+    {
+        "QorL":"Q",
+        "question":"Han's Christian Oersted played an important role in ",
+        "options":
+        [
+            "Magnetism",
+            "Resistance of conductors",
+            "Electromagnetism",
+            "Heat effect of electric current"
+        ],
+        "correctAns": "Electromagnetism"
+    },
+    {
+        "QorL":"Q",
+        "question":"The live wires in indian homes, have a potential difference of .............",
+        "options":
+        [
+            "230 v",
+            "220 v",
+            "300 v",
+            "250 v"
+        ],
+        "correctAns": "220 v"
+    },
+    {
+        "QorL":"Q",
+        "question":"The right hand thumb rule is called as ..............",
+        "options":
+        [
+            "Fleming's law of induction",
+            "Fleming's right hand rule",
+            "Oersted rule",
+            "Maxwell's cork-screw rule"
+        ],
+        "correctAns": "Maxwell's cork-screw rule"
+    },
+    {
+        "QorL":"Q",
+        "question":"Galvanometer works on the same principle as that of ............",
+        "options":
+        [
+            "Electric generator",
+            "Electric motor",
+            "Both (a) and (b)",
+            "None of the above"
+        ],
+        "correctAns": "Electric motor"
+    },
+    {
+        "QorL":"Q",
+        "question":"The alternating current flows in ............ manner.",
+        "options":
+        [
+            "Periodic",
+            "Sinusoidal",
+            "None of the above",
+            "Both (a) and (b)"
+        ],
+        "correctAns": "Periodic"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which type of current is beneficial to be transmitted over a long distance?",
+        "options":
+        [
+            "Direct current",
+            "Both (a) and (c)",
+            "Alternating current",
+            "None of the above"
+        ],
+        "correctAns": "Alternating current"
+    },
+    {
+        "QorL":"Q",
+        "question":"Out of which of the following wire, is connected to ground ?",
+        "options":
+        [
+            "Live wire",
+            "Earth wire",
+            "Neutral wire",
+            "All of the above"
+        ],
+        "correctAns": "Earth wire"
+    },
+    {
+        "QorL":"Q",
+        "question":"The thumb indicates the direction of force on the conductor, is according to which rule? ",
+        "options":
+        [
+            "Fleming's right hand rule",
+            "Both (a) and (c)",
+            "Fleming's left hand rule",
+            "None of the above"
+        ],
+        "correctAns": "Fleming's left hand rule"
+    },
+    {
+        "QorL":"Q",
+        "question":"In electric heater and electric cooker the  coil used is made up of ............",
+        "options":
+        [
+            "Nichrome alloy",
+            "Tungsten",
+            "copper",
+            "Both (a) and (b)"
+        ],
+        "correctAns": "Nichrome alloy"
+    },
+    {
+        "QorL":"Q",
+        "question":"The increase in the intensity of magnetic field is as a result of ..............",
+        "options":
+        [
+            "Increase in potential difference",
+            "decrease in current",
+            "Increase in current",
+            "Both (a) and (b)"
+        ],
+        "correctAns": "Increase in current"
+    },
+    {
+        "QorL":"Q",
+        "question":"Electric generator converts ........ energy into  .......... energy?",
+        "options":
+        [
+            "Mechanical to electrical",
+            "Electrical to mechanical",
+            "Solar into electrical",
+            "None of these"
+        ],
+        "correctAns": "Mechanical to electrical"
+    },
+    {
+        "QorL":"Q",
+        "question":"The heat produced in the resister, is as a result of ............. when it is connected in electrical circuit",
+        "options":
+        [
+            "potential",
+            "current",
+            "charge",
+            "none of these"
+        ],
+        "correctAns": "current"
+    },
+    {
+        "QorL":"Q",
+        "question":"Solenoid is a made up of copper wire and is in the form of ..........",
+        "options":
+        [
+            "wave",
+            "loop",
+            "spring",
+            "all of these"
+        ],
+        "correctAns": "spring"
+    }        
+]
