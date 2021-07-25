@@ -1,0 +1,243 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"By cutting contact between metal and ..............., corrosion is prevented.",
+        "options":
+        [
+            "CO2",
+            "H2",
+            "O2",
+            "N2"
+        ],
+        "correctAns": "O2"
+    },
+    {
+        "QorL":"Q",
+        "question":"By applying ........., rusting is prevented.",
+        "options":
+        [
+            "Gold",
+            "Zinc",
+            "Silver",
+            "Platinum"
+        ],
+        "correctAns": "Zinc"
+    },
+    {
+        "QorL":"Q",
+        "question":" Decrease in negative charge on an ion or atom is called as ........",
+        "options":
+        [
+            "Redox",
+            "Reduction",
+            "Oxidation",
+            "None of these"
+        ],
+        "correctAns": "Oxidation"
+    },
+    {
+        "QorL":"Q",
+        "question":"CuSO4 + Pb gives PbSO4 + Cu is ",
+        "options":
+        [
+            "Double displacement reaction",
+            "Displacement reaction",
+            "Combination reaction",
+            "Decomposition reaction"
+        ],
+        "correctAns": "Displacement reaction"
+    },
+    {
+        "QorL":"Q",
+        "question":"X + Y gives Z is a ................",
+        "options":
+        [
+            "Displacement reaction",
+            "Double displacement reaction",
+            "Decomposition reaction",
+            "Combination reaction"
+        ],
+        "correctAns": "Combination reaction"
+    },
+    {
+        "QorL":"Q",
+        "question":" Which gas is released in the reaction  Cu + HNO3(Conc) gives Cu(NO3)2 + H2O + ......",
+        "options":
+        [
+            "NO",
+            "NO2",
+            "N2",
+            "None of above"
+        ],
+        "correctAns": "NO2"
+    },
+    {
+        "QorL":"Q",
+        "question":" In the chemical reaction, if the product is precipitate (ppt), it is indicated by .........",
+        "options":
+        [
+            "↑",
+            "→",
+            "↓",
+            "←"
+        ],
+        "correctAns": "↓"
+    },
+    {
+        "QorL":"Q",
+        "question":"The breaking of a glass object is a kind of ...........",
+        "options":
+        [
+            "Chemical change",
+            "Physical change",
+            "Both (a) and (b)",
+            "None of the above"
+        ],
+        "correctAns": "Physical change"
+    },
+    {
+        "QorL":"Q",
+        "question":"The transformation of water into its vapour is a ",
+        "options":
+        [
+            "Chemical change",
+            "Physical change",
+            "Both (a) and (b)",
+            "None of the above"
+        ],
+        "correctAns": "Physical change"
+    },
+    {
+        "QorL":"Q",
+        "question":"In a chemical reaction, ............ are written on the right hand side (R.H.S.) ",
+        "options":
+        [
+            "Product",
+            "Reactants",
+            "Gaseous product",
+            "None of these"
+        ],
+        "correctAns": "Product"
+    },
+    {
+        "QorL":"Q",
+        "question":"A chemical reaction in which heat is released is called as ......... ",
+        "options":
+        [
+            "Exothermic reaction",
+            "Endothermic reaction",
+            "Chain reaction",
+            "All of the above"
+        ],
+        "correctAns": "Exothermic reaction"
+    },
+    {
+        "QorL":"Q",
+        "question":"Out of Which of the following becomes rancid, if kept for longer time ?",
+        "options":
+        [
+            "Ghee",
+            "oil",
+            "Fired food stuff",
+            "all of the above"
+        ],
+        "correctAns": "all of the above"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which of the following gas is poisonous?",
+        "options":
+        [
+            "Hydrogen dioxide",
+            "Nitrogen dioxide",
+            "Carbon dioxide",
+            "Sulphur dioxide"
+        ],
+        "correctAns": "Nitrogen dioxide"
+    },
+    {
+        "QorL":"Q",
+        "question":"The chemical reaction in which, a reactant loses oxygen to formed product, is called as ..... reaction.",
+        "options":
+        [
+            "redox",
+            "reduction",
+            "oxidation",
+            "None of the above"
+        ],
+        "correctAns": "reduction"
+    },
+    {
+        "QorL":"Q",
+        "question":"MnO2 + 4HCl gives MnCl2 + 2H2O + Cl2 is a ........ reaction",
+        "options":
+        [
+            "redox",
+            "reduction",
+            "oxidation",
+            "None of the above"
+        ],
+        "correctAns": "redox"
+    },
+    {
+        "QorL":"Q",
+        "question":" The given reaction, is an example of ......... CaO + H2O gives Ca(OH)2 + heat",
+        "options":
+        [
+            "Endothermic reaction",
+            "Exothermic reaction",
+            "Natural reaction",
+            "Both (a) and (b)"
+        ],
+        "correctAns": "Exothermic reaction"
+    },
+    {
+        "QorL":"Q",
+        "question":"Silver nitrate is used in ..............",
+        "options":
+        [
+            "printed ink",
+            "Pen ink",
+            "Voter's ink",
+            "Currency printed ink"
+        ],
+        "correctAns": "Voter's ink"
+    },
+    {
+        "QorL":"Q",
+        "question":"AgNO3 + NaCl gives AgCl + NaNO3 which compound is the white precipitate?",
+        "options":
+        [
+            "Silver nitrate",
+            "Sodium nitrate",
+            "Sodium chloride",
+            "Silver nitrate"
+        ],
+        "correctAns": "Silver nitrate"
+    },
+    {
+        "QorL":"Q",
+        "question":"In a chemical reaction, two or more reactants are written using .......... sign.",
+        "options":
+        [
+            "Minus",
+            "Division",
+            "Plus",
+            "Multiplication"
+        ],
+        "correctAns": "Plus"
+    },
+    {
+        "QorL":"Q",
+        "question":"The ripening of fruit, is a .............",
+        "options":
+        [
+            "Chemical change",
+            "Physical change",
+            "both (a) and (b)",
+            "None of the above"
+        ],
+        "correctAns": "Chemical change"
+    }        
+]
