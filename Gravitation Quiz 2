@@ -1,0 +1,243 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"According to Kepler’s third law",
+        "options":
+        [
+            "T^2/r^2 = k",
+            "T^3/r^2 = k",
+            "T^2/r^3 = k",
+            "T^3/r^3 = k"
+        ],
+        "correctAns": "T^2/r^3 = k"
+    },
+    {
+        "QorL":"Q",
+        "question":"The g value on moon is…….. of the earth value.",
+        "options":
+        [
+            "1/6th",
+            "1/5th",
+            "1/3rd",
+            "1/4th"
+        ],
+        "correctAns": "1/6th"
+    },
+    {
+        "QorL":"Q",
+        "question":"The space travellers feel weightless in spacecraft due to .....",
+        "options":
+        [
+            "The moon’s gravitational force.",
+            "The earth’s gravitational force.",
+            "The spacecraft gravitational force.",
+            "The state of free fall."
+        ],
+        "correctAns": "The state of free fall."
+    },
+    {
+        "QorL":"Q",
+        "question":"The potential energy of an object on the ground is ",
+        "options":
+        [
+            "½ mv^2",
+            "mgh",
+            "Zero",
+            "None of these"
+        ],
+        "correctAns": "Zero"
+    },
+    {
+        "QorL":"Q",
+        "question":"When a stone is tied and rotated, then the stone moves along a circle, the motion of the stone is an example of…",
+        "options":
+        [
+            "Circular motion.",
+            "Oscillatory motion.",
+            "Rotational motion",
+            "All of above"
+        ],
+        "correctAns": "Circular motion."
+    },
+    {
+        "QorL":"Q",
+        "question":"A…… is necessary to change the speed as well direction of motion, both of an object.",
+        "options":
+        [
+            "Inertia",
+            "Momentum",
+            "Force",
+            "Motion"
+        ],
+        "correctAns": "Force"
+    },
+    {
+        "QorL":"Q",
+        "question":"The orbit of a planet revolve ring around a star is…",
+        "options":
+        [
+            "Elliptical",
+            "Towards the focal point",
+            "Linear",
+            "Circular"
+        ],
+        "correctAns": "Elliptical"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which one of the following is the natured satellite?",
+        "options":
+        [
+            "Saral",
+            "Astronaut",
+            "Aryabhata",
+            "None of these"
+        ],
+        "correctAns": "None of these"
+    },
+    {
+        "QorL":"Q",
+        "question":"What will be the effect on the G value, if the mass of one of object is doubled?",
+        "options":
+        [
+            "G becomes half",
+            "G is decreases by 4",
+            "G is doubled",
+            "G remains same"
+        ],
+        "correctAns": "G is doubled"
+    },
+    {
+        "QorL":"Q",
+        "question":"A force acting on body results in its ",
+        "options":
+        [
+            "Speed",
+            "Acceleration",
+            "Displacement",
+            "Velocity"
+        ],
+        "correctAns": "Acceleration"
+    },
+    {
+        "QorL":"Q",
+        "question":"The moon does not fall on the earth, while revolving around the earth.",
+        "options":
+        [
+            "Due to its motion.",
+            "Due to its velocity.",
+            "Due to its speed.",
+            "Due to its acceleration."
+        ],
+        "correctAns": "Due to its velocity."
+    },
+    {
+        "QorL":"Q",
+        "question":"When does the object going upwards escapes through the gravitational force of earth?",
+        "options":
+        [
+            "If its velocity is increasing.",
+            "If its velocity is decreasing.",
+            "If its velocity is equal to escape velocity.",
+            "If its velocity is equal to earth’s gravity."
+        ],
+        "correctAns": "If its velocity is equal to escape velocity."
+    },
+    {
+        "QorL":"Q",
+        "question":"The radius of earth is maximum at",
+        "options":
+        [
+            "Poles",
+            "Between equator & poles.",
+            "Equator",
+            "None of these"
+        ],
+        "correctAns": "Equator"
+    },
+    {
+        "QorL":"Q",
+        "question":"The square of its period of revolution, around the Sun is directly proportional to the cube of the mean distance of a planet from the Sun",
+        "options":
+        [
+            "Kepler’s 3rd Law",
+            "Kepler’s 4th Law",
+            "Kepler’s 2nd Law",
+            "Kepler’s 1st Law"
+        ],
+        "correctAns": "Kepler’s 3rd Law"
+    },
+    {
+        "QorL":"Q",
+        "question":"A person weighs 30N on earth. His weight on the moon will be…..",
+        "options":
+        [
+            "5N",
+            "6N",
+            "10N",
+            "360N"
+        ],
+        "correctAns": "5N"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which energy for an object of certain mass (m) at infinite distance from the earth is zero?",
+        "options":
+        [
+            "Total Energy",
+            "Potential Energy",
+            "kinetic Energy",
+            "All of these"
+        ],
+        "correctAns": "All of these"
+    },
+    {
+        "QorL":"Q",
+        "question":"The revolution of moon around earth is because of",
+        "options":
+        [
+            "Earth’s gravitational force.",
+            "Sun’s Gravitational force.",
+            "Moon’s Gravitational force.",
+            "Universal gravitational force."
+        ],
+        "correctAns": "Earth’s gravitational force."
+    },
+    {
+        "QorL":"Q",
+        "question":"The correct expression for escape velocity is ",
+        "options":
+        [
+            "Vesc = root egR",
+            "GM/R^2",
+            "root GM/R",
+            "root 2GM"
+        ],
+        "correctAns": "Vesc = root egR"
+    },
+    {
+        "QorL":"Q",
+        "question":"The gravitational force between any two objects is given by",
+        "options":
+        [
+            "F = Gm1 m2/R^2",
+            "V = u + at",
+            "F = mv^2/r",
+            "F = m*a"
+        ],
+        "correctAns": "F = Gm1 m2/R^2"
+    },
+    {
+        "QorL":"Q",
+        "question":"The direction of velocity of stone,will be……., when a stone tied to a string is moving along a circular path.",
+        "options":
+        [
+            "Tangential",
+            "Along circular part",
+            "None of these",
+            "at center"
+        ],
+        "correctAns": "Tangential"
+    }        
+]
