@@ -1,0 +1,243 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"The name of earth observation  satellite is ......",
+        "options":
+        [
+            "INSAT",
+            "GSLV",
+            "IRS",
+            "GSAT"
+        ],
+        "correctAns": "IRS"
+    },
+    {
+        "QorL":"Q",
+        "question":"The critical velocity does not depend on ............ of satellite",
+        "options":
+        [
+            "Height",
+            "Mass",
+            "Gravitational constant",
+            "All of the above"
+        ],
+        "correctAns": "Mass"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which of the following satellite is used in meteorological applications?",
+        "options":
+        [
+            "Geosynchronous",
+            "Communication",
+            "Navigational",
+            "Military"
+        ],
+        "correctAns": "Geosynchronous"
+    },
+    {
+        "QorL":"Q",
+        "question":"The time taken by the satellite to complete one revolution around the earth is .......",
+        "options":
+        [
+            "23 hrs 54 min",
+            "23 hrs",
+            "24 hrs",
+            "None of these"
+        ],
+        "correctAns": "23 hrs 54 min"
+    },
+    {
+        "QorL":"Q",
+        "question":"The satellite whose main objective is to provide point to point messaging services?",
+        "options":
+        [
+            "SWAYAM",
+            "GSLV",
+            "PSLV",
+            "INSAT"
+        ],
+        "correctAns": "SWAYAM"
+    },
+    {
+        "QorL":"Q",
+        "question":"The satellite work on ................ energy",
+        "options":
+        [
+            "Heat",
+            "Thermal",
+            "Solar",
+            "All of these"
+        ],
+        "correctAns": "Solar"
+    },
+    {
+        "QorL":"Q",
+        "question":" The functioning of satellite launch vehicle is based on ....................",
+        "options":
+        [
+            "Newtons 1st law of motion",
+            "Newtons 2nd law of motion",
+            "Newtons 3rd law of motion",
+            "None of these"
+        ],
+        "correctAns": "Newtons 3rd law of motion"
+    },
+    {
+        "QorL":"Q",
+        "question":"In space mission, in order for the spacecraft to escape the earth's gravitational force, the condition should be ............followed",
+        "options":
+        [
+            "Initial velocity = Escape velocity",
+            "Initial velocity > Escape velocity",
+            "Escape velocity > Initial velocity",
+            "None of these"
+        ],
+        "correctAns": "Initial velocity > Escape velocity"
+    },
+    {
+        "QorL":"Q",
+        "question":"The space shuttle used in satellite launch vehicle was developed by .................",
+        "options":
+        [
+            "China",
+            "India",
+            "Russia",
+            "USA"
+        ],
+        "correctAns": "USA"
+    },
+    {
+        "QorL":"Q",
+        "question":"The international space station and hubble telescope revolves in ........",
+        "options":
+        [
+            "Low earth orbit",
+            "High earth orbit",
+            "Medium earth orbit",
+            "All of these"
+        ],
+        "correctAns": "Low earth orbit"
+    },
+    {
+        "QorL":"Q",
+        "question":"In between the earth and satellite ",
+        "options":
+        [
+            "Centripetal force > Gravitational force",
+            "Centripetal force < Gravitational force",
+            "Centripetal force = gravitational force",
+            "None of these"
+        ],
+        "correctAns": "Centripetal force = gravitational force"
+    },
+    {
+        "QorL":"Q",
+        "question":"During war, it is possible to get information about the actions of the enemy through aerial surveillance with the help of .......",
+        "options":
+        [
+            "Satellite",
+            "Instrument",
+            "Orbit",
+            "None of these"
+        ],
+        "correctAns": "Satellite"
+    },
+    {
+        "QorL":"Q",
+        "question":"The shortest time taken by a spacecraft to reach the moon is .............",
+        "options":
+        [
+            "7 Hours",
+            "9 hours",
+            "10 hours",
+            "8 hours 36 min"
+        ],
+        "correctAns": "8 hours 36 min"
+    },
+    {
+        "QorL":"Q",
+        "question":"................ stage imparts a specific velocity to the vehicle and takes it to the certain height.",
+        "options":
+        [
+            "First",
+            "Second",
+            "Third",
+            "Fourth"
+        ],
+        "correctAns": "First"
+    },
+    {
+        "QorL":"Q",
+        "question":"Light takes ........... to reach from moon to earth",
+        "options":
+        [
+            "10 sec",
+            "1 hour",
+            "1 sec",
+            "None of these"
+        ],
+        "correctAns": "1 sec"
+    },
+    {
+        "QorL":"Q",
+        "question":"The natural calamities like flood and earthquake are detected using ............",
+        "options":
+        [
+            "Earth observation satellite",
+            "Military satellite",
+            "Navigational satellite",
+            "Weather satellite"
+        ],
+        "correctAns": "Earth observation satellite"
+    },
+    {
+        "QorL":"Q",
+        "question":"The launching of india's first satellite "Aryabhatta into the space was the result of efforts of ............",
+        "options":
+        [
+            "Rakesh sharma",
+            "Kalpana Chawla",
+            "Vikram sarabai",
+            "Sunita williams"
+        ],
+        "correctAns": "Vikram sarabai"
+    },
+    {
+        "QorL":"Q",
+        "question":"Who became the first human to step on moon?",
+        "options":
+        [
+            "Neil Armstrong",
+            "vikram sarabai",
+            "Yuri gagarin",
+            "Rakesh sharma"
+        ],
+        "correctAns": "Neil Armstrong"
+    },
+    {
+        "QorL":"Q",
+        "question":"The spacecraft .................. made by ISRO using minimum expenses was launched in november 2013",
+        "options":
+        [
+            "Aryabhatta",
+            "Mangalyan",
+            "EDUSAT",
+            "IRS"
+        ],
+        "correctAns": "Mangalyan"
+    },
+    {
+        "QorL":"Q",
+        "question":"Sunita williams created a record by staying for ........... days in space",
+        "options":
+        [
+            "200",
+            "192",
+            "1000",
+            "365"
+        ],
+        "correctAns": "192"
+    }        
+]
