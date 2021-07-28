@@ -1,0 +1,207 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"Empirical method allows __________ that remains True irrespective of Time & Space",
+        "options":
+        [
+            "Formulating Evidences",
+            "Formulating Laws ",
+            "Formulating Logics",
+            "None of the Above"
+        ],
+        "correctAns": "Formulating Laws "
+    },
+    {
+        "QorL":"Q",
+        "question":"Which among the following Methods of Discipline are Useful?",
+        "options":
+        [
+            "Archival Science",
+            "Archeology",
+            "Manuscriptology",
+            "All of the Above"
+        ],
+        "correctAns": "All of the Above"
+    },
+    {
+        "QorL":"Q",
+        "question":"Who wrote the Book Archaeology of Knowledge ?",
+        "options":
+        [
+            "karl marx",
+            "Voltaire",
+            "Michel Foucault",
+            "Lucien Febvre"
+        ],
+        "correctAns": "Michel Foucault"
+    },
+    {
+        "QorL":"Q",
+        "question":"The earliest inscription in the world is displayed at Louvre museum in ...",
+        "options":
+        [
+            "France",
+            "Germany",
+            "Portugal",
+            "England"
+        ],
+        "correctAns": "France"
+    },
+    {
+        "QorL":"Q",
+        "question":"A scholar who writes critical historical narratives is knows as ....",
+        "options":
+        [
+            "an archaeologist",
+            "a social scientist",
+            "a historian",
+            "a language expert"
+        ],
+        "correctAns": "a historian"
+    },
+    {
+        "QorL":"Q",
+        "question":"It may be said that ............ was the founder of modern historiography.",
+        "options":
+        [
+            "karl marx",
+            "Voltaire",
+            "Rene Descartes",
+            "Leopold Ranke"
+        ],
+        "correctAns": "Voltaire"
+    },
+    {
+        "QorL":"Q",
+        "question":"Historiography of the 19th century was greatly  influenced by the thoughts of ____",
+        "options":
+        [
+            "Voltaire",
+            "Georg Hegel",
+            "Leopold von Rank'e",
+            "Karl Marx"
+        ],
+        "correctAns": "Leopold von Rank'e"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which University for the first time has Independent Department of History ",
+        "options":
+        [
+            "Gottingen",
+            "Oxford",
+            "Cambridge",
+            "None of the Above"
+        ],
+        "correctAns": "Gottingen"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which Historian had used the term 'History' for first time for his book, 'The  Histories' ",
+        "options":
+        [
+            "Michel Foucault",
+            "Herodotus",
+            "Georg Hegel ",
+            "Leopold Ranke"
+        ],
+        "correctAns": "Herodotus"
+    },
+    {
+        "QorL":"Q",
+        "question":"The tradition  of modern historiograpy. has its roots in the writings of ....",
+        "options":
+        [
+            "Roman",
+            "German",
+            "French",
+            "Greek"
+        ],
+        "correctAns": "Greek"
+    },
+    {
+        "QorL":"Q",
+        "question":"A new school of historiography arose in France known as .... school ",
+        "options":
+        [
+            "Communist",
+            "Annales",
+            "Nationalism",
+            "Translation"
+        ],
+        "correctAns": "Annales"
+    },
+    {
+        "QorL":"Q",
+        "question":"After 1990, .....  were considered as an independent social class.",
+        "options":
+        [
+            "men",
+            "farmers",
+            "labourers",
+            "Women"
+        ],
+        "correctAns": "Women"
+    },
+    {
+        "QorL":"Q",
+        "question":"According to .... historical realities should be presented in a logical manner",
+        "options":
+        [
+            "Herodotus",
+            "Georg Hegel",
+            "Simone de Beauvoir ",
+            "Voltaire"
+        ],
+        "correctAns": "Georg Hegel"
+    },
+    {
+        "QorL":"Q",
+        "question":"............. considered subjects like psychological disorders, science of medicine, for historical analysis.",
+        "options":
+        [
+            "Leopold Rank's",
+            "Karl Marx",
+            "Michel Foucault",
+            "Voltaire"
+        ],
+        "correctAns": "Michel Foucault"
+    },
+    {
+        "QorL":"Q",
+        "question":"The method of analysis which is based on opposites is known as .....",
+        "options":
+        [
+            "Polynomial",
+            "Dialectics",
+            "Numismatics",
+            "None"
+        ],
+        "correctAns": "Dialectics"
+    },
+    {
+        "QorL":"Q",
+        "question":"Who gave rise to the thought that understanding all aspects of Human Life is imp for History writing. ",
+        "options":
+        [
+            "Voltaire",
+            "Hegel",
+            "Michel Foucault",
+            "None"
+        ],
+        "correctAns": "Voltaire"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which book was written by Karl Marx & is most referred book all over the world?",
+        "options":
+        [
+            "Sappho",
+            "Secrets in every mansion",
+            "Das Kapital",
+            "None"
+        ],
+        "correctAns": "Das Kapital"
+    }        
+]
