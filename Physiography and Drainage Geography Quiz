@@ -1,0 +1,243 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"The largest triangle region in the world is…..",
+        "options":
+        [
+            "Plains",
+            "Gondavan",
+            "Sundarban",
+            "None of these"
+        ],
+        "correctAns": "Sundarban"
+    },
+    {
+        "QorL":"Q",
+        "question":"The Himalayas are …… mountains ",
+        "options":
+        [
+            "The mountain of the clock",
+            "Valley mountain",
+            "Straight mountain",
+            "None of these"
+        ],
+        "correctAns": "Valley mountain"
+    },
+    {
+        "QorL":"Q",
+        "question":"The southernmost mountain color in the Himalayas is …..",
+        "options":
+        [
+            "Aassam Himalaya",
+            "Kumau Himalaya",
+            "Kashmir Himalaya",
+            "Shivalik Mountain range"
+        ],
+        "correctAns": "Shivalik Mountain range"
+    },
+    {
+        "QorL":"Q",
+        "question":"What is the name of the triangular region of the rivers Ganga-Brahmaputra?",
+        "options":
+        [
+            "Sundarban",
+            "Gondvan",
+            "Plains",
+            "Plateau reign"
+        ],
+        "correctAns": "Sundarban "
+    },
+    {
+        "QorL":"Q",
+        "question":"There is a layer of desert in the ......... part of the North Indian Plain.",
+        "options":
+        [
+            "West",
+            "North",
+            "East",
+            "South"
+        ],
+        "correctAns": "East"
+    },
+    {
+        "QorL":"Q",
+        "question":"Andaman is the only active volcano in India on the ________island of Suha.",
+        "options":
+        [
+            "Lakshadvip",
+            "Baren",
+            "Nikobar",
+            "None of these"
+        ],
+        "correctAns": "Baren"
+    },
+    {
+        "QorL":"Q",
+        "question":"Lakshadweep islands are coral ........",
+        "options":
+        [
+            "Bracelets",
+            "Volcano",
+            "Greatest",
+            "Smallest"
+        ],
+        "correctAns": "Bracelets"
+    },
+    {
+        "QorL":"Q",
+        "question":"The southern Indian plateau extending towards the Indian Ocean is known as .....?",
+        "options":
+        [
+            "North Indian plains",
+            "Coastal region",
+            "Indian peninsula",
+            "Triangle region"
+        ],
+        "correctAns": "Indian peninsula"
+    },
+    {
+        "QorL":"Q",
+        "question":"India has about ……km of coastline.",
+        "options":
+        [
+            "7500k.m.",
+            "4500k.m.",
+            "5000k.m.",
+            "2000k.m."
+        ],
+        "correctAns": "7500k.m."
+    },
+    {
+        "QorL":"Q",
+        "question":"In which direction the height of Sahyadri Mountains / Western Ghats increases?",
+        "options":
+        [
+            "East",
+            "West",
+            "South",
+            "North"
+        ],
+        "correctAns": "South"
+    },
+    {
+        "QorL":"Q",
+        "question":"Mount Vindhya is the watershed of which river basin?",
+        "options":
+        [
+            "Sindhu and Ganga",
+            "Narmada and Ganga",
+            "Ganga and Brahmaputra",
+            "Narmada and Godavari"
+        ],
+        "correctAns": "Narmada and Ganga"
+    },
+    {
+        "QorL":"Q",
+        "question":"In which state is the extension of Deccan Plateau visible? ",
+        "options":
+        [
+            "Gujarat, Maharashtra, Tamilnadu",
+            "Rajasthan, Gujarat, Maharashtra",
+            "Madhya Pradesh, Maharashtra, Chhattisgarh",
+            "Maharashtra, Karnataka, Telangana"
+        ],
+        "correctAns": "Maharashtra, Karnataka, Telangana"
+    },
+    {
+        "QorL":"Q",
+        "question":"The islands of the Andaman group are ......... islands.",
+        "options":
+        [
+            "Bracelets",
+            "Volcano",
+            "Greatest",
+            "Smallest "
+        ],
+        "correctAns": "Volcano"
+    },
+    {
+        "QorL":"Q",
+        "question":"Like India, Brazil also has ....... ",
+        "options":
+        [
+            "High mountains",
+            "West Channel Rivers",
+            "Snow-capped mountains",
+            "Ancient Plateau"
+        ],
+        "correctAns": "Ancient Plateau"
+    },
+    {
+        "QorL":"Q",
+        "question":"In the southern part of the peninsula .......... acts as a watershed.",
+        "options":
+        [
+            "East Ghats",
+            "Arivali Mountain",
+            "Western Ghats",
+            "Satpuda Mountain"
+        ],
+        "correctAns": "Western Ghats"
+    },
+    {
+        "QorL":"Q",
+        "question":"Krishna river basins are in ......... areas of Godavari",
+        "options":
+        [
+            "South",
+            "North",
+            "East",
+            "West"
+        ],
+        "correctAns": "South"
+    },
+    {
+        "QorL":"Q",
+        "question":"Most of Brazil terrain is ……",
+        "options":
+        [
+            "Plain",
+            "Mountains ",
+            "Fragmental hills",
+            "Highland"
+        ],
+        "correctAns": "Highland"
+    },
+    {
+        "QorL":"Q",
+        "question":"Between the mouths of the amazon and tocantins rivers .... these are large coastal islands.",
+        "options":
+        [
+            "Casino",
+            "Bahama",
+            "Marajo",
+            "Jamaica "
+        ],
+        "correctAns": "Marajo"
+    },
+    {
+        "QorL":"Q",
+        "question":"At the foot of Aravali mountain is .........",
+        "options":
+        [
+            "Bundelkhand Plateau",
+            "Mevad Plateau",
+            "Malva Plateau",
+            "Deccan Plateau"
+        ],
+        "correctAns": "Mevad Plateau"
+    },
+    {
+        "QorL":"Q",
+        "question":"Most of Rajasthan is covered by….. Desert.",
+        "options":
+        [
+            "Atacama",
+            "Gobi",
+            "Sahara",
+            "Thar"
+        ],
+        "correctAns": "Thar"
+    }        
+]
