@@ -1,0 +1,243 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"The first English news paper bengal gadget was started by ..............",
+        "options":
+        [
+            "John Marshall",
+            "James Augustus Hiceky",
+            "Allen Hume",
+            "Balashatri  Jabhelkar"
+        ],
+        "correctAns": "James Augustus Hiceky"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which is the first Marathi news paper?",
+        "options":
+        [
+            "Kesari",
+            "Maratha",
+            "Darapan",
+            "Bengal Gazette"
+        ],
+        "correctAns": "Darapan"
+    },
+    {
+        "QorL":"Q",
+        "question":"Whose birthdate is celebrate in maharatra as the 'patrakar din'(Journalist day)",
+        "options":
+        [
+            "Lokmanya tilak",
+            "Goppal hari Deshmuk",
+            "Bhau Mahajan",
+            "Balshastri jambhekar"
+        ],
+        "correctAns": "Balshastri jambhekar"
+    },
+    {
+        "QorL":"Q",
+        "question":"Who wrote the letter “Shatpatre”?",
+        "options":
+        [
+            "Bhau Mahajan",
+            "Goppal hari Deshmuk",
+            "Balashastri jambhekar",
+            "Gopal Ganesh Agarkar"
+        ],
+        "correctAns": "Goppal hari Deshmuk"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which newspaper did a heavy award for widow marriage",
+        "options":
+        [
+            "Prabakar",
+            "Induprakash",
+            "Dnyanodya",
+            "Dinbandhu"
+        ],
+        "correctAns": "Induprakash"
+    },
+    {
+        "QorL":"Q",
+        "question":"In the twenty first century …… is a fourth column of democracy",
+        "options":
+        [
+            "Movie",
+            "Computer",
+            "Newspaper",
+            "Books"
+        ],
+        "correctAns": "Newspaper"
+    },
+    {
+        "QorL":"Q",
+        "question":"The first railway started in india, which news paper were printed under the 'Chakya Mhasoba; title",
+        "options":
+        [
+            "Kesari",
+            "Dnyanodya",
+            "Prabhakar",
+            "Darpan"
+        ],
+        "correctAns": "Dnyanodya"
+    },
+    {
+        "QorL":"Q",
+        "question":"Television is an …….. medium.",
+        "options":
+        [
+            "Visual",
+            "Audio",
+            "Audio-visual",
+            "Tactile"
+        ],
+        "correctAns": "Audio-visual"
+    },
+    {
+        "QorL":"Q",
+        "question":"Where was the first English news Buletin in India?",
+        "options":
+        [
+            "Delhi Radio center",
+            "Kolkatta Radio center",
+            "Mumbaui Radio Center",
+            "All India Radio center"
+        ],
+        "correctAns": "Mumbaui Radio Center"
+    },
+    {
+        "QorL":"Q",
+        "question":"Identify the wrong pair of the following.",
+        "options":
+        [
+            "Darpan – Balashastri Jambhelkar",
+            "Prabhakar – Achary.p.k.Antre",
+            "Dinbhandhu – Krushnarao Bhalerao",
+            "Kesari – Balgangadhar Tilak"
+        ],
+        "correctAns": "Prabhakar – Achary.p.k.Antre"
+    },
+    {
+        "QorL":"Q",
+        "question":"Who has inaugurated Delhi television center",
+        "options":
+        [
+            "Pandit Jawaharlal Nehru",
+            "Lokmanya Tilak",
+            "Dr. Babasaheb Ambedkar",
+            "Dr. Rajendra Prasad"
+        ],
+        "correctAns": "Dr. Rajendra Prasad"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which newspaper was printed in Asia and Europe map.",
+        "options":
+        [
+            "Prabhakar",
+            "Dnyanodya",
+            "Darpan",
+            "Dinbandhu"
+        ],
+        "correctAns": "Dnyanodya"
+    },
+    {
+        "QorL":"Q",
+        "question":"Who started Dinbandhu newspaper?",
+        "options":
+        [
+            "Mahatma Jyotirao phule",
+            "Krushnarao Bhalerao",
+            "Gopal Ganesh Aagarkar",
+            "Lokmanya Tilak"
+        ],
+        "correctAns": "Krushnarao Bhalerao"
+    },
+    {
+        "QorL":"Q",
+        "question":"Who started Kesari and Maratha news papers?",
+        "options":
+        [
+            "Gopal krushna Gokhale and lokmanya Tilak",
+            "Mahatma jotirao fule and Krushnarao Bhalerao",
+            "Gopal Ganesh Agarkar and Lokmanya Tilak",
+            "None of the above"
+        ],
+        "correctAns": "Gopal Ganesh Agarkar and Lokmanya Tilak"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which of the following is news paper of Bahujan Samaj?",
+        "options":
+        [
+            "Darpan",
+            "Dinbandhu",
+            "Induprakash",
+            "Dnyanodya"
+        ],
+        "correctAns": "Dinbandhu"
+    },
+    {
+        "QorL":"Q",
+        "question":"In what did the telegraph a means of conveying news with help of electricity come into being",
+        "options":
+        [
+            "1850",
+            "1854",
+            "1853",
+            "1852"
+        ],
+        "correctAns": "1852"
+    },
+    {
+        "QorL":"Q",
+        "question":"In which newspaper printed the history of the French Revolution",
+        "options":
+        [
+            "Induprakash",
+            "Dnyanodaya",
+            "Prabhakar",
+            "Kesari"
+        ],
+        "correctAns": "Prabhakar"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which is the first magazine in Marathi language?",
+        "options":
+        [
+            "Pragati",
+            "Digdarshan",
+            "Kesari",
+            "Maratha"
+        ],
+        "correctAns": "Digdarshan"
+    },
+    {
+        "QorL":"Q",
+        "question":"Who was the editor of pragati weekly?",
+        "options":
+        [
+            "Balashastri jambhelkar",
+            "Gopalkrushna Gokhale",
+            "Bhau Mahajan",
+            "Tryambak Shankar shejvalkar"
+        ],
+        "correctAns": "Tryambak Shankar shejvalkar"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which of the following is a Private radio service?",
+        "options":
+        [
+            "Aakashvani",
+            "All India Radio",
+            "Radio mirchi",
+            "None of the above"
+        ],
+        "correctAns": "Radio mirchi"
+    }        
+]
