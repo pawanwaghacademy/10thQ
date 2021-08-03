@@ -1,0 +1,243 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"Where is the India located on earth.",
+        "options":
+        [
+            "Northern Hemisphere",
+            "Southern Hemisphere",
+            "North-east Hemisphere",
+            "South east Hemisphere"
+        ],
+        "correctAns": "North-east Hemisphere"
+    },
+    {
+        "QorL":"Q",
+        "question":"By what name is the southernmost part of India Known??",
+        "options":
+        [
+            "Lakshadweep",
+            "Kanyakumari",
+            "Indira point",
+            "Port blair"
+        ],
+        "correctAns": "Indira point"
+    },
+    {
+        "QorL":"Q",
+        "question":"In which part of asia is India Located",
+        "options":
+        [
+            "East",
+            "West",
+            "North",
+            "South"
+        ],
+        "correctAns": "South"
+    },
+    {
+        "QorL":"Q",
+        "question":"What is the ranking of India in the world population",
+        "options":
+        [
+            "First",
+            "Second",
+            "Third",
+            "Four "
+        ],
+        "correctAns": "Second"
+    },
+    {
+        "QorL":"Q",
+        "question":"Brazil is in……. Hemisphere",
+        "options":
+        [
+            "South",
+            "North",
+            "South west",
+            "North west"
+        ],
+        "correctAns": "South"
+    },
+    {
+        "QorL":"Q",
+        "question":"The regimes of both Indian and Brazil are….. type",
+        "options":
+        [
+            "Military",
+            "Community",
+            "Republic",
+            "Presidential"
+        ],
+        "correctAns": "Republic "
+    },
+    {
+        "QorL":"Q",
+        "question":"Most of India’s land area is attached to …..country.",
+        "options":
+        [
+            "Bangladesh",
+            "Pakistan",
+            "china",
+            "Nepal"
+        ],
+        "correctAns": "Bangladesh"
+    },
+    {
+        "QorL":"Q",
+        "question":" …….is the capital of Brazil",
+        "options":
+        [
+            "Bahiya",
+            "Brazilla",
+            "Rondonia",
+            "Roramia"
+        ],
+        "correctAns": "Brazilla"
+    },
+    {
+        "QorL":"Q",
+        "question":"…… has passed through the central part of India",
+        "options":
+        [
+            "Capricorn",
+            "Equator",
+            "Cancer",
+            "None of these"
+        ],
+        "correctAns": "Cancer"
+    },
+    {
+        "QorL":"Q",
+        "question":"The linear expansion is Brazil …. than India",
+        "options":
+        [
+            "Low",
+            "Very low",
+            "Much",
+            "Too much"
+        ],
+        "correctAns": "Too much"
+    },
+    {
+        "QorL":"Q",
+        "question":"Brazil has got then shore of this Ocean",
+        "options":
+        [
+            "Pacific Ocean",
+            "Atlantic Ocean",
+            "Indian Ocean",
+            "Arebian sea"
+        ],
+        "correctAns": "Atlantic Ocean"
+    },
+    {
+        "QorL":"Q",
+        "question":"......... is the northwest direction of India",
+        "options":
+        [
+            "Nepal",
+            "Chaina",
+            "Bangladesh",
+            "pakistan"
+        ],
+        "correctAns": "pakistan"
+    },
+    {
+        "QorL":"Q",
+        "question":"What is the number of brazil in coffee production. ",
+        "options":
+        [
+            "first",
+            "fifth",
+            "fourth",
+            "second"
+        ],
+        "correctAns": "first "
+    },
+    {
+        "QorL":"Q",
+        "question":"Brazil is a country on which continent ?",
+        "options":
+        [
+            "Asia",
+            "Europe",
+            "North America",
+            "South America "
+        ],
+        "correctAns": "South America"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which sport is popular in brazil",
+        "options":
+        [
+            "cricket",
+            "hockey",
+            "football ",
+            "polo"
+        ],
+        "correctAns": "football"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which of the following is an axial extension of India.",
+        "options":
+        [
+            "68^0 7 east axis to 97^0 25 east axis",
+            "86^0 7 east axis to 97^0 25 east axis",
+            "8^0 4 north axis to 37^0 06 north axis",
+            "4^0 8 north axis to 73^0 06 north axis"
+        ],
+        "correctAns": "8^0 4 north axis to 37^0 06 north axis"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which of the following is a linear extension of india",
+        "options":
+        [
+            "68^0 7 east linear to 97^0 25 east linear",
+            "86^0 7 east linear to 97^0 25 east linear",
+            "8^0 4 north linear to 37^0 06 east linear",
+            "4^0 8 north linear to 73^0 06 east linear"
+        ],
+        "correctAns": "68^0 7 east linear to 97^0 25 east linear"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which of the following countries does not share border with india",
+        "options":
+        [
+            "Pakistan",
+            "Myanmar",
+            "Brazil",
+            "Bhutan"
+        ],
+        "correctAns": "Brazil"
+    },
+    {
+        "QorL":"Q",
+        "question":"In which year Brazil got independent",
+        "options":
+        [
+            "1822",
+            "1821",
+            "1823",
+            "1820"
+        ],
+        "correctAns": "1822"
+    },
+    {
+        "QorL":"Q",
+        "question":"Who ruled in Brazil",
+        "options":
+        [
+            "British",
+            "French",
+            "Portuguese",
+            "Dach"
+        ],
+        "correctAns": "Portuguese"
+    }        
+]
