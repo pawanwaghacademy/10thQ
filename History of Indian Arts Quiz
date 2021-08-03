@@ -1,0 +1,171 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"Kitab e Navras is about ____",
+        "options":
+        [
+            "Indian Literature",
+            "Indian Classical Music",
+            "Indian Architecture",
+            "Indian Dance Forms "
+        ],
+        "correctAns": "Indian Classical Music"
+    },
+    {
+        "QorL":"Q",
+        "question":"The Arts of Sculpting and Painting is a part of __",
+        "options":
+        [
+            "Performing Arts",
+            "Fork Arts",
+            "Visual Arts",
+            "Classical Arts"
+        ],
+        "correctAns": "Visual Arts"
+    },
+    {
+        "QorL":"Q",
+        "question":"An artistic creation with  a utilitarian  purpose is called as___",
+        "options":
+        [
+            "Useful Art",
+            "Applied Art",
+            "Performing Art",
+            "Developed Art"
+        ],
+        "correctAns": "Applied Art"
+    },
+    {
+        "QorL":"Q",
+        "question":"The Stupa at_______ in Indonesia is the largest stupa in the world ",
+        "options":
+        [
+            "Persia",
+            "Borobudur",
+            "borgao",
+            "Boribunder"
+        ],
+        "correctAns": "Borobudur"
+    },
+    {
+        "QorL":"Q",
+        "question":"The ________ saw the rise of Mathura School of Art",
+        "options":
+        [
+            "Gupta Period",
+            "Maurya Period",
+            "Rashtrakuta Period",
+            "Kushana Period"
+        ],
+        "correctAns": "Kushana Period"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which Style was influenced by the Rajput & European Styles of Paintings ? ",
+        "options":
+        [
+            "Chitrakathi Tradition",
+            "Warli Style",
+            "Maratha Style",
+            "None  of the above"
+        ],
+        "correctAns": "Maratha Style"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which art is expressed within an established frame of consistent rule?",
+        "options":
+        [
+            "Classical Art ",
+            "Visual Art",
+            "Folk Art",
+            "Performing Art"
+        ],
+        "correctAns": "Classical Art "
+    },
+    {
+        "QorL":"Q",
+        "question":"Jivya Somya Mashe popularised the _________style of Painting ",
+        "options":
+        [
+            "Chitrakathi",
+            "Maratha",
+            "Warli",
+            "None"
+        ],
+        "correctAns": "Warli"
+    },
+    {
+        "QorL":"Q",
+        "question":"The tradition of stone sculptures of larger size began in the ________ period ",
+        "options":
+        [
+            "British",
+            "Rajput",
+            "Mauryan",
+            "None "
+        ],
+        "correctAns": "Mauryan"
+    },
+    {
+        "QorL":"Q",
+        "question":"The two main branches of the Indian classical music are ____",
+        "options":
+        [
+            "Folk Music and Vocal",
+            "Dadraa and Thumki ",
+            "Bhajans and Qawwalis",
+            "Hindustani Music & Carnatic Music"
+        ],
+        "correctAns": "Hindustani Music & Carnatic Music"
+    },
+    {
+        "QorL":"Q",
+        "question":"____is lend of Nagara style of architecture of North India and Dravid Style",
+        "options":
+        [
+            "Mathura",
+            "Vesara",
+            "Ganshar",
+            "Bhoomija"
+        ],
+        "correctAns": "Vesara"
+    },
+    {
+        "QorL":"Q",
+        "question":"Gol Gumbaz Architecture structure is located in ____",
+        "options":
+        [
+            "delhi",
+            "Bijapur",
+            "agra",
+            "Mehrauli"
+        ],
+        "correctAns": "Bijapur"
+    },
+    {
+        "QorL":"Q",
+        "question":"The Maratha style of paintings began to develop in ______Century ",
+        "options":
+        [
+            "17th",
+            "16th",
+            "18th",
+            "None of These"
+        ],
+        "correctAns": "17th"
+    },
+    {
+        "QorL":"Q",
+        "question":"The two Main types of Art are ____",
+        "options":
+        [
+            "Drik kala & Lalit Kala",
+            "Folk Style & Classical Style",
+            "Tradition of Fork Art & Classical Art",
+            "Noneof these"
+        ],
+        "correctAns": "Drik kala & Lalit Kala"
+    }        
+]
