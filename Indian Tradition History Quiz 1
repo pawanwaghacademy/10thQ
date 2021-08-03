@@ -1,0 +1,243 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"The History of India was Written by_____ ",
+        "options":
+        [
+            "Sir William James ",
+            "Mountstuart Elphinstone",
+            "Kalhana",
+            "None of These"
+        ],
+        "correctAns": "Mountstuart Elphinstone"
+    },
+    {
+        "QorL":"Q",
+        "question":"The Symbols inscribed on the plate are indicative of___",
+        "options":
+        [
+            "Tree",
+            "Mountain",
+            "Structure",
+            "All of the Above"
+        ],
+        "correctAns": "All of the Above"
+    },
+    {
+        "QorL":"Q",
+        "question":"In Ancient India Memories of Great deeds of ancestors were preser. through",
+        "options":
+        [
+            "Events",
+            "Recitation",
+            "novels",
+            "None"
+        ],
+        "correctAns": "Recitation"
+    },
+    {
+        "QorL":"Q",
+        "question":"The earliest known written documents found in India is in the form of__",
+        "options":
+        [
+            "Books",
+            "Antiquity",
+            "Inscription",
+            "Texts"
+        ],
+        "correctAns": "Inscription"
+    },
+    {
+        "QorL":"Q",
+        "question":"Whose art of writting resembles the concept of modern historiography?",
+        "options":
+        [
+            "Kalhana",
+            "Banabhatta",
+            "Abul Fazl",
+            "None"
+        ],
+        "correctAns": "Kalhana"
+    },
+    {
+        "QorL":"Q",
+        "question":"Who are the Foreign travellers who wrote about Medieval India?",
+        "options":
+        [
+            "Ishwardas Nagar",
+            "Khafi Khaan",
+            "Abdul Razzaq",
+            "Niccolao Manucci"
+        ],
+        "correctAns": "Abdul Razzaq"
+    },
+    {
+        "QorL":"Q",
+        "question":"The first book written on Indian History by a British Hist. was written by ___",
+        "options":
+        [
+            "Colonel Todd",
+            "James Mill",
+            "John Marshall",
+            "Grant Duff"
+        ],
+        "correctAns": "James Mill"
+    },
+    {
+        "QorL":"Q",
+        "question":"Archaeological excavations started in the ___ Century",
+        "options":
+        [
+            "19th Century",
+            "20th Century",
+            "17th Century",
+            "18th Century"
+        ],
+        "correctAns": "20th Century"
+    },
+    {
+        "QorL":"Q",
+        "question":"Colonel Todd wrote History of ____ ",
+        "options":
+        [
+            "Rajasthan",
+            "Maharashtra",
+            "Madhya Pradesh",
+            "None"
+        ],
+        "correctAns": "Rajasthan"
+    },
+    {
+        "QorL":"Q",
+        "question":"Who Founded Bharat Itihas Samshodhak Mandal ?",
+        "options":
+        [
+            "Vishnushastri Chiplunkar",
+            "V.K. Rajwade",
+            "Vinayak Damodar",
+            "Govind Sakharam Sardesai"
+        ],
+        "correctAns": "V.K. Rajwade"
+    },
+    {
+        "QorL":"Q",
+        "question":"A Book on Life of Women was published in ___?",
+        "options":
+        [
+            "1889",
+            "1888",
+            "1900",
+            "1890"
+        ],
+        "correctAns": "1888"
+    },
+    {
+        "QorL":"Q",
+        "question":"Who wrote the Book which contains essays on the autobiographies of Dalit Womens ?",
+        "options":
+        [
+            "Meera Kosambai",
+            "Tarabai Shinde",
+            "Dr. Sharmila Rege",
+            "Pandit Ramabai"
+        ],
+        "correctAns": "Dr. Sharmila Rege"
+    },
+    {
+        "QorL":"Q",
+        "question":"Who translated the sanskrit text of Hitopadesh?",
+        "options":
+        [
+            "Friedrich Max Muller",
+            "James Mill",
+            "Sir John Marshall",
+            "Mountstuart Elphinstone"
+        ],
+        "correctAns": "Friedrich Max Muller"
+    },
+    {
+        "QorL":"Q",
+        "question":"In the 12th Centuary CE Kalhana Wrote a Book named ___",
+        "options":
+        [
+            "Stripurush Tulna",
+            "Rajtarangini",
+            "The High Caste Hindu Women",
+            "Marathi Riyasat"
+        ],
+        "correctAns": "Rajtarangini"
+    },
+    {
+        "QorL":"Q",
+        "question":"Who wrote the Book named Gulamgiri?",
+        "options":
+        [
+            "V D Savarkar",
+            "Mahatma Phule ",
+            "Govind Sakharam Sardesai",
+            "Justice Mahadev Govind Ranade"
+        ],
+        "correctAns": "Mahatma Phule"
+    },
+    {
+        "QorL":"Q",
+        "question":"Who wrote the Book named 'A History of Mahrattas'?",
+        "options":
+        [
+            "Grant Duff",
+            "Alexandar Cunningham",
+            "James Mill",
+            "None of the Above"
+        ],
+        "correctAns": "Grant Duff"
+    },
+    {
+        "QorL":"Q",
+        "question":"Who was adressed as Riyasatkar?",
+        "options":
+        [
+            "Antonio",
+            "Govind Sakharam Sardesai ",
+            "Ranjit Guha",
+            "None of the Above"
+        ],
+        "correctAns": "Govind Sakharam Sardesai "
+    },
+    {
+        "QorL":"Q",
+        "question":"We get inform. about the rule of Chatrapati Shivaji Maharaj from ___",
+        "options":
+        [
+            "Panipatachi Bakhar",
+            "Bhausahebanchi Bakhar",
+            "Holkaranchi Bakhar",
+            "Sabhasad Bakhar"
+        ],
+        "correctAns": "Sabhasad Bakhar"
+    },
+    {
+        "QorL":"Q",
+        "question":"The Writings of British Official on India displays strong influence of___ ",
+        "options":
+        [
+            "Capitalism ",
+            "Feminism",
+            "Mar",
+            "Colonalism"
+        ],
+        "correctAns": "Colonalism"
+    },
+    {
+        "QorL":"Q",
+        "question":"",
+        "options":
+        [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "correctAns": ""
+    }        
+]
