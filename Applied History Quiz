@@ -1,0 +1,159 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"________is considered as an origin of science & all branches of knowledge.",
+        "options":
+        [
+            "Science",
+            "Philosophy",
+            "Arts",
+            "None"
+        ],
+        "correctAns": "Philosophy"
+    },
+    {
+        "QorL":"Q",
+        "question":"What are the uses of Applied History",
+        "options":
+        [
+            "creates opportunity of employment ",
+            "helps to underst. the present with the help of history",
+            "Helps to conserve tangible heritage ",
+            "All of the Above"
+        ],
+        "correctAns": "All of the Above"
+    },
+    {
+        "QorL":"Q",
+        "question":"The National Film Archives of India was established in___ ",
+        "options":
+        [
+            "1965",
+            "1966",
+            "1964",
+            "None"
+        ],
+        "correctAns": "1964"
+    },
+    {
+        "QorL":"Q",
+        "question":"The earliest  Museum in the world was discovered in___",
+        "options":
+        [
+            "Delhi",
+            "Ur",
+            "Harappa",
+            "Kolkata"
+        ],
+        "correctAns": "Ur"
+    },
+    {
+        "QorL":"Q",
+        "question":"A place where old documents officials records & old films are preserved ______ ",
+        "options":
+        [
+            "Archives",
+            "Museums",
+            "Mass Media",
+            "None"
+        ],
+        "correctAns": "Archives"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which among the following is the Worlds Natural Heritage Sites in India?",
+        "options":
+        [
+            "Sun Temple at Konark ",
+            "Agra Fort",
+            "Western Ghats",
+            "None"
+        ],
+        "correctAns": "Agra Fort"
+    },
+    {
+        "QorL":"Q",
+        "question":"The Indian Museum at Kolkata was founded by ___",
+        "options":
+        [
+            "African Society",
+            "Asiatic Society ",
+            "Department of Archeology",
+            "None"
+        ],
+        "correctAns": "Asiatic Society"
+    },
+    {
+        "QorL":"Q",
+        "question":"The main office of National Archives of India is located in ____",
+        "options":
+        [
+            "mumbai",
+            "nashik",
+            "Pune",
+            "Dilhi"
+        ],
+        "correctAns": "Pune"
+    },
+    {
+        "QorL":"Q",
+        "question":"Keoladeo National Park is located in ____",
+        "options":
+        [
+            "Bengal",
+            "Rajasthan",
+            "Maharashtra",
+            "None"
+        ],
+        "correctAns": "Rajasthan"
+    },
+    {
+        "QorL":"Q",
+        "question":"Brihadeeshvara is located in ____",
+        "options":
+        [
+            "Chennai",
+            "Kerela",
+            "Tamil Nadu ",
+            "None"
+        ],
+        "correctAns": "Tamil Nadu"
+    },
+    {
+        "QorL":"Q",
+        "question":"The ___ in the District of Satara is included in the is a part of Western Ghats",
+        "options":
+        [
+            "Melghat",
+            "Balaghat Mountains",
+            "Masai Plateau",
+            "Kas Plateau"
+        ],
+        "correctAns": "Kas Plateau"
+    },
+    {
+        "QorL":"Q",
+        "question":" The ___ Museum in the at Kolkata was founded by the Asiatic Society in 1814 CE",
+        "options":
+        [
+            "Raja Shiv",
+            "Indian",
+            "National",
+            "Salarganj"
+        ],
+        "correctAns": "Indian"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which concept gives importance to the thought of Biodiversity?",
+        "options":
+        [
+            "Culture Heritage",
+            "Natural Heritage",
+            "None",
+            "Didnt Knew"
+        ],
+        "correctAns": "Natural Heritage"
+    }        
+]
