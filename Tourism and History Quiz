@@ -1,0 +1,243 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"Who was the designer of the 16th century world map and the rounding map of the earth?",
+        "options":
+        [
+            "Ibn Batuta",
+            "Gerardus Mercator",
+            "Marco Polo",
+            "Benjamin"
+        ],
+        "correctAns": "Gerardus Mercator"
+    },
+    {
+        "QorL":"Q",
+        "question":"Whose policy is not to travel twice on the same road?",
+        "options":
+        [
+            "Ibn Batuta ",
+            "Marco Polo",
+            "Gerardus Mercator",
+            "Benjamin"
+        ],
+        "correctAns": "Ibn Batuta"
+    },
+    {
+        "QorL":"Q",
+        "question":"Thomas Cook started an agency business selling ......",
+        "options":
+        [
+            "Handcrafts",
+            "Toys",
+            "Food items",
+            "Touriest ticket"
+        ],
+        "correctAns": "Touriest ticket"
+    },
+    {
+        "QorL":"Q",
+        "question":"Who had organized a train trip from lister to lakbaro?",
+        "options":
+        [
+            "Thomas cook",
+            "Gerardus mercator",
+            "Marco Polo",
+            "Benjamin"
+        ],
+        "correctAns": "Thomas cook"
+    },
+    {
+        "QorL":"Q",
+        "question":"Who wrote the travelogue 'My Journey'?",
+        "options":
+        [
+            "Mahatma Gandhi",
+            "Aacharya Vinoba Bhave",
+            "Vishnubhat godse",
+            "Gopal  nilkanth dandekar"
+        ],
+        "correctAns": "Vishnubhat godse"
+    },
+    {
+        "QorL":"Q",
+        "question":"In which state is the valley of flowers.",
+        "options":
+        [
+            "Jammu kashmir",
+            "Rajasthan",
+            "Haryana",
+            "Uttarakhand"
+        ],
+        "correctAns": "Uttarakhand"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which of the following places are included in the historical heritage sites?",
+        "options":
+        [
+            "kas pathar",
+            "ajintha leni",
+            "dharapuri leni",
+            "All of the above"
+        ],
+        "correctAns": "All of the above"
+    },
+    {
+        "QorL":"Q",
+        "question":"What is a heritage walk?",
+        "options":
+        [
+            "Going to see film festival convention exhibition etc",
+            "going to visit historical heritage sites",
+            "going to see sport matches",
+            "going to agri tourism"
+        ],
+        "correctAns": "going to visit historical heritage sites"
+    },
+    {
+        "QorL":"Q",
+        "question":" Maharashtra tourism development corporation was established in …… ",
+        "options":
+        [
+            "1970 AD",
+            "1972 AD",
+            "1974 AD",
+            "1975 AD"
+        ],
+        "correctAns": "1975 AD"
+    },
+    {
+        "QorL":"Q",
+        "question":"......  is known as the village of books.",
+        "options":
+        [
+            "pachgani",
+            "bhilar",
+            "mahabaleshvar",
+            "matheran"
+        ],
+        "correctAns": "bhilar"
+    },
+    {
+        "QorL":"Q",
+        "question":"Identify the wrong pair.",
+        "options":
+        [
+            "Matheran - Hillstation",
+            "Tadoba - Caves",
+            "Kolhapur - shrine",
+            "Ajanta - world heritage sites"
+        ],
+        "correctAns": "Tadoba - Caves"
+    },
+    {
+        "QorL":"Q",
+        "question":"Gopal Neelkarith Dandekar organizing …… yatra.",
+        "options":
+        [
+            "Countary tour",
+            "World tour",
+            "Fort tour",
+            "India tour"
+        ],
+        "correctAns": "Fort tour"
+    },
+    {
+        "QorL":"Q",
+        "question":"This traveler introduced the ……. asian continent especially China to Europe.",
+        "options":
+        [
+            "Ibn Batuta",
+            "Marco Polo",
+            "yuan sung ",
+            "Gerardus Mercator"
+        ],
+        "correctAns": "Marco Polo"
+    },
+    {
+        "QorL":"Q",
+        "question":"……. is the state with a rich heritage in terms of tourism?",
+        "options":
+        [
+            "Maharashtra",
+            "Gujrat",
+            "Kerela",
+            "Aadhra Pradesh"
+        ],
+        "correctAns": "Maharashtra"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which of the following is not hill station.",
+        "options":
+        [
+            "Matheran",
+            "Pachgani",
+            "Tadoba",
+            "Chikhldara"
+        ],
+        "correctAns": "Tadoba"
+    },
+    {
+        "QorL":"Q",
+        "question":"The heritage walk is organized in …… cities in Maharashtra.",
+        "options":
+        [
+            "Nashik Pune",
+            "Mumbai-Thane",
+            "Pune- Nagpur",
+            "Mumbai-Pune"
+        ],
+        "correctAns": "Mumbai-Pune"
+    },
+    {
+        "QorL":"Q",
+        "question":" Which traveler made the long journey to the lslamic world.",
+        "options":
+        [
+            "yuan sung",
+            "Ibn Batuta ",
+            "Gerardus Mercato",
+            "Marco Polo"
+        ],
+        "correctAns": "Ibn Batuta "
+    },
+    {
+        "QorL":"Q",
+        "question":"Tourism for film festivals conventions book exhibition, etc.",
+        "options":
+        [
+            "Historical tourism",
+            "International Tourism",
+            "Geographical tourism",
+            "Occasional tourism"
+        ],
+        "correctAns": "Occasional tourism"
+    },
+    {
+        "QorL":"Q",
+        "question":"……… is a important type of tourism all over the world.",
+        "options":
+        [
+            "Geographical tourism",
+            "Historical tourism",
+            "International Tourism",
+            "Agri Tourism"
+        ],
+        "correctAns": "Historical tourism"
+    },
+    {
+        "QorL":"Q",
+        "question":"……. type of tourism has been booming in recent times.",
+        "options":
+        [
+            "Sports Tourism",
+            "Historical tourism",
+            "Agri Tourism",
+            "International Tourism"
+        ],
+        "correctAns": "Agri Tourism"
+    }        
+]
