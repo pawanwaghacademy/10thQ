@@ -1,0 +1,226 @@
+{
+  "status":"1",
+  "message":"success",
+  "quiz": [
+    {
+      "QorL": "Q",
+      "question": "Who discovered the phenomenon called Gravitation",
+      "options": [
+        "Galileo",
+        "Dalton",
+        "Johannes Kepler",
+        "Sir Isaac Newton"
+      ],
+      "correctAns": "Sir Isaac Newton"
+    },
+    {
+      "QorL": "Q",
+      "question": "Which of the following involves Centripetal Force",
+      "options": [
+        "The Centre of Circular Motion",
+        "Object in Circular Motion",
+        "Object in Linear Motion",
+        "Perpendicular to Linear Motion"
+      ],
+      "correctAns": "The Centre of Circular Motion"
+    },
+    {
+      "QorL": "Q",
+      "question": "The Gravitational Force acts on which direction ?",
+      "options": [
+        "Fly off in a Horizontal direction",
+        "it's in vertically downward direction",
+        "is at an angle to the vertical direction",
+        "All of the above"
+      ],
+      "correctAns": "it's in vertically downward direction"
+    },
+    {
+      "QorL": "Q",
+      "question": "The Inverse Square Law of gravitation was formulated by",
+      "options": [
+        "Newton",
+        "Brahe",
+        "Cavendish",
+        "Kepler"
+      ],
+      "correctAns": "Newton"
+    },
+    {
+      "QorL": "Q",
+      "question": "The circular motion of planets around the sun is due to ………………",
+      "options": [
+        "Circular force",
+        "Centripetal Force",
+        "Linear force",
+        "Centrifugal force"
+      ],
+      "correctAns": "Centripetal Force"
+    },
+    {
+      "QorL": "Q",
+      "question": "The center of mass of any object having uniform density is at its ",
+      "options": [
+        "Orthocenter",
+        "Incenter",
+        "Centroid",
+        "Circumcenter"
+      ],
+      "correctAns": "Centroid"
+    },
+    {
+      "QorL": "Q",
+      "question": "The amount of matter present in the object is called ………………",
+      "options": [
+        "Mass",
+        "Substance",
+        "Weight",
+        "None of these"
+      ],
+      "correctAns": "Mass"
+    },
+    {
+      "QorL": "Q",
+      "question": "The acceleration due to gravity(g) acts along …...... direction",
+      "options": [
+        "Vertically downward",
+        "Towards the center of earth",
+        "Away from the center of earth",
+        "Vertically Upward"
+      ],
+      "correctAns": "Towards the center of earth"
+    },
+    {
+      "QorL": "Q",
+      "question": "The Unit of Force is ______________",
+      "options": [
+        "Newton",
+        "Kilogram",
+        "Joule",
+        "m/sec^2"
+      ],
+      "correctAns": "Newton"
+    },
+    {
+      "QorL": "Q",
+      "question": "The potential energy of an object of mass “m” and at a height “h” from the surface of the earth is ………………",
+      "options": [
+        "1/2 mv^2",
+        "Zero",
+        "mgh",
+        "None of These"
+      ],
+      "correctAns": "mgh"
+    },
+    {
+      "QorL": "Q",
+      "question": "The energy stored in an object, because of its position is called ……………………",
+      "options": [
+        "Sun's Energy",
+        "Potential Energy",
+        "Interior Energy",
+        "Kinetic Energy"
+      ],
+      "correctAns": "Potential Energy"
+    },
+    {
+      "QorL": "Q",
+      "question": "The earth gravitational force (g) varies with ………………",
+      "options": [
+        "Change with height",
+        "Change with Depth",
+        "Change along the Surface of earth",
+        "All of the Above"
+      ],
+      "correctAns": "All of the Above"
+    },
+    {
+      "QorL": "Q",
+      "question": "The earth gravitational force on communication satellite is ………………",
+      "options": [
+        "9.7 m/sec^2",
+        "9.8 m/sec^2",
+        "0.2 m/sec^2",
+        "8.7 m/sec^2"
+      ],
+      "correctAns": "0.2 m/sec^2"
+    },
+    {
+      "QorL": "Q",
+      "question": "The orbit of a planet is an ellipse with the sun at one of the foci is  according to ",
+      "options": [
+        "Kepler’s 1st Law",
+        "Newton’s 2nd Law",
+        "Kepler’s 2st Law",
+        "Newton’s 1nd Law"
+      ],
+      "correctAns": "Kepler’s 1st Law"
+    },
+    {
+      "QorL": "Q",
+      "question": "Which law states that “every object attracts every other object”? ",
+      "options": [
+        "Brahe's Law of Gravitation",
+        "Kepler's Law of Gravitation",
+        "Newtons Law of Gravitation",
+        "Cavendish's Law of Gravitaiton"
+      ],
+      "correctAns": "Newtons Law of Gravitation"
+    },
+    {
+      "QorL": "Q",
+      "question": "The point at which, the total mass of the object concentrate is  …………………",
+      "options": [
+        "Center of mass",
+        "Uniform density",
+        "Geometrical center",
+        "Center of gravity"
+      ],
+      "correctAns": "Center of mass"
+    },
+    {
+      "QorL": "Q",
+      "question": "The level of water in the sea changes because of the …………",
+      "options": [
+        "Gravitational force exerted by both earth and moon",
+        "Gravitational force exerted by moon",
+        "Gravitational force exerted by earth",
+        "None of the above"
+      ],
+      "correctAns": "Gravitational force exerted by moon"
+    },
+    {
+      "QorL": "Q",
+      "question": "Which among the following is Vector quantity ? ",
+      "options": [
+        "Force",
+        "Work",
+        "Acceleration",
+        "All"
+      ],
+      "correctAns": "All"
+    },
+    {
+      "QorL": "Q",
+      "question": "The radius of earth is minimum at ",
+      "options": [
+        "Poles",
+        "Equator",
+        "None of the above",
+        "Between equator and poles"
+      ],
+      "correctAns": "Poles"
+    },
+    {
+      "QorL": "Q",
+      "question": "The effect of Doubling the distance between the object on G value ",
+      "options": [
+        "G becomes half",
+        "G decreases by a factor of 4",
+        "G is Doubled",
+        "No Change in G Value"
+      ],
+      "correctAns": "G decreases by a factor of 4"
+    }
+  ]
+}
